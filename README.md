@@ -102,3 +102,4 @@ The automation is configured around Indian Standard Time (IST):
 *   **Short #1:** Uploads daily at **10:00 AM IST** ➔ Schedules to publish at **12:00 PM IST (Noon)**.
 *   **Short #2:** Uploads daily at **05:00 PM IST** ➔ Schedules to publish at **07:00 PM IST (Evening)**.
 *   **Long-form:** Uploads every Monday at **11:30 AM IST** ➔ Schedules to publish at **02:00 PM IST**.
+ 
