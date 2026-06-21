@@ -36,7 +36,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           FORMAT="${{ inputs.format }}"
-          WORKFLOW="generate_${FORMAT}.yml"
+          WORKFLOW="generate_${FORMAT}_ch4.yml"
           echo "Looking for latest successful $WORKFLOW run..."
           RUN_ID=$(gh run list \
             --repo "$GITHUB_REPOSITORY" \
