@@ -1,8 +1,9 @@
 {
   "topics": [
     "Hydraulic power: How fluid pressure amplifies force",
-    "How the Citicorp Center's design flaw was secretly fixed at night for months"
+    "How the Citicorp Center's design flaw was secretly fixed at night for months",
+    "How a subtle fatigue crack in train axles led to a silent industry-wide material specification change"
   ],
-  "subcluster_idx": 2,
-  "call_count": 2
+  "subcluster_idx": 3,
+  "call_count": 3
 }
