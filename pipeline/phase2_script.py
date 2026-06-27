@@ -1,7 +1,7 @@
 import json
 import datetime
 import random
-from pipeline.config import HOOK_PATTERNS
+from pipeline.config import HOOK_PATTERNS, BEACONS_LINK
 from pipeline.gemini import GeminiClient, _robust_json_loads
 
 def get_next_thursday_230pm_est_utc():
@@ -220,5 +220,22 @@ Return ONLY a raw JSON object for this segment with the updated "narration" and 
             except Exception as e:
                 print(f"Failed to regenerate segment {seg['id']} ({e}). Keeping original for Judge AI review.")
                 seg["verified"] = True
+
+    
+    # ── Ensure Beacons Link in Description ────────────────────────────────────
+    from pipeline.config import BEACONS_LINK
+    if "description" in script:
+        desc = script["description"]
+        if "[link]" in desc:
+            desc = desc.replace("[link]", BEACONS_LINK)
+        if BEACONS_LINK not in desc:
+            desc += f"\n\n📲 Follow our socials & links: {BEACONS_LINK}"
+        script["description"] = desc
+
+    # ── Ensure Vocal Tone Variety ─────────────────────────────────────────────
+    if "vocal_tone" not in script or not script["vocal_tone"]:
+        import random as _rnd
+        vocal_tones = ["dramatic_whisper", "suspenseful_mystery", "energetic_storytelling", "deep_curiosity"]
+        script["vocal_tone"] = _rnd.choice(vocal_tones)
 
     return script
