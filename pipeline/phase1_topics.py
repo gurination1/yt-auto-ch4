@@ -24,19 +24,27 @@ def select_topic(format_type: str) -> dict:
 
     # ── 2. Determine subcluster + format rotation ────────────────────────────
     current_subcluster = ENGINEERING_SUBCLUSTERS[subcluster_idx % len(ENGINEERING_SUBCLUSTERS)]
-    is_trending = (call_count % 5 == 0)
+    is_trending = (call_count % 3 != 0)   # 2 out of 3 calls = trending topic
 
-    topic_instruction = (
-        f"Generate topics about how structures, machines, and infrastructure work, "
-        f"and engineering failures or near-misses analyzed through their mechanism and fix. "
-        f"Focus area: {current_subcluster}. "
-        f"Default to failures with no human casualties (structural collapse without loss of life, "
-        f"near-misses, design flaws caught before failure). "
-        f"Only generate a casualty-involved case if explicitly flagged as part of the Yellow-tier rotation, "
-        f"and frame it around the resulting safety standard or fix, not the event itself. "
-        f"Avoid politically sensitive incidents like Chernobyl. "
-        f"Rotate across six formats: mechanism deep-dive, failure case study, near-miss, ranked list, then-vs-now, ancient-vs-modern."
-    )
+    if is_trending:
+        topic_instruction = (
+            f"Generate topics about recently TRENDING engineering achievements, breakthroughs, newly uncovered details "
+            f"about recent infrastructure saves/failures in the news, or engineering topics currently trending in science and tech news this week. "
+            f"Focus area: {current_subcluster}. "
+            f"Each topic must be a documented, verified fact. Frame as a fascinating topic that is currently trending or in the news."
+        )
+    else:
+        topic_instruction = (
+            f"Generate topics about how structures, machines, and infrastructure work, "
+            f"and engineering failures or near-misses analyzed through their mechanism and fix. "
+            f"Focus area: {current_subcluster}. "
+            f"Default to failures with no human casualties (structural collapse without loss of life, "
+            f"near-misses, design flaws caught before failure). "
+            f"Only generate a casualty-involved case if explicitly flagged as part of the Yellow-tier rotation, "
+            f"and frame it around the resulting safety standard or fix, not the event itself. "
+            f"Avoid politically sensitive incidents like Chernobyl. "
+            f"Rotate across six formats: mechanism deep-dive, failure case study, near-miss, ranked list, then-vs-now, ancient-vs-modern."
+        )
 
     # ── 3. Build Gemini prompt ───────────────────────────────────────────────
     prompt = f"""{topic_instruction}
@@ -45,6 +53,12 @@ Sub-cluster focus for this batch: {current_subcluster}
 
 CRITICAL: Do NOT suggest any topic similar to these recently published topics:
 {json.dumps(recent_topics, indent=2)}
+
+SAFETY & COMPLIANCE CONSTRAINTS (MANDATORY):
+- The topics MUST be 100% advertiser-friendly, family-friendly, and compliant with YouTube/Meta community guidelines.
+- Strictly AVOID: tragic accidents with high loss of life, graphic disaster details, Chernobyl, or politically sensitive incidents.
+- Default to failures/near-misses with zero casualties or frame them strictly around engineering fixes and lessons learned.
+- Focus on how structures and mechanisms work, engineering solutions, and structural design fixes.
 
 AVOID: biology, pet animals, modern politics, tragedy-centered framing, disaster clickbait.
 FOCUS: how things work, engineering mechanisms, structural analysis, design fixes, infrastructure.
