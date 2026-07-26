@@ -63,8 +63,9 @@
     "How a new 3D camera tracks invisible particles with light-producing material and AI.",
     "How OpenAI patched a critical AI agent flaw that allowed attackers to forge internal access.",
     "How a critical communication antenna tower experienced unexpected material degradation, leading to a quiet, preemptive component replacement program across similar installations.",
-    "How rigid urban infrastructure designs, failing to anticipate evolving needs, lead to costly retrofits and functional obsolescence."
+    "How rigid urban infrastructure designs, failing to anticipate evolving needs, lead to costly retrofits and functional obsolescence.",
+    "The unprecedented modernization of power grids to meet escalating energy demands from AI and EVs."
   ],
-  "subcluster_idx": 4,
-  "call_count": 64
+  "subcluster_idx": 5,
+  "call_count": 65
 }
