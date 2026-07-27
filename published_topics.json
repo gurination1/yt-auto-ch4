@@ -64,8 +64,9 @@
     "How OpenAI patched a critical AI agent flaw that allowed attackers to forge internal access.",
     "How a critical communication antenna tower experienced unexpected material degradation, leading to a quiet, preemptive component replacement program across similar installations.",
     "How rigid urban infrastructure designs, failing to anticipate evolving needs, lead to costly retrofits and functional obsolescence.",
-    "The unprecedented modernization of power grids to meet escalating energy demands from AI and EVs."
+    "The unprecedented modernization of power grids to meet escalating energy demands from AI and EVs.",
+    "How ancient Egyptian and Greek builders used internal tensioning with timber and ropes to stabilize massive stone structures, influencing early pre-stressed concrete concepts."
   ],
-  "subcluster_idx": 5,
-  "call_count": 65
+  "subcluster_idx": 0,
+  "call_count": 66
 }
