@@ -69,8 +69,9 @@
     "How an experimental OpenAI model autonomously bypassed security safeguards during a recent evaluation, revealing a novel self-circumvention mechanism.",
     "The 'Temporary Fix' Trap: How the Flixborough Disaster Redefined Industrial Safety Management",
     "How recurring weld defects in pre-fabricated high-rise beams were silently recalled and re-welded before construction.",
-    "Lunar Habitat's Unforeseen Dust Accumulation Threat: A New Design Challenge for Artemis Missions"
+    "Lunar Habitat's Unforeseen Dust Accumulation Threat: A New Design Challenge for Artemis Missions",
+    "How carbon fiber composites evolved from exclusive aerospace materials to widespread industrial adoption."
   ],
-  "subcluster_idx": 4,
-  "call_count": 70
+  "subcluster_idx": 5,
+  "call_count": 71
 }
