@@ -1,0 +1,77 @@
+{
+  "0": {
+    "cooldown_until": 1785765044.0723116,
+    "failures": 0,
+    "status": "active"
+  },
+  "1": {
+    "cooldown_until": 1785765044.2698822,
+    "failures": 0,
+    "status": "active"
+  },
+  "2": {
+    "cooldown_until": 1785830400.0,
+    "failures": 4,
+    "status": "daily_exhausted"
+  },
+  "3": {
+    "cooldown_until": 1785765228.3919291,
+    "failures": 0,
+    "status": "active"
+  },
+  "4": {
+    "cooldown_until": 1785765228.5185106,
+    "failures": 0,
+    "status": "active"
+  },
+  "5": {
+    "cooldown_until": 1785765228.6869094,
+    "failures": 0,
+    "status": "active"
+  },
+  "6": {
+    "cooldown_until": 1785765228.8264658,
+    "failures": 0,
+    "status": "active"
+  },
+  "7": {
+    "cooldown_until": 2101124623.1557522,
+    "failures": 4,
+    "status": "disabled"
+  },
+  "8": {
+    "cooldown_until": 1785765228.9676452,
+    "failures": 0,
+    "status": "active"
+  },
+  "9": {
+    "cooldown_until": 1785765229.096224,
+    "failures": 0,
+    "status": "active"
+  },
+  "10": {
+    "cooldown_until": 1785765229.2249982,
+    "failures": 0,
+    "status": "active"
+  },
+  "11": {
+    "cooldown_until": 1785765229.341703,
+    "failures": 0,
+    "status": "active"
+  },
+  "12": {
+    "cooldown_until": 1785765229.4950416,
+    "failures": 0,
+    "status": "active"
+  },
+  "13": {
+    "cooldown_until": 2101124833.4314294,
+    "failures": 4,
+    "status": "disabled"
+  },
+  "14": {
+    "cooldown_until": 0.0,
+    "failures": 0,
+    "status": "active"
+  }
+}
