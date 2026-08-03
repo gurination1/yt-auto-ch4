@@ -69,13 +69,14 @@ THUMBNAIL_LAYOUTS = [
 ]
 
 ENGINEERING_SUBCLUSTERS = [
-    "mechanism deep-dive: how structures and machines actually work",
-    "failure case study: engineering failures analyzed through mechanism and fix",
-    "near-miss format: disasters that didn't happen and the fix nobody noticed",
-    "ranked list: design flaws and engineering lessons still studied",
-    "then-vs-now comparison: how engineering solutions evolved",
-    "ancient-vs-modern comparison: old engineering tricks modern builders revive",
+    "Deep Sea Marine Biology and Bioluminescent Creatures",
+    "Apex Predators, Wildlife Survival, and Hunting Tactics",
+    "Extreme Rainforests, Plant Intelligence, and Carnivorous Flora",
+    "Microscopic Organisms, Parasites, and Symbiosis",
+    "Avian Wonders, Migratory Feats, and Raptor Mastery"
 ]
+TOPIC_SUBCLUSTERS = ENGINEERING_SUBCLUSTERS
+SCIENCE_SUBCLUSTERS = ENGINEERING_SUBCLUSTERS
 
 YT_CATEGORY_EDUCATION = "27"
 YT_CATEGORY_SCIENCE   = "28"
