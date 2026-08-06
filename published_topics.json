@@ -79,8 +79,9 @@
     "Over half of Earth's migratory bird species are in decline, facing threats like habitat loss and pollution, yet targeted conservation efforts show promise for recovery.",
     "How deep-sea proteins avoid collapse under extreme pressure using piezolyte molecules like TMAO to stabilize their structure.",
     "The dramatic impact of AI-powered camera traps and machine learning algorithms in accelerating wildlife tracking, enabling near real-time monitoring and significantly shortening data analysis from months to mere days for conservation efforts.",
-    "A new chemical process transforms plastic waste into high-purity hydrogen fuel while simultaneously trapping carbon emissions, offering a dual solution for pollution and clean energy production."
+    "A new chemical process transforms plastic waste into high-purity hydrogen fuel while simultaneously trapping carbon emissions, offering a dual solution for pollution and clean energy production.",
+    "How genetic code degeneracy isn't truly silent due to **codon usage bias** and its effect on ribosomal pausing and protein folding."
   ],
-  "subcluster_idx": 3,
-  "call_count": 80
+  "subcluster_idx": 4,
+  "call_count": 81
 }
