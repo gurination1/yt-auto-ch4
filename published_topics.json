@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Hydraulic power: How fluid pressure amplifies force",
     "How the Citicorp Center's design flaw was secretly fixed at night for months",
     "How a subtle fatigue crack in train axles led to a silent industry-wide material specification change",
     "5 critical software design flaws that cost millions, not lives",
@@ -89,8 +88,9 @@
     "How Quantum Error Correction doesn't 'fix' errors but rather isolates them using entangled 'ancilla' qubits and 'syndrome measurements' to protect computations from environmental noise.",
     "Solar Wind Cosmic Shields Science #1786093165",
     "How dark energy expands the observable universe cosmos #51",
-    "How dark energy expands the observable universe cosmos #423"
+    "How dark energy expands the observable universe cosmos #423",
+    "How dark energy expands the observable universe cosmos #455"
   ],
-  "subcluster_idx": 3,
-  "call_count": 90
+  "subcluster_idx": 4,
+  "call_count": 91
 }
