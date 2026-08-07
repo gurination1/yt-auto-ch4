@@ -88,8 +88,9 @@
     "Neutron Star Density Mysteries Astrophysics #1786077565",
     "How Quantum Error Correction doesn't 'fix' errors but rather isolates them using entangled 'ancilla' qubits and 'syndrome measurements' to protect computations from environmental noise.",
     "Solar Wind Cosmic Shields Science #1786093165",
-    "How dark energy expands the observable universe cosmos #51"
+    "How dark energy expands the observable universe cosmos #51",
+    "How dark energy expands the observable universe cosmos #423"
   ],
-  "subcluster_idx": 2,
-  "call_count": 89
+  "subcluster_idx": 3,
+  "call_count": 90
 }
