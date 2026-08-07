@@ -85,8 +85,9 @@
     "SpaceX Rocket's Unplanned Moon Impact: A Lunar Crater's Unexpected Origin",
     "How dark energy expands the observable universe cosmos #155",
     "Quantum Teleportation Breakthrough Physics #1786075956",
-    "Neutron Star Density Mysteries Astrophysics #1786077565"
+    "Neutron Star Density Mysteries Astrophysics #1786077565",
+    "How Quantum Error Correction doesn't 'fix' errors but rather isolates them using entangled 'ancilla' qubits and 'syndrome measurements' to protect computations from environmental noise."
   ],
-  "subcluster_idx": 4,
-  "call_count": 86
+  "subcluster_idx": 0,
+  "call_count": 87
 }
