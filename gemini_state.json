@@ -1,12 +1,12 @@
 {
   "0": {
-    "cooldown_until": 1786264517.0350037,
+    "cooldown_until": 1786275735.589002,
     "failures": 1,
     "status": "active"
   },
   "1": {
-    "cooldown_until": 0.0,
-    "failures": 0,
+    "cooldown_until": 1786275760.5289364,
+    "failures": 1,
     "status": "active"
   },
   "2": {
@@ -15,23 +15,23 @@
     "status": "daily_exhausted"
   },
   "3": {
-    "cooldown_until": 0.0,
-    "failures": 0,
-    "status": "active"
+    "cooldown_until": 1786348800.0,
+    "failures": 2,
+    "status": "daily_exhausted"
   },
   "4": {
-    "cooldown_until": 1786265117.7695942,
+    "cooldown_until": 1786275901.3154314,
     "failures": 1,
     "status": "active"
   },
   "5": {
-    "cooldown_until": 0.0,
-    "failures": 0,
-    "status": "active"
+    "cooldown_until": 1786348800.0,
+    "failures": 2,
+    "status": "daily_exhausted"
   },
   "6": {
-    "cooldown_until": 0.0,
-    "failures": 0,
+    "cooldown_until": 1786275901.4982176,
+    "failures": 1,
     "status": "active"
   },
   "7": {
@@ -40,18 +40,18 @@
     "status": "disabled"
   },
   "8": {
-    "cooldown_until": 0.0,
-    "failures": 0,
-    "status": "active"
+    "cooldown_until": 1786348800.0,
+    "failures": 2,
+    "status": "daily_exhausted"
   },
   "9": {
-    "cooldown_until": 0.0,
-    "failures": 0,
+    "cooldown_until": 1786276690.7011683,
+    "failures": 1,
     "status": "active"
   },
   "10": {
-    "cooldown_until": 0.0,
-    "failures": 0,
+    "cooldown_until": 1786275759.4789567,
+    "failures": 1,
     "status": "active"
   },
   "11": {
@@ -60,9 +60,9 @@
     "status": "active"
   },
   "12": {
-    "cooldown_until": 0.0,
-    "failures": 0,
-    "status": "active"
+    "cooldown_until": 1786348800.0,
+    "failures": 2,
+    "status": "daily_exhausted"
   },
   "13": {
     "cooldown_until": 2101124833.4314294,
@@ -70,8 +70,8 @@
     "status": "disabled"
   },
   "14": {
-    "cooldown_until": 0.0,
-    "failures": 0,
+    "cooldown_until": 1786275760.2043095,
+    "failures": 1,
     "status": "active"
   }
 }
