@@ -87,13 +87,15 @@ THUMBNAIL_LAYOUTS = [
     "split_left",         # dark left panel with text, right panel shows frame
 ]
 
-# topic sub-cluster rotation for Science and Technology channel
+# topic sub-cluster rotation for Mystery and Unexplained Anomalies channel
 SCIENCE_SUBCLUSTERS = [
-    "space exploration and astrophysics",
-    "physics and quantum mechanics mysteries",
-    "advanced chemistry and materials science",
-    "biotechnology and genetic engineering",
-    "future technology and computing breakthroughs",
+    "unsolved archaeological anomalies and ancient megastructures",
+    "bizarre deep sea optical and acoustic anomalies",
+    "unexplained atmospheric phenomena and space signals",
+    "historical cryptids, ancient legends and folklore science",
+    "mysterious ship disappearances and ocean enigmas",
+    "declassified government files and historical cold cases",
+    "strange geological formations and magnetic anomalies",
 ]
 
 YT_CATEGORY_EDUCATION = "27"
