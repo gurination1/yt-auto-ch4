@@ -1,6 +1,5 @@
 {
   "topics": [
-    "4 Mechanical Design Flaws That Caused Widespread Recalls, Not Casualties",
     "The evolution of building foundations: From shallow stone footings to deep pile systems for stability in diverse soils.",
     "How ancient Persian windcatchers inspire modern passive ventilation systems for sustainable architecture.",
     "How advanced earthquake-resistant buildings use base isolation and dampers to absorb seismic energy.",
@@ -89,8 +88,9 @@
     "How the bacterial CRISPR-Cas system functions as an adaptive immune memory, recording viral DNA 'mugshots' directly into its own genome for future defense.",
     "Recent geological and sonar analyses provide fresh clues about the enigmatic Baltic Sea Anomaly, reigniting debates on its natural versus unknown origins.",
     "The accelerating rate at which advanced genetic genealogy and DNA testing are solving historical cold cases, leading to the identification of both victims and perpetrators decades after crimes were committed.",
-    "How the Earth's magnetic field acts as a 'tape recorder' on the ocean floor, revealing past pole reversals through **geomagnetic anomalies** and the **Curie point** of basalt, a mechanism vital for understanding plate tectonics."
+    "How the Earth's magnetic field acts as a 'tape recorder' on the ocean floor, revealing past pole reversals through **geomagnetic anomalies** and the **Curie point** of basalt, a mechanism vital for understanding plate tectonics.",
+    "Artificial intelligence has revealed a previously unknown 24,000-year-old megastructure hidden beneath one of Earth's oldest pyramids, challenging established timelines of ancient engineering and purpose."
   ],
-  "subcluster_idx": 0,
-  "call_count": 99
+  "subcluster_idx": 1,
+  "call_count": 100
 }
