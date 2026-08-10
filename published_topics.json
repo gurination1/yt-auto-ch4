@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How silent re-evaluations of extreme rainfall averted catastrophic dam failures.",
     "4 Mechanical Design Flaws That Caused Widespread Recalls, Not Casualties",
     "The evolution of building foundations: From shallow stone footings to deep pile systems for stability in diverse soils.",
     "How ancient Persian windcatchers inspire modern passive ventilation systems for sustainable architecture.",
@@ -89,8 +88,9 @@
     "Scientists have successfully recreated the complex chemistry of deadly plants like wolfsbane in the laboratory, paving the way for novel non-opioid painkillers, cancer drugs, and eco-friendly pesticides.",
     "How the bacterial CRISPR-Cas system functions as an adaptive immune memory, recording viral DNA 'mugshots' directly into its own genome for future defense.",
     "Recent geological and sonar analyses provide fresh clues about the enigmatic Baltic Sea Anomaly, reigniting debates on its natural versus unknown origins.",
-    "The accelerating rate at which advanced genetic genealogy and DNA testing are solving historical cold cases, leading to the identification of both victims and perpetrators decades after crimes were committed."
+    "The accelerating rate at which advanced genetic genealogy and DNA testing are solving historical cold cases, leading to the identification of both victims and perpetrators decades after crimes were committed.",
+    "How the Earth's magnetic field acts as a 'tape recorder' on the ocean floor, revealing past pole reversals through **geomagnetic anomalies** and the **Curie point** of basalt, a mechanism vital for understanding plate tectonics."
   ],
-  "subcluster_idx": 6,
-  "call_count": 98
+  "subcluster_idx": 0,
+  "call_count": 99
 }
