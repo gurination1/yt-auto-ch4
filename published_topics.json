@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How advanced earthquake-resistant buildings use base isolation and dampers to absorb seismic energy.",
     "How self-healing concrete prevents micro-cracks from escalating into major infrastructure failures.",
     "How a subtle crack in aircraft landing gear was silently fixed across an entire fleet",
     "How unexpected brittle fracture in World War II Liberty Ships revolutionized material science and welding standards.",
@@ -89,8 +88,9 @@
     "How the Earth's magnetic field acts as a 'tape recorder' on the ocean floor, revealing past pole reversals through **geomagnetic anomalies** and the **Curie point** of basalt, a mechanism vital for understanding plate tectonics.",
     "Artificial intelligence has revealed a previously unknown 24,000-year-old megastructure hidden beneath one of Earth's oldest pyramids, challenging established timelines of ancient engineering and purpose.",
     "NASA satellite data reveals 21% of the global ocean has mysteriously darkened, sparking urgent investigations into its causes and ecological impact.",
-    "How the enigmatic Hessdalen Lights might be self-organizing **plasma-dust crystals** fueled by underground radioactive decay."
+    "How the enigmatic Hessdalen Lights might be self-organizing **plasma-dust crystals** fueled by underground radioactive decay.",
+    "Ahead of the August 12, 2026 solar eclipse, ancient myths from China, Norse, and India explaining celestial events are resurfacing, highlighting humanity's age-old attempts to understand the cosmos."
   ],
-  "subcluster_idx": 3,
-  "call_count": 102
+  "subcluster_idx": 4,
+  "call_count": 103
 }
