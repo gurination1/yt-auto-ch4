@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The evolution of building foundations: From shallow stone footings to deep pile systems for stability in diverse soils.",
     "How ancient Persian windcatchers inspire modern passive ventilation systems for sustainable architecture.",
     "How advanced earthquake-resistant buildings use base isolation and dampers to absorb seismic energy.",
     "How self-healing concrete prevents micro-cracks from escalating into major infrastructure failures.",
@@ -89,8 +88,9 @@
     "Recent geological and sonar analyses provide fresh clues about the enigmatic Baltic Sea Anomaly, reigniting debates on its natural versus unknown origins.",
     "The accelerating rate at which advanced genetic genealogy and DNA testing are solving historical cold cases, leading to the identification of both victims and perpetrators decades after crimes were committed.",
     "How the Earth's magnetic field acts as a 'tape recorder' on the ocean floor, revealing past pole reversals through **geomagnetic anomalies** and the **Curie point** of basalt, a mechanism vital for understanding plate tectonics.",
-    "Artificial intelligence has revealed a previously unknown 24,000-year-old megastructure hidden beneath one of Earth's oldest pyramids, challenging established timelines of ancient engineering and purpose."
+    "Artificial intelligence has revealed a previously unknown 24,000-year-old megastructure hidden beneath one of Earth's oldest pyramids, challenging established timelines of ancient engineering and purpose.",
+    "NASA satellite data reveals 21% of the global ocean has mysteriously darkened, sparking urgent investigations into its causes and ecological impact."
   ],
-  "subcluster_idx": 1,
-  "call_count": 100
+  "subcluster_idx": 2,
+  "call_count": 101
 }
