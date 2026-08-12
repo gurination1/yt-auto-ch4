@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How a subtle crack in aircraft landing gear was silently fixed across an entire fleet",
     "How unexpected brittle fracture in World War II Liberty Ships revolutionized material science and welding standards.",
     "How digital twins are transforming from simple visualizations to operational control systems for smart infrastructure in 2026.",
     "How the structural efficiency of ancient Roman thin-shell vaulting inspires modern lightweight, long-span roof designs.",
@@ -89,8 +88,9 @@
     "NASA satellite data reveals 21% of the global ocean has mysteriously darkened, sparking urgent investigations into its causes and ecological impact.",
     "How the enigmatic Hessdalen Lights might be self-organizing **plasma-dust crystals** fueled by underground radioactive decay.",
     "Ahead of the August 12, 2026 solar eclipse, ancient myths from China, Norse, and India explaining celestial events are resurfacing, highlighting humanity's age-old attempts to understand the cosmos.",
-    "The 'Ocean Dream' Cruise Ship: Viral Rediscovery of a Vessel Lost for Decades Now Found Frozen in Antarctica"
+    "The 'Ocean Dream' Cruise Ship: Viral Rediscovery of a Vessel Lost for Decades Now Found Frozen in Antarctica",
+    "How declassified MKUltra documents inadvertently reveal the brain's reliance on **predictive coding** for reality construction, where extreme sensory deprivation causes the brain to generate vivid, internal simulations when external input is absent."
   ],
-  "subcluster_idx": 5,
-  "call_count": 104
+  "subcluster_idx": 6,
+  "call_count": 105
 }
