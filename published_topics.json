@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How self-healing concrete prevents micro-cracks from escalating into major infrastructure failures.",
     "How a subtle crack in aircraft landing gear was silently fixed across an entire fleet",
     "How unexpected brittle fracture in World War II Liberty Ships revolutionized material science and welding standards.",
     "How digital twins are transforming from simple visualizations to operational control systems for smart infrastructure in 2026.",
@@ -89,8 +88,9 @@
     "Artificial intelligence has revealed a previously unknown 24,000-year-old megastructure hidden beneath one of Earth's oldest pyramids, challenging established timelines of ancient engineering and purpose.",
     "NASA satellite data reveals 21% of the global ocean has mysteriously darkened, sparking urgent investigations into its causes and ecological impact.",
     "How the enigmatic Hessdalen Lights might be self-organizing **plasma-dust crystals** fueled by underground radioactive decay.",
-    "Ahead of the August 12, 2026 solar eclipse, ancient myths from China, Norse, and India explaining celestial events are resurfacing, highlighting humanity's age-old attempts to understand the cosmos."
+    "Ahead of the August 12, 2026 solar eclipse, ancient myths from China, Norse, and India explaining celestial events are resurfacing, highlighting humanity's age-old attempts to understand the cosmos.",
+    "The 'Ocean Dream' Cruise Ship: Viral Rediscovery of a Vessel Lost for Decades Now Found Frozen in Antarctica"
   ],
-  "subcluster_idx": 4,
-  "call_count": 103
+  "subcluster_idx": 5,
+  "call_count": 104
 }
