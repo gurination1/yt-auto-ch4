@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How digital twins are transforming from simple visualizations to operational control systems for smart infrastructure in 2026.",
     "How the structural efficiency of ancient Roman thin-shell vaulting inspires modern lightweight, long-span roof designs.",
     "How soft robotics uses flexible materials and fluid power to mimic biological movement and interact safely with humans in 2026.",
     "How inadequate drainage causes retaining wall collapses, revealing the critical role of hydrostatic pressure and soil movement.",
@@ -89,8 +88,9 @@
     "Ahead of the August 12, 2026 solar eclipse, ancient myths from China, Norse, and India explaining celestial events are resurfacing, highlighting humanity's age-old attempts to understand the cosmos.",
     "The 'Ocean Dream' Cruise Ship: Viral Rediscovery of a Vessel Lost for Decades Now Found Frozen in Antarctica",
     "How declassified MKUltra documents inadvertently reveal the brain's reliance on **predictive coding** for reality construction, where extreme sensory deprivation causes the brain to generate vivid, internal simulations when external input is absent.",
-    "A revived NASA satellite unexpectedly detected the formation of a new, persistent innermost radiation belt of protons around Earth following a powerful 2024 solar storm, challenging previous understandings of space weather recovery."
+    "A revived NASA satellite unexpectedly detected the formation of a new, persistent innermost radiation belt of protons around Earth following a powerful 2024 solar storm, challenging previous understandings of space weather recovery.",
+    "An enigmatic complex at Peru's ancient \u00c1spero settlement is now believed to be one of the Americas' earliest astronomical observatories, raising questions about advanced ancient knowledge."
   ],
-  "subcluster_idx": 0,
-  "call_count": 106
+  "subcluster_idx": 1,
+  "call_count": 107
 }
