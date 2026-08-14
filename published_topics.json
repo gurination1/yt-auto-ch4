@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the structural efficiency of ancient Roman thin-shell vaulting inspires modern lightweight, long-span roof designs.",
     "How soft robotics uses flexible materials and fluid power to mimic biological movement and interact safely with humans in 2026.",
     "How inadequate drainage causes retaining wall collapses, revealing the critical role of hydrostatic pressure and soil movement.",
     "How advanced acoustic monitoring prevented a catastrophic subsea pipeline rupture",
@@ -89,8 +88,9 @@
     "The 'Ocean Dream' Cruise Ship: Viral Rediscovery of a Vessel Lost for Decades Now Found Frozen in Antarctica",
     "How declassified MKUltra documents inadvertently reveal the brain's reliance on **predictive coding** for reality construction, where extreme sensory deprivation causes the brain to generate vivid, internal simulations when external input is absent.",
     "A revived NASA satellite unexpectedly detected the formation of a new, persistent innermost radiation belt of protons around Earth following a powerful 2024 solar storm, challenging previous understandings of space weather recovery.",
-    "An enigmatic complex at Peru's ancient \u00c1spero settlement is now believed to be one of the Americas' earliest astronomical observatories, raising questions about advanced ancient knowledge."
+    "An enigmatic complex at Peru's ancient \u00c1spero settlement is now believed to be one of the Americas' earliest astronomical observatories, raising questions about advanced ancient knowledge.",
+    "How the ocean's SOFAR channel can create \"acoustic lensing,\" making distant, faint deep-sea sounds appear incredibly loud and localized, mystifying their true origin."
   ],
-  "subcluster_idx": 1,
-  "call_count": 107
+  "subcluster_idx": 2,
+  "call_count": 108
 }
