@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How advanced acoustic monitoring prevented a catastrophic subsea pipeline rupture",
     "Why Offshore Wind Turbine Foundations Face Escalating Design Challenges",
     "How AI-driven generative design is revolutionizing engineering, moving beyond simple automation to cognitive optimization of complex systems in 2026.",
     "How ancient Roman aqueduct engineering principles are revived for modern gravity-fed water supply and stormwater management.",
@@ -89,8 +88,9 @@
     "An enigmatic complex at Peru's ancient \u00c1spero settlement is now believed to be one of the Americas' earliest astronomical observatories, raising questions about advanced ancient knowledge.",
     "How the ocean's SOFAR channel can create \"acoustic lensing,\" making distant, faint deep-sea sounds appear incredibly loud and localized, mystifying their true origin.",
     "The 'Glowing Cloud' Phenomenon Over Greece: A Viral Misinterpretation of Rocket Exhaust",
-    "New scientific evidence, including eDNA analysis, sonar mapping, and unexplained seismic patterns in Alaska's Lake Iliamna, is forcing researchers to reconsider the existence of a legendary lake monster, suggesting a large, unidentified creature may inhabit its deep waters."
+    "New scientific evidence, including eDNA analysis, sonar mapping, and unexplained seismic patterns in Alaska's Lake Iliamna, is forcing researchers to reconsider the existence of a legendary lake monster, suggesting a large, unidentified creature may inhabit its deep waters.",
+    "How gigantic, invisible **internal waves** deep beneath the ocean surface can capsize ships or drag them down without a trace, a phenomenon driven by density stratification."
   ],
-  "subcluster_idx": 4,
-  "call_count": 110
+  "subcluster_idx": 5,
+  "call_count": 111
 }
