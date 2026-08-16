@@ -2,6 +2,12 @@ name: Generate Short Video
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'    # 00:00 UTC / 05:30 IST (Short #1)
+    - cron: '30 7 * * *'   # 07:30 UTC / 13:00 IST (Short #2)
+    - cron: '30 16 * * *'  # 16:30 UTC / 22:00 IST (Short #3)
+  push:
+    branches: [ main ]
 
 permissions:
   contents: write             # needed to commit published_topics.json + voice_state.json
@@ -28,15 +34,14 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
 
-      - name: Install FFmpeg
-        run: sudo apt-get install -y --no-install-recommends ffmpeg
+      - name: Install System Dependencies & FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg tesseract-ocr tesseract-ocr-eng fonts-dejavu-core fonts-liberation
 
       - name: Install Bebas Neue Font
         run: |
           sudo mkdir -p /usr/local/share/fonts
           sudo wget -O /usr/local/share/fonts/BebasNeue-Regular.ttf https://raw.githubusercontent.com/google/fonts/main/ofl/bebasneue/BebasNeue-Regular.ttf
           sudo fc-cache -fv
-
 
       - name: Cache faster-whisper models
         uses: actions/cache@v4
@@ -47,7 +52,9 @@ jobs:
             ${{ runner.os }}-whisper-
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -U --pre "yt-dlp[default]"
+          pip install -r requirements.txt
 
       - name: Generate Short
         timeout-minutes: 70
