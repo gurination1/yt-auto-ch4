@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How ancient Roman aqueduct engineering principles are revived for modern gravity-fed water supply and stormwater management.",
     "The mechanism behind 3D printed metacrystal panels that passively steer wireless signals.",
     "How a Foundation Design Flaw Led to Multi-Million Dollar Delays at a New Psychiatric Hospital in New Hampshire and Its Engineering Redesign",
     "How a critical software bug in automated factory machinery nearly caused a chain reaction collapse, leading to a silent, global firmware patch.",
@@ -89,8 +88,9 @@
     "New scientific evidence, including eDNA analysis, sonar mapping, and unexplained seismic patterns in Alaska's Lake Iliamna, is forcing researchers to reconsider the existence of a legendary lake monster, suggesting a large, unidentified creature may inhabit its deep waters.",
     "How gigantic, invisible **internal waves** deep beneath the ocean surface can capsize ships or drag them down without a trace, a phenomenon driven by density stratification.",
     "Declassified Pentagon Files Reveal Unexplained UAP Sightings from 2026 with Thermal Video Evidence",
-    "The South Atlantic Anomaly's Unprecedented Splitting Event"
+    "The South Atlantic Anomaly's Unprecedented Splitting Event",
+    "How Nazca Lines are preserved by a self-organizing geological mechanism, where 'desert pavement' acts as a dynamic, anti-erosion shield through aeolian processes and micro-sedimentation."
   ],
-  "subcluster_idx": 0,
-  "call_count": 113
+  "subcluster_idx": 1,
+  "call_count": 114
 }
