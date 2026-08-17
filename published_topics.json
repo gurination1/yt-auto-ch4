@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How a Foundation Design Flaw Led to Multi-Million Dollar Delays at a New Psychiatric Hospital in New Hampshire and Its Engineering Redesign",
     "How a critical software bug in automated factory machinery nearly caused a chain reaction collapse, leading to a silent, global firmware patch.",
     "How Extreme Climate Events Are Forcing a Redesign of Global Road Infrastructure",
     "How AI is now co-designing and optimizing existing infrastructure retrofits, moving beyond traditional manual assessment methods.",
@@ -89,8 +88,9 @@
     "Declassified Pentagon Files Reveal Unexplained UAP Sightings from 2026 with Thermal Video Evidence",
     "The South Atlantic Anomaly's Unprecedented Splitting Event",
     "How Nazca Lines are preserved by a self-organizing geological mechanism, where 'desert pavement' acts as a dynamic, anti-erosion shield through aeolian processes and micro-sedimentation.",
-    "How dark energy expands the observable universe cosmos #18"
+    "How dark energy expands the observable universe cosmos #18",
+    "Mysterious Repeating Cosmic Radio Signal Traced to 'Vampire' White Dwarf"
   ],
-  "subcluster_idx": 2,
-  "call_count": 115
+  "subcluster_idx": 3,
+  "call_count": 116
 }
