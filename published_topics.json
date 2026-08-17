@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How a critical software bug in automated factory machinery nearly caused a chain reaction collapse, leading to a silent, global firmware patch.",
     "How Extreme Climate Events Are Forcing a Redesign of Global Road Infrastructure",
     "How AI is now co-designing and optimizing existing infrastructure retrofits, moving beyond traditional manual assessment methods.",
     "How ancient Japanese joinery techniques, using no metal fasteners, inspire modern earthquake-resistant timber frame construction.",
@@ -89,8 +88,9 @@
     "The South Atlantic Anomaly's Unprecedented Splitting Event",
     "How Nazca Lines are preserved by a self-organizing geological mechanism, where 'desert pavement' acts as a dynamic, anti-erosion shield through aeolian processes and micro-sedimentation.",
     "How dark energy expands the observable universe cosmos #18",
-    "Mysterious Repeating Cosmic Radio Signal Traced to 'Vampire' White Dwarf"
+    "Mysterious Repeating Cosmic Radio Signal Traced to 'Vampire' White Dwarf",
+    "How the mythical Siren's call might have exploited **infrasound bioacoustic resonance**, where low-frequency waves induce disorientation and anxiety in sailors without being consciously heard."
   ],
-  "subcluster_idx": 3,
-  "call_count": 116
+  "subcluster_idx": 4,
+  "call_count": 117
 }
