@@ -1,6 +1,6 @@
 {
   "0": {
-    "cooldown_until": 1787038163.726777,
+    "cooldown_until": 1787062246.011362,
     "failures": 1,
     "status": "active"
   },
@@ -10,8 +10,8 @@
     "status": "active"
   },
   "2": {
-    "cooldown_until": 1787040000.0,
-    "failures": 2,
+    "cooldown_until": 1787126400.0,
+    "failures": 3,
     "status": "daily_exhausted"
   },
   "3": {
@@ -20,9 +20,9 @@
     "status": "active"
   },
   "4": {
-    "cooldown_until": 1787040000.0,
-    "failures": 2,
-    "status": "daily_exhausted"
+    "cooldown_until": 1787062276.444235,
+    "failures": 1,
+    "status": "active"
   },
   "5": {
     "cooldown_until": 0.0,
@@ -30,9 +30,9 @@
     "status": "active"
   },
   "6": {
-    "cooldown_until": 1787040000.0,
-    "failures": 2,
-    "status": "daily_exhausted"
+    "cooldown_until": 1787062316.3220863,
+    "failures": 1,
+    "status": "active"
   },
   "7": {
     "cooldown_until": 2101124623.1557522,
@@ -40,9 +40,9 @@
     "status": "disabled"
   },
   "8": {
-    "cooldown_until": 1787040000.0,
-    "failures": 2,
-    "status": "daily_exhausted"
+    "cooldown_until": 1787062402.7687314,
+    "failures": 1,
+    "status": "active"
   },
   "9": {
     "cooldown_until": 0.0,
@@ -50,8 +50,8 @@
     "status": "active"
   },
   "10": {
-    "cooldown_until": 0.0,
-    "failures": 0,
+    "cooldown_until": 1787062507.132125,
+    "failures": 1,
     "status": "active"
   },
   "11": {
@@ -60,7 +60,7 @@
     "status": "active"
   },
   "12": {
-    "cooldown_until": 0.0,
+    "cooldown_until": 1787062917.4232569,
     "failures": 1,
     "status": "active"
   },
@@ -71,7 +71,7 @@
   },
   "14": {
     "cooldown_until": 0.0,
-    "failures": 1,
+    "failures": 0,
     "status": "active"
   }
 }
