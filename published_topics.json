@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How ancient Japanese joinery techniques, using no metal fasteners, inspire modern earthquake-resistant timber frame construction.",
     "How AI's convolutional neural networks precisely predict weld capacity in steel structures.",
     "Why systemic coordination failures are doubling construction project delays, and how AI-driven platforms offer a fix.",
     "How silent sonar scans prevented a catastrophic bridge scour collapse and reinforced foundations",
@@ -89,8 +88,9 @@
     "Mysterious Repeating Cosmic Radio Signal Traced to 'Vampire' White Dwarf",
     "How the mythical Siren's call might have exploited **infrasound bioacoustic resonance**, where low-frequency waves induce disorientation and anxiety in sailors without being consciously heard.",
     "The 'Ocean Census' initiative announced the discovery of over 1,000 previously unknown marine species in a landmark year, including bizarre 'ghost sharks,' fundamentally reshaping our understanding of deep-ocean ecosystems and undiscovered life.",
-    "A significant legal push is underway in 2026 to 'dispose of' over 300 long-standing cold cases, signaling a systemic effort by prosecutors to clear backlogs and leverage modern forensic capabilities for justice."
+    "A significant legal push is underway in 2026 to 'dispose of' over 300 long-standing cold cases, signaling a systemic effort by prosecutors to clear backlogs and leverage modern forensic capabilities for justice.",
+    "How the 'sailing stones' of Racetrack Playa are moved by ice-rafting, where thin ice sheets, formed under rare conditions, carry heavy rocks across a slick, muddy surface, propelled by light winds."
   ],
-  "subcluster_idx": 6,
-  "call_count": 119
+  "subcluster_idx": 0,
+  "call_count": 120
 }
