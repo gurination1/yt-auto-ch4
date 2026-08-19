@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Why systemic coordination failures are doubling construction project delays, and how AI-driven platforms offer a fix.",
     "How silent sonar scans prevented a catastrophic bridge scour collapse and reinforced foundations",
     "How a single faulty software update from CrowdStrike paralyzed global infrastructure, grounding flights and disrupting emergency services, highlighting critical systemic vulnerabilities.",
     "Spacecraft Redesign for Debris Mitigation: How End-of-Life Behavior is Revolutionizing Orbital Engineering",
@@ -89,8 +88,9 @@
     "The 'Ocean Census' initiative announced the discovery of over 1,000 previously unknown marine species in a landmark year, including bizarre 'ghost sharks,' fundamentally reshaping our understanding of deep-ocean ecosystems and undiscovered life.",
     "A significant legal push is underway in 2026 to 'dispose of' over 300 long-standing cold cases, signaling a systemic effort by prosecutors to clear backlogs and leverage modern forensic capabilities for justice.",
     "How the 'sailing stones' of Racetrack Playa are moved by ice-rafting, where thin ice sheets, formed under rare conditions, carry heavy rocks across a slick, muddy surface, propelled by light winds.",
-    "Recent underground scans beneath Egypt's pyramids and Stonehenge reveal complex hidden chambers and engineering defying known ancient methods, reigniting debates on lost technology."
+    "Recent underground scans beneath Egypt's pyramids and Stonehenge reveal complex hidden chambers and engineering defying known ancient methods, reigniting debates on lost technology.",
+    "Mysterious 'Flee-Inducing' Thump from Challenger Deep Challenges Earth's Structure"
   ],
-  "subcluster_idx": 1,
-  "call_count": 121
+  "subcluster_idx": 2,
+  "call_count": 122
 }
