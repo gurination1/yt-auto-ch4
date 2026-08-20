@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Spacecraft Redesign for Debris Mitigation: How End-of-Life Behavior is Revolutionizing Orbital Engineering",
     "How ancient Egyptian mastabas' thick walls and sun-path orientation inspire modern net-zero building envelopes.",
     "How Engineered Plant Viruses are Revolutionizing Nanotechnology and Drug Delivery through AI and ML.",
     "How a Midtown Manhattan high-rise structural failure led to emergency stabilization and a redesign for future safety.",
@@ -89,8 +88,9 @@
     "Recent underground scans beneath Egypt's pyramids and Stonehenge reveal complex hidden chambers and engineering defying known ancient methods, reigniting debates on lost technology.",
     "Mysterious 'Flee-Inducing' Thump from Challenger Deep Challenges Earth's Structure",
     "How ball lightning's eerie glow might be explained by **silicon nanoparticles** forming a glowing plasma from ground strike vaporization.",
-    "A viral online movement in China, fueled by 'baffling astrological data,' insists the ancient Tang Dynasty never existed, challenging historical consensus and igniting a national debate on ancient legends and digital-age folklore."
+    "A viral online movement in China, fueled by 'baffling astrological data,' insists the ancient Tang Dynasty never existed, challenging historical consensus and igniting a national debate on ancient legends and digital-age folklore.",
+    "The unexplained 16-day disappearance from radar of the Mikyle Britain cargo ship and its mysterious reappearance with military cargo, sparking international intrigue."
   ],
-  "subcluster_idx": 4,
-  "call_count": 124
+  "subcluster_idx": 5,
+  "call_count": 125
 }
