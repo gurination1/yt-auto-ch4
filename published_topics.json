@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How a single faulty software update from CrowdStrike paralyzed global infrastructure, grounding flights and disrupting emergency services, highlighting critical systemic vulnerabilities.",
     "Spacecraft Redesign for Debris Mitigation: How End-of-Life Behavior is Revolutionizing Orbital Engineering",
     "How ancient Egyptian mastabas' thick walls and sun-path orientation inspire modern net-zero building envelopes.",
     "How Engineered Plant Viruses are Revolutionizing Nanotechnology and Drug Delivery through AI and ML.",
@@ -89,8 +88,9 @@
     "How the 'sailing stones' of Racetrack Playa are moved by ice-rafting, where thin ice sheets, formed under rare conditions, carry heavy rocks across a slick, muddy surface, propelled by light winds.",
     "Recent underground scans beneath Egypt's pyramids and Stonehenge reveal complex hidden chambers and engineering defying known ancient methods, reigniting debates on lost technology.",
     "Mysterious 'Flee-Inducing' Thump from Challenger Deep Challenges Earth's Structure",
-    "How ball lightning's eerie glow might be explained by **silicon nanoparticles** forming a glowing plasma from ground strike vaporization."
+    "How ball lightning's eerie glow might be explained by **silicon nanoparticles** forming a glowing plasma from ground strike vaporization.",
+    "A viral online movement in China, fueled by 'baffling astrological data,' insists the ancient Tang Dynasty never existed, challenging historical consensus and igniting a national debate on ancient legends and digital-age folklore."
   ],
-  "subcluster_idx": 3,
-  "call_count": 123
+  "subcluster_idx": 4,
+  "call_count": 124
 }
