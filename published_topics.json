@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How AI-powered robots are transforming construction, moving beyond manual labor to automated assembly and complex site tasks.",
     "How ancient Incan interlocking masonry, designed to flex during earthquakes, inspires modern seismic-resistant building techniques.",
     "China's Graphene Concrete Breakthrough: How Nanoplatelets Redefine Material Failure and Carbon Reduction",
     "How AI-Driven Self-Healing Materials Are Preventing Infrastructure Micro-Cracks from Escalating into Disasters.",
@@ -89,8 +88,9 @@
     "Scientists are tracking a massive, expanding geological void beneath North America, where tectonic plates are actively peeling apart, hinting at unusual deep Earth dynamics.",
     "New dwelling discoveries at G\u00f6bekli Tepe are forcing a re-evaluation of its long-held 'world's first temple' narrative, igniting debate on early human societal structures and the site's true function.",
     "How some deep-sea creatures deploy bioluminescent \"mines\" or \"burglar alarms\" using **sacrificial luminescence** to attract larger predators to their attackers, turning light into a defensive weapon.",
-    "Wow Signal Deep Space Radio Anomaly #562"
+    "Wow Signal Deep Space Radio Anomaly #562",
+    "The 'Cat in the Hat' AI Hoax: How Generative AI is Rapidly Shaping New Digital Folklore and Cryptid Beliefs"
   ],
-  "subcluster_idx": 3,
-  "call_count": 130
+  "subcluster_idx": 4,
+  "call_count": 131
 }
