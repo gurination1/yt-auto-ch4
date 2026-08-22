@@ -1,32 +1,38 @@
 {
   "0": {
-    "cooldown_until": 1787386306.9231927,
-    "failures": 1,
+<<<<<<< HEAD
+    "cooldown_until": 1787385600.0,
+    "failures": 4,
+    "status": "daily_exhausted"
+=======
+    "cooldown_until": 0.0,
+    "failures": 0,
     "status": "active"
+>>>>>>> 3ea0e7f (fix: resolve gemini quota lockout, broll ranking bug, and black-screen assembly resilience [skip ci])
   },
   "1": {
     "cooldown_until": 0.0,
-    "failures": 2,
-    "status": "daily_exhausted"
+    "failures": 0,
+    "status": "active"
   },
   "2": {
-    "cooldown_until": 1787385600.0,
+    "cooldown_until": 0.0,
     "failures": 0,
     "status": "active"
   },
   "3": {
     "cooldown_until": 0.0,
-    "failures": 1,
+    "failures": 0,
     "status": "active"
   },
   "4": {
     "cooldown_until": 0.0,
-    "failures": 1,
+    "failures": 0,
     "status": "active"
   },
   "5": {
     "cooldown_until": 0.0,
-    "failures": 1,
+    "failures": 0,
     "status": "active"
   },
   "6": {
@@ -35,28 +41,28 @@
     "status": "active"
   },
   "7": {
-    "cooldown_until": 2101124623.1557522,
+    "cooldown_until": 2101038645.438908,
     "failures": 4,
     "status": "disabled"
   },
   "8": {
     "cooldown_until": 0.0,
-    "failures": 1,
+    "failures": 0,
     "status": "active"
   },
   "9": {
     "cooldown_until": 0.0,
-    "failures": 1,
+    "failures": 0,
     "status": "active"
   },
   "10": {
     "cooldown_until": 0.0,
-    "failures": 1,
+    "failures": 0,
     "status": "active"
   },
   "11": {
     "cooldown_until": 0.0,
-    "failures": 1,
+    "failures": 0,
     "status": "active"
   },
   "12": {
@@ -65,13 +71,13 @@
     "status": "active"
   },
   "13": {
-    "cooldown_until": 2101124833.4314294,
+    "cooldown_until": 2101040598.208543,
     "failures": 4,
     "status": "disabled"
   },
   "14": {
     "cooldown_until": 0.0,
-    "failures": 2,
-    "status": "daily_exhausted"
+    "failures": 0,
+    "status": "active"
   }
 }
