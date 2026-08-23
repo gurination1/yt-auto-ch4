@@ -35,9 +35,9 @@
     "status": "active"
   },
   "7": {
-    "cooldown_until": 0.0,
-    "failures": 0,
-    "status": "active"
+    "cooldown_until": 2102805373.1035984,
+    "failures": 4,
+    "status": "disabled"
   },
   "8": {
     "cooldown_until": 0.0,
@@ -65,9 +65,9 @@
     "status": "active"
   },
   "13": {
-    "cooldown_until": 0.0,
-    "failures": 0,
-    "status": "active"
+    "cooldown_until": 2102805498.6117873,
+    "failures": 4,
+    "status": "disabled"
   },
   "14": {
     "cooldown_until": 0.0,

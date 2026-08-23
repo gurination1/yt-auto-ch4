@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How ancient Incan interlocking masonry, designed to flex during earthquakes, inspires modern seismic-resistant building techniques.",
     "China's Graphene Concrete Breakthrough: How Nanoplatelets Redefine Material Failure and Carbon Reduction",
     "How AI-Driven Self-Healing Materials Are Preventing Infrastructure Micro-Cracks from Escalating into Disasters.",
     "How an obscure, redundant safety brake mechanism silently prevents elevator free-falls, a fix rarely acknowledged by riders.",
@@ -89,8 +88,9 @@
     "New dwelling discoveries at G\u00f6bekli Tepe are forcing a re-evaluation of its long-held 'world's first temple' narrative, igniting debate on early human societal structures and the site's true function.",
     "How some deep-sea creatures deploy bioluminescent \"mines\" or \"burglar alarms\" using **sacrificial luminescence** to attract larger predators to their attackers, turning light into a defensive weapon.",
     "Wow Signal Deep Space Radio Anomaly #562",
-    "The 'Cat in the Hat' AI Hoax: How Generative AI is Rapidly Shaping New Digital Folklore and Cryptid Beliefs"
+    "The 'Cat in the Hat' AI Hoax: How Generative AI is Rapidly Shaping New Digital Folklore and Cryptid Beliefs",
+    "How a sudden, massive release of **methane clathrates** from the seafloor can instantly reduce water density, causing ships to lose buoyancy and plunge beneath the waves."
   ],
-  "subcluster_idx": 4,
-  "call_count": 131
+  "subcluster_idx": 5,
+  "call_count": 132
 }
