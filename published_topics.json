@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How AI-Driven Self-Healing Materials Are Preventing Infrastructure Micro-Cracks from Escalating into Disasters.",
     "How an obscure, redundant safety brake mechanism silently prevents elevator free-falls, a fix rarely acknowledged by riders.",
     "How the Tacoma Narrows Bridge danced itself apart in 1940 and changed aerodynamic engineering",
     "The Evolution of Infrastructure Design: From Human-Centric to AI-Augmented Creation",
@@ -89,8 +88,9 @@
     "Wow Signal Deep Space Radio Anomaly #562",
     "The 'Cat in the Hat' AI Hoax: How Generative AI is Rapidly Shaping New Digital Folklore and Cryptid Beliefs",
     "How a sudden, massive release of **methane clathrates** from the seafloor can instantly reduce water density, causing ships to lose buoyancy and plunge beneath the waves.",
-    "Newly declassified military recordings reveal unexplainable UAP maneuvers, including a 'black sphere' over the Pacific and a 'six-pointed star' over the Yellow Sea, challenging known aerial capabilities."
+    "Newly declassified military recordings reveal unexplainable UAP maneuvers, including a 'black sphere' over the Pacific and a 'six-pointed star' over the Yellow Sea, challenging known aerial capabilities.",
+    "Enigmatic micro-burrows in ancient desert rocks hint at undiscovered litho-microbial life, challenging geological and biological paradigms."
   ],
-  "subcluster_idx": 6,
-  "call_count": 133
+  "subcluster_idx": 0,
+  "call_count": 134
 }
