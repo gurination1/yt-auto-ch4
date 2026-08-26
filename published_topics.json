@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the Tacoma Narrows Bridge danced itself apart in 1940 and changed aerodynamic engineering",
     "The Evolution of Infrastructure Design: From Human-Centric to AI-Augmented Creation",
     "How ancient Roman hypocaust systems inspire modern radiant floor heating and thermal mass building design.",
     "How self-repairing asphalt uses embedded capsules and AI to prevent potholes and extend road lifespan.",
@@ -89,8 +88,9 @@
     "How a sudden, massive release of **methane clathrates** from the seafloor can instantly reduce water density, causing ships to lose buoyancy and plunge beneath the waves.",
     "Newly declassified military recordings reveal unexplainable UAP maneuvers, including a 'black sphere' over the Pacific and a 'six-pointed star' over the Yellow Sea, challenging known aerial capabilities.",
     "Enigmatic micro-burrows in ancient desert rocks hint at undiscovered litho-microbial life, challenging geological and biological paradigms.",
-    "How the 'Earthquake-Proof' Inca masonry at Sacsayhuaman actually works by employing a **cyclopean dry-stack technique** where stones are cut with internal angles and complex interlocking shapes, allowing them to 'dance' and resettle during seismic events."
+    "How the 'Earthquake-Proof' Inca masonry at Sacsayhuaman actually works by employing a **cyclopean dry-stack technique** where stones are cut with internal angles and complex interlocking shapes, allowing them to 'dance' and resettle during seismic events.",
+    "Unidentified 'Steady, Patient' Sound Eliciting Fear from Challenger Deep Expedition, Originating from Uncharted Seafloor 'Deep Cuts'"
   ],
-  "subcluster_idx": 1,
-  "call_count": 135
+  "subcluster_idx": 2,
+  "call_count": 136
 }
