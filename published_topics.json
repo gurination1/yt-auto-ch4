@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How ancient Roman hypocaust systems inspire modern radiant floor heating and thermal mass building design.",
     "How self-repairing asphalt uses embedded capsules and AI to prevent potholes and extend road lifespan.",
     "How lithium dendrites silently fracture solid-state battery ceramics, triggering short circuits and a new design paradigm.",
     "How a hidden fail-safe in a skyscraper's HVAC system silently averted a critical air pressure imbalance and potential structural stress.",
@@ -89,8 +88,9 @@
     "Enigmatic micro-burrows in ancient desert rocks hint at undiscovered litho-microbial life, challenging geological and biological paradigms.",
     "How the 'Earthquake-Proof' Inca masonry at Sacsayhuaman actually works by employing a **cyclopean dry-stack technique** where stones are cut with internal angles and complex interlocking shapes, allowing them to 'dance' and resettle during seismic events.",
     "Unidentified 'Steady, Patient' Sound Eliciting Fear from Challenger Deep Expedition, Originating from Uncharted Seafloor 'Deep Cuts'",
-    "Bermuda Triangle Methane Hydrate Sea Floor #416"
+    "Bermuda Triangle Methane Hydrate Sea Floor #416",
+    "How the legendary Kraken might be a cultural memory of deep-sea **chemosynthetic ecosystems** that support truly colossal invertebrates, only rarely surfacing from their abyssal zones."
   ],
-  "subcluster_idx": 3,
-  "call_count": 137
+  "subcluster_idx": 4,
+  "call_count": 138
 }
