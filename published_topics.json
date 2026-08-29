@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the Francis Scott Key Bridge collapse is forcing a paradigm shift in infrastructure design towards systemic resilience, beyond single-point failure analysis.",
     "How an overlooked structural connection in a stadium's upper deck was quietly reinforced before public opening, averting a potential collapse.",
     "Why integrating real-time sensor technology into structural design is becoming non-negotiable to prevent unforeseen failures.",
     "AI's Cognitive Revolution: Reshaping Every Engineering Workflow, Then and Now",
@@ -89,8 +88,9 @@
     "An 11,000-year-old statue of a person riding a leopard, unearthed at Turkey's Karahantepe, presents a unique and unprecedented artistic style, sparking debate on early Neolithic symbolism and cultural beliefs.",
     "Wow Signal Deep Space Radio Anomaly #20",
     "How ground-based facilities like HAARP can intentionally \"heat\" regions of the Earth's ionosphere using powerful radio waves, leading to localized **electron cyclotron resonance** that creates artificial plasma glows and modifies atmospheric properties.",
-    "Wow Signal Deep Space Radio Anomaly #498"
+    "Wow Signal Deep Space Radio Anomaly #498",
+    "The ongoing mystery surrounding the MV Ocean Winner: an empty lifeboat discovered, but the entire crew remains missing, fueling intense speculation."
   ],
-  "subcluster_idx": 4,
-  "call_count": 145
+  "subcluster_idx": 5,
+  "call_count": 146
 }
