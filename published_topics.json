@@ -1,6 +1,5 @@
 {
   "topics": [
-    "5 ancient waterproofing techniques, from natural bitumens to sophisticated lime plasters, modern builders are re-evaluating.",
     "The Antikythera Mechanism: Unraveling the 2000-year-old Astronomical Computer",
     "How the Francis Scott Key Bridge collapse is forcing a paradigm shift in infrastructure design towards systemic resilience, beyond single-point failure analysis.",
     "How an overlooked structural connection in a stadium's upper deck was quietly reinforced before public opening, averting a potential collapse.",
@@ -89,8 +88,9 @@
     "Deep Sea Bloop Frequency Acoustic Sound #380",
     "How 'gravity hills' actually work by exploiting the brain's visual processing through a subtle **horizon line illusion**, making uphill feel downhill.",
     "An 11,000-year-old statue of a person riding a leopard, unearthed at Turkey's Karahantepe, presents a unique and unprecedented artistic style, sparking debate on early Neolithic symbolism and cultural beliefs.",
-    "Wow Signal Deep Space Radio Anomaly #20"
+    "Wow Signal Deep Space Radio Anomaly #20",
+    "How ground-based facilities like HAARP can intentionally \"heat\" regions of the Earth's ionosphere using powerful radio waves, leading to localized **electron cyclotron resonance** that creates artificial plasma glows and modifies atmospheric properties."
   ],
-  "subcluster_idx": 2,
-  "call_count": 143
+  "subcluster_idx": 3,
+  "call_count": 144
 }
