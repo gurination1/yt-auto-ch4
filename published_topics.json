@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Why integrating real-time sensor technology into structural design is becoming non-negotiable to prevent unforeseen failures.",
     "AI's Cognitive Revolution: Reshaping Every Engineering Workflow, Then and Now",
     "How ancient Roman layered road construction principles are inspiring modern permeable pavements for improved stormwater management and urban resilience.",
     "How a new 3D camera tracks invisible particles with light-producing material and AI.",
@@ -89,8 +88,9 @@
     "How ground-based facilities like HAARP can intentionally \"heat\" regions of the Earth's ionosphere using powerful radio waves, leading to localized **electron cyclotron resonance** that creates artificial plasma glows and modifies atmospheric properties.",
     "Wow Signal Deep Space Radio Anomaly #498",
     "The ongoing mystery surrounding the MV Ocean Winner: an empty lifeboat discovered, but the entire crew remains missing, fueling intense speculation.",
-    "What if declassified Project Stargate files show the U.S. government spent millions trying to weaponize **anomalous cognition** through specific \"remote viewing\" protocols, believing it could bypass secure intelligence channels?"
+    "What if declassified Project Stargate files show the U.S. government spent millions trying to weaponize **anomalous cognition** through specific \"remote viewing\" protocols, believing it could bypass secure intelligence channels?",
+    "The South Atlantic Anomaly's Rapid, Uneven Weakening and Expansion: New satellite data confirms an unprecedented acceleration in the South Atlantic Anomaly's weakening and its uneven expansion, posing escalating threats to orbiting satellites as its distinct lobes grow."
   ],
-  "subcluster_idx": 6,
-  "call_count": 147
+  "subcluster_idx": 0,
+  "call_count": 148
 }
