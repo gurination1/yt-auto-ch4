@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How OpenAI patched a critical AI agent flaw that allowed attackers to forge internal access.",
     "How a critical communication antenna tower experienced unexpected material degradation, leading to a quiet, preemptive component replacement program across similar installations.",
     "How rigid urban infrastructure designs, failing to anticipate evolving needs, lead to costly retrofits and functional obsolescence.",
     "The unprecedented modernization of power grids to meet escalating energy demands from AI and EVs.",
@@ -89,8 +88,9 @@
     "The South Atlantic Anomaly's Rapid, Uneven Weakening and Expansion: New satellite data confirms an unprecedented acceleration in the South Atlantic Anomaly's weakening and its uneven expansion, posing escalating threats to orbiting satellites as its distinct lobes grow.",
     "A 4,000-year-old, almost completely intact clay tablet discovered in northern Italy is covered with an intricate arrangement of geometric markings, dots, lines, and symbols that archaeologists are currently unable to decipher, posing a new challenge to understanding Bronze Age communication.",
     "Wow Signal Deep Space Radio Anomaly #620",
-    "UFO Sighting Over Swindon Ignites Social Media Frenzy: Is This the UK's Latest Unidentified Aerial Phenomenon?"
+    "UFO Sighting Over Swindon Ignites Social Media Frenzy: Is This the UK's Latest Unidentified Aerial Phenomenon?",
+    "Wow Signal Deep Space Radio Anomaly #146"
   ],
-  "subcluster_idx": 3,
-  "call_count": 151
+  "subcluster_idx": 4,
+  "call_count": 152
 }
