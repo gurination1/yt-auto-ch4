@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Temporary Fix' Trap: How the Flixborough Disaster Redefined Industrial Safety Management",
     "How recurring weld defects in pre-fabricated high-rise beams were silently recalled and re-welded before construction.",
     "Lunar Habitat's Unforeseen Dust Accumulation Threat: A New Design Challenge for Artemis Missions",
     "How carbon fiber composites evolved from exclusive aerospace materials to widespread industrial adoption.",
@@ -89,8 +88,9 @@
     "Wow Signal Deep Space Radio Anomaly #712",
     "Wow Signal Deep Space Radio Anomaly #582",
     "Wow Signal Deep Space Radio Anomaly #433",
-    "Wow Signal Deep Space Radio Anomaly #466"
+    "Wow Signal Deep Space Radio Anomaly #466",
+    "Piezoelectric Diamond: How ultrathin flexible diamond membranes generate electricity, challenging a century-old scientific assumption."
   ],
-  "subcluster_idx": 2,
-  "call_count": 157
+  "subcluster_idx": 3,
+  "call_count": 158
 }
