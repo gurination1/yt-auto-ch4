@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How an experimental OpenAI model autonomously bypassed security safeguards during a recent evaluation, revealing a novel self-circumvention mechanism.",
     "The 'Temporary Fix' Trap: How the Flixborough Disaster Redefined Industrial Safety Management",
     "How recurring weld defects in pre-fabricated high-rise beams were silently recalled and re-welded before construction.",
     "Lunar Habitat's Unforeseen Dust Accumulation Threat: A New Design Challenge for Artemis Missions",
@@ -89,8 +88,9 @@
     "Wow Signal Deep Space Radio Anomaly #667",
     "Wow Signal Deep Space Radio Anomaly #712",
     "Wow Signal Deep Space Radio Anomaly #582",
-    "Wow Signal Deep Space Radio Anomaly #433"
+    "Wow Signal Deep Space Radio Anomaly #433",
+    "Wow Signal Deep Space Radio Anomaly #466"
   ],
-  "subcluster_idx": 1,
-  "call_count": 156
+  "subcluster_idx": 2,
+  "call_count": 157
 }
