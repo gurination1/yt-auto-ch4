@@ -153,5 +153,11 @@ BEACONS_LINK = os.environ.get("BEACONS_LINK", "https://beacons.ai/edu_fun")
 # Channel subcluster aliases for phase6_music compatibility
 NATURAL_WORLD_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
 HISTORY_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
-MYSTERY_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
+MYSTERY_SUBCLUSTERS = [
+    "unsolved archaeological enigmas and lost civilizations",
+    "bizarre geological anomalies and earth phenomena",
+    "deep space signal anomalies and cosmic paradoxes",
+    "unexplained disappearances and historical cold cases",
+    "ancient artifacts that defy modern science"
+]
 ENGINEERING_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
