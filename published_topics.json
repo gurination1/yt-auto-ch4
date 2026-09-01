@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Lunar Habitat's Unforeseen Dust Accumulation Threat: A New Design Challenge for Artemis Missions",
     "How carbon fiber composites evolved from exclusive aerospace materials to widespread industrial adoption.",
     "How ancient Greek amphitheater acoustics, using natural geometry and reflective surfaces, inspire modern concert hall and public space design.",
     "How Nanoscale Engineering Made a Cobalt-Aluminum Alloy 10x Stronger and Surprisingly Flexible",
@@ -89,8 +88,9 @@
     "Wow Signal Deep Space Radio Anomaly #433",
     "Wow Signal Deep Space Radio Anomaly #466",
     "Piezoelectric Diamond: How ultrathin flexible diamond membranes generate electricity, challenging a century-old scientific assumption.",
-    "How inherited epigenetic marks, like DNA methylation patterns, can persist across generations and influence traits without altering the underlying genetic sequence, defying traditional Mendelian inheritance."
+    "How inherited epigenetic marks, like DNA methylation patterns, can persist across generations and influence traits without altering the underlying genetic sequence, defying traditional Mendelian inheritance.",
+    "Wow Signal Deep Space Radio Anomaly #349"
   ],
-  "subcluster_idx": 4,
-  "call_count": 159
+  "subcluster_idx": 0,
+  "call_count": 160
 }
