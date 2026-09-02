@@ -81,10 +81,10 @@ Each object must have exactly these fields:
         import random, time
         rand_id = int(time.time()) % 1000
         topics_list = [
-            {"topic": f"Wow Signal Deep Space Radio Anomaly #{rand_id}", "short_hook": "Strange signal received from deep space.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
-            {"topic": f"Bermuda Triangle Methane Hydrate Sea Floor #{rand_id+1}", "short_hook": "Methane bubbles sink ships instantly.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
-            {"topic": f"Nazca Lines Sacred Geometry Desert Enigma #{rand_id+2}", "short_hook": "Massive geoglyphs visible only from sky.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
-            {"topic": f"Deep Sea Bloop Frequency Acoustic Sound #{rand_id+3}", "short_hook": "Ocean microphones recorded sound larger than blue whale.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster}
+            {"topic": f"Wow Signal Deep Space Radio Anomaly", "short_hook": "Strange signal received from deep space.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
+            {"topic": f"Bermuda Triangle Methane Hydrate Sea Floor", "short_hook": "Methane bubbles sink ships instantly.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
+            {"topic": f"Nazca Lines Sacred Geometry Desert Enigma", "short_hook": "Massive geoglyphs visible only from sky.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
+            {"topic": f"Deep Sea Bloop Frequency Acoustic Sound", "short_hook": "Ocean microphones recorded sound larger than blue whale.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster}
         ]
 
     # ── 4. Pick first topic matching format_type and not a duplicate ─────────
