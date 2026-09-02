@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How Nanoscale Engineering Made a Cobalt-Aluminum Alloy 10x Stronger and Surprisingly Flexible",
     "How AI Vision Is Proactively Redesigning Urban Intersections to Prevent Near-Miss Collisions",
     "How persistent machine vibrations silently loosened critical fasteners, prompting a quiet industry-wide shift to self-locking mechanisms.",
     "Proteotyping, a cutting-edge method analyzing protein fragments, has identified two potentially new extremophile bacteria in high-altitude lakes, a discovery with profound implications for detecting extraterrestrial life and expanding Earth's known biodiversity.",
@@ -89,8 +88,9 @@
     "How inherited epigenetic marks, like DNA methylation patterns, can persist across generations and influence traits without altering the underlying genetic sequence, defying traditional Mendelian inheritance.",
     "Wow Signal Deep Space Radio Anomaly #349",
     "Recent findings reveal 9,000-year-old obsidian arrowheads in Central Anatolia bearing deliberate, undeciphered incisions, baffling archaeologists about their symbolic or practical purpose beyond hunting.",
-    "How 'Gigantic Jets,' a rare form of lightning, actually launch upwards from thunderstorms into the ionosphere, driven by specific **charge imbalances** within the cloud and a unique **ionospheric coupling** mechanism."
+    "How 'Gigantic Jets,' a rare form of lightning, actually launch upwards from thunderstorms into the ionosphere, driven by specific **charge imbalances** within the cloud and a unique **ionospheric coupling** mechanism.",
+    "Wow Signal Deep Space Radio Anomaly"
   ],
-  "subcluster_idx": 2,
-  "call_count": 162
+  "subcluster_idx": 3,
+  "call_count": 163
 }
