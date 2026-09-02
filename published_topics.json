@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How carbon fiber composites evolved from exclusive aerospace materials to widespread industrial adoption.",
     "How ancient Greek amphitheater acoustics, using natural geometry and reflective surfaces, inspire modern concert hall and public space design.",
     "How Nanoscale Engineering Made a Cobalt-Aluminum Alloy 10x Stronger and Surprisingly Flexible",
     "How AI Vision Is Proactively Redesigning Urban Intersections to Prevent Near-Miss Collisions",
@@ -89,8 +88,9 @@
     "Wow Signal Deep Space Radio Anomaly #466",
     "Piezoelectric Diamond: How ultrathin flexible diamond membranes generate electricity, challenging a century-old scientific assumption.",
     "How inherited epigenetic marks, like DNA methylation patterns, can persist across generations and influence traits without altering the underlying genetic sequence, defying traditional Mendelian inheritance.",
-    "Wow Signal Deep Space Radio Anomaly #349"
+    "Wow Signal Deep Space Radio Anomaly #349",
+    "Recent findings reveal 9,000-year-old obsidian arrowheads in Central Anatolia bearing deliberate, undeciphered incisions, baffling archaeologists about their symbolic or practical purpose beyond hunting."
   ],
-  "subcluster_idx": 0,
-  "call_count": 160
+  "subcluster_idx": 1,
+  "call_count": 161
 }
