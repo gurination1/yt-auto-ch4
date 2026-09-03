@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How AI Vision Is Proactively Redesigning Urban Intersections to Prevent Near-Miss Collisions",
     "How persistent machine vibrations silently loosened critical fasteners, prompting a quiet industry-wide shift to self-locking mechanisms.",
     "Proteotyping, a cutting-edge method analyzing protein fragments, has identified two potentially new extremophile bacteria in high-altitude lakes, a discovery with profound implications for detecting extraterrestrial life and expanding Earth's known biodiversity.",
     "Over half of Earth's migratory bird species are in decline, facing threats like habitat loss and pollution, yet targeted conservation efforts show promise for recovery.",
@@ -89,8 +88,9 @@
     "Wow Signal Deep Space Radio Anomaly #349",
     "Recent findings reveal 9,000-year-old obsidian arrowheads in Central Anatolia bearing deliberate, undeciphered incisions, baffling archaeologists about their symbolic or practical purpose beyond hunting.",
     "How 'Gigantic Jets,' a rare form of lightning, actually launch upwards from thunderstorms into the ionosphere, driven by specific **charge imbalances** within the cloud and a unique **ionospheric coupling** mechanism.",
-    "Wow Signal Deep Space Radio Anomaly"
+    "Wow Signal Deep Space Radio Anomaly",
+    "French investigators are intensely analyzing a pistol recently discovered in Lake Annecy, hoping it holds the crucial clue to finally unravel the 2012 cold case of the British-Iraqi Al Hilli family murders, reigniting the hunt for answers in a long-unexplained tragedy."
   ],
-  "subcluster_idx": 3,
-  "call_count": 163
+  "subcluster_idx": 4,
+  "call_count": 164
 }
