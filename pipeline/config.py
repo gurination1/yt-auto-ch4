@@ -99,17 +99,20 @@ THUMBNAIL_LAYOUTS = [
     "split_left",         # dark left panel with text, right panel shows frame
 ]
 
-# topic sub-cluster rotation for Science and Technology channel
+# topic sub-cluster rotation for Mysteries and Unexplained channel
+CHANNEL_NICHE = os.environ.get("CHANNEL_NICHE", "mystery")
 SCIENCE_SUBCLUSTERS = [
-    "space exploration and astrophysics",
-    "physics and quantum mechanics mysteries",
-    "advanced chemistry and materials science",
-    "biotechnology and genetic engineering",
-    "future technology and computing breakthroughs",
+    "unsolved archaeological enigmas and out-of-place artifacts",
+    "geological anomalies and unexplained subterranean phenomena",
+    "deep space cosmic radio signals and astrophysical enigmas",
+    "historical vanishing anomalies and unexplained cold cases",
+    "bizarre ocean floor discoveries and maritime ghost ships",
 ]
+MYSTERY_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
 
 YT_CATEGORY_EDUCATION = "27"
-YT_CATEGORY_SCIENCE   = "28"
+YT_CATEGORY_SCIENCE   = "27"  # Education
+YT_CATEGORY_DEFAULT   = "27"
 NASA_BROLL_ENABLED    = True
 
 
