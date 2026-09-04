@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Over half of Earth's migratory bird species are in decline, facing threats like habitat loss and pollution, yet targeted conservation efforts show promise for recovery.",
     "How deep-sea proteins avoid collapse under extreme pressure using piezolyte molecules like TMAO to stabilize their structure.",
     "The dramatic impact of AI-powered camera traps and machine learning algorithms in accelerating wildlife tracking, enabling near real-time monitoring and significantly shortening data analysis from months to mere days for conservation efforts.",
     "A new chemical process transforms plastic waste into high-purity hydrogen fuel while simultaneously trapping carbon emissions, offering a dual solution for pollution and clean energy production.",
@@ -89,8 +88,9 @@
     "Wow Signal Deep Space Radio Anomaly",
     "French investigators are intensely analyzing a pistol recently discovered in Lake Annecy, hoping it holds the crucial clue to finally unravel the 2012 cold case of the British-Iraqi Al Hilli family murders, reigniting the hunt for answers in a long-unexplained tragedy.",
     "How marine wood-boring bivalves known as **teredo worms** systematically consume sunken wooden ghost ships using specialized symbiotic bacteria that secrete cellulolytic enzymes to break down dense hull timbers from the inside out.",
-    "A 1,900-year-old Roman gravestone discovered in a Louisiana backyard baffles experts, who cannot fully explain its improbable transatlantic journey."
+    "A 1,900-year-old Roman gravestone discovered in a Louisiana backyard baffles experts, who cannot fully explain its improbable transatlantic journey.",
+    "Newly Discovered Colossal Underground 'Bio-Dome' in Patagonian Cave System: An isolated, perfectly preserved ancient forest sealed for millennia."
   ],
-  "subcluster_idx": 1,
-  "call_count": 166
+  "subcluster_idx": 2,
+  "call_count": 167
 }
