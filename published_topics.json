@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Proteotyping, a cutting-edge method analyzing protein fragments, has identified two potentially new extremophile bacteria in high-altitude lakes, a discovery with profound implications for detecting extraterrestrial life and expanding Earth's known biodiversity.",
     "Over half of Earth's migratory bird species are in decline, facing threats like habitat loss and pollution, yet targeted conservation efforts show promise for recovery.",
     "How deep-sea proteins avoid collapse under extreme pressure using piezolyte molecules like TMAO to stabilize their structure.",
     "The dramatic impact of AI-powered camera traps and machine learning algorithms in accelerating wildlife tracking, enabling near real-time monitoring and significantly shortening data analysis from months to mere days for conservation efforts.",
@@ -89,8 +88,9 @@
     "How 'Gigantic Jets,' a rare form of lightning, actually launch upwards from thunderstorms into the ionosphere, driven by specific **charge imbalances** within the cloud and a unique **ionospheric coupling** mechanism.",
     "Wow Signal Deep Space Radio Anomaly",
     "French investigators are intensely analyzing a pistol recently discovered in Lake Annecy, hoping it holds the crucial clue to finally unravel the 2012 cold case of the British-Iraqi Al Hilli family murders, reigniting the hunt for answers in a long-unexplained tragedy.",
-    "How marine wood-boring bivalves known as **teredo worms** systematically consume sunken wooden ghost ships using specialized symbiotic bacteria that secrete cellulolytic enzymes to break down dense hull timbers from the inside out."
+    "How marine wood-boring bivalves known as **teredo worms** systematically consume sunken wooden ghost ships using specialized symbiotic bacteria that secrete cellulolytic enzymes to break down dense hull timbers from the inside out.",
+    "A 1,900-year-old Roman gravestone discovered in a Louisiana backyard baffles experts, who cannot fully explain its improbable transatlantic journey."
   ],
-  "subcluster_idx": 0,
-  "call_count": 165
+  "subcluster_idx": 1,
+  "call_count": 166
 }
