@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The dramatic impact of AI-powered camera traps and machine learning algorithms in accelerating wildlife tracking, enabling near real-time monitoring and significantly shortening data analysis from months to mere days for conservation efforts.",
     "A new chemical process transforms plastic waste into high-purity hydrogen fuel while simultaneously trapping carbon emissions, offering a dual solution for pollution and clean energy production.",
     "How genetic code degeneracy isn't truly silent due to **codon usage bias** and its effect on ribosomal pausing and protein folding.",
     "Scientists have leveraged AI to generate complete viral genomes from scratch, successfully creating 16 functional bacteriophages in the lab, marking a significant breakthrough in synthetic biology and posing dual-use implications for medicine and bioengineering.",
@@ -89,8 +88,9 @@
     "How marine wood-boring bivalves known as **teredo worms** systematically consume sunken wooden ghost ships using specialized symbiotic bacteria that secrete cellulolytic enzymes to break down dense hull timbers from the inside out.",
     "A 1,900-year-old Roman gravestone discovered in a Louisiana backyard baffles experts, who cannot fully explain its improbable transatlantic journey.",
     "Newly Discovered Colossal Underground 'Bio-Dome' in Patagonian Cave System: An isolated, perfectly preserved ancient forest sealed for millennia.",
-    "The Cosmic Radio Bursts That Emit More Power Than The Sun in a Millisecond"
+    "The Cosmic Radio Bursts That Emit More Power Than The Sun in a Millisecond",
+    "The Richat Structure: A 50-kilometer wide concentric circle in the Sahara visible from orbit"
   ],
-  "subcluster_idx": 3,
-  "call_count": 168
+  "subcluster_idx": 4,
+  "call_count": 169
 }
