@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Scientists have leveraged AI to generate complete viral genomes from scratch, successfully creating 16 functional bacteriophages in the lab, marking a significant breakthrough in synthetic biology and posing dual-use implications for medicine and bioengineering.",
     "SpaceX Rocket's Unplanned Moon Impact: A Lunar Crater's Unexpected Origin",
     "How dark energy expands the observable universe cosmos #155",
     "Quantum Teleportation Breakthrough Physics #1786075956",
@@ -89,8 +88,9 @@
     "The Cosmic Radio Bursts That Emit More Power Than The Sun in a Millisecond",
     "The Richat Structure: A 50-kilometer wide concentric circle in the Sahara visible from orbit",
     "The 'Jacuzzi of Despair': A Toxic Underwater Lake on the Ocean Floor That Kills Most Life",
-    "The Baghdad Battery: A 2,000-year-old clay pot, copper, and iron rod that can generate electricity, suggesting ancient civilizations understood power generation millennia before modern science."
+    "The Baghdad Battery: A 2,000-year-old clay pot, copper, and iron rod that can generate electricity, suggesting ancient civilizations understood power generation millennia before modern science.",
+    "The Devil's Kettle waterfall where half an entire river vanishes into a bottomless hole"
   ],
-  "subcluster_idx": 1,
-  "call_count": 171
+  "subcluster_idx": 2,
+  "call_count": 172
 }
