@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How dark energy expands the observable universe cosmos #155",
     "Quantum Teleportation Breakthrough Physics #1786075956",
     "Neutron Star Density Mysteries Astrophysics #1786077565",
     "How Quantum Error Correction doesn't 'fix' errors but rather isolates them using entangled 'ancilla' qubits and 'syndrome measurements' to protect computations from environmental noise.",
@@ -89,8 +88,9 @@
     "The 'Jacuzzi of Despair': A Toxic Underwater Lake on the Ocean Floor That Kills Most Life",
     "The Baghdad Battery: A 2,000-year-old clay pot, copper, and iron rod that can generate electricity, suggesting ancient civilizations understood power generation millennia before modern science.",
     "The Devil's Kettle waterfall where half an entire river vanishes into a bottomless hole",
-    "The 'Slowest Spinning Star': A Magnetar Emitting Radio Pulses Every 22 Minutes"
+    "The 'Slowest Spinning Star': A Magnetar Emitting Radio Pulses Every 22 Minutes",
+    "The Mary Celeste: A Ghost Ship Found Perfectly Seaworthy, Yet Everyone Vanished Mid-Meal"
   ],
-  "subcluster_idx": 3,
-  "call_count": 173
+  "subcluster_idx": 4,
+  "call_count": 174
 }
