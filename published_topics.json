@@ -1,10 +1,5 @@
 {
   "topics": [
-    "Scientists have leveraged AI to generate complete viral genomes from scratch, successfully creating 16 functional bacteriophages in the lab, marking a significant breakthrough in synthetic biology and posing dual-use implications for medicine and bioengineering.",
-    "SpaceX Rocket's Unplanned Moon Impact: A Lunar Crater's Unexpected Origin",
-    "How dark energy expands the observable universe cosmos #155",
-    "Quantum Teleportation Breakthrough Physics #1786075956",
-    "Neutron Star Density Mysteries Astrophysics #1786077565",
     "How Quantum Error Correction doesn't 'fix' errors but rather isolates them using entangled 'ancilla' qubits and 'syndrome measurements' to protect computations from environmental noise.",
     "Solar Wind Cosmic Shields Science #1786093165",
     "How dark energy expands the observable universe cosmos #51",
@@ -89,8 +84,13 @@
     "The Cosmic Radio Bursts That Emit More Power Than The Sun in a Millisecond",
     "The Richat Structure: A 50-kilometer wide concentric circle in the Sahara visible from orbit",
     "The 'Jacuzzi of Despair': A Toxic Underwater Lake on the Ocean Floor That Kills Most Life",
-    "The Baghdad Battery: A 2,000-year-old clay pot, copper, and iron rod that can generate electricity, suggesting ancient civilizations understood power generation millennia before modern science."
+    "The Baghdad Battery: A 2,000-year-old clay pot, copper, and iron rod that can generate electricity, suggesting ancient civilizations understood power generation millennia before modern science.",
+    "The Devil's Kettle waterfall where half an entire river vanishes into a bottomless hole",
+    "The 'Slowest Spinning Star': A Magnetar Emitting Radio Pulses Every 22 Minutes",
+    "The Mary Celeste: A Ghost Ship Found Perfectly Seaworthy, Yet Everyone Vanished Mid-Meal",
+    "Mysterious 'Singing Sands' on Ocean Floor Emit Eerie Tones",
+    "Groundbreaking Lidar Uncovers a Vast Network of 2,000-Year-Old Cities in the Amazon"
   ],
   "subcluster_idx": 1,
-  "call_count": 171
+  "call_count": 176
 }
