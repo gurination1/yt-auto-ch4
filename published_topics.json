@@ -74,9 +74,10 @@
     "Mysterious 'Singing Sands' on Ocean Floor Emit Eerie Tones",
     "Groundbreaking Lidar Uncovers a Vast Network of 2,000-Year-Old Cities in the Amazon",
     "Romania's 'Growing Stones' of Costesti: The Living Trovan\u021bi Boulders",
-    "The Krubera-Voronja Cave's 'Unending' Depths and Alien Life"
+    "The Krubera-Voronja Cave's 'Unending' Depths and Alien Life",
+    "Unexplained Hum in Ocean's Twilight Zone"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 1,
-  "call_count": 177
+  "subcluster_idx": 3,
+  "fallback_idx": 2,
+  "call_count": 178
 }
