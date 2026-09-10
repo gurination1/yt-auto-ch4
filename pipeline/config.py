@@ -95,58 +95,33 @@ THUMBNAIL_LAYOUTS = [
     "split_left",
 ]
 
-# ── Channel Boundary & Topic Isolation (Channel 4: Mysteries & Unexplained) ──
-CHANNEL_NICHE = os.environ.get("CHANNEL_NICHE", "mystery")
+# ── Channel Boundary & Topic Isolation (Channel 4: Marvel Engeneering - Engineering Marvels & How It Works) ──
+CHANNEL_NICHE = os.environ.get("CHANNEL_NICHE", "engineering")
 
 CHANNEL_BOUNDARY = {
     "channel_id": "ch4",
-    "name": "Channel 4: Mysteries & Unexplained",
-    "niche_description": "Out-of-place artifacts (OOPArts), unexplained subterranean voids and acoustic hums, deep sea acoustic anomalies (The Bloop, Julia), eerie maritime ghost ships, vanished expeditions, and unsolved historical paradoxes.",
+    "name": "Channel 4: Marvel Engeneering (Engineering Marvels & How It Works)",
+    "niche_description": "Colossal machines, extreme mechanisms, how things work under extreme physical forces, heavy industrial equipment, impossible structural megaprojects, and mind-blowing kinetic feats.",
     "allowed_subclusters": [
-        "archaeological out-of-place artifacts (OOPArts) and ancient enigmas",
-        "unexplained geological voids, acoustic hums, and subterranean cavities",
-        "deep sea acoustic anomalies, oceanic voids, and unexplained broadcasts",
-        "historical vanishings, eerie maritime ghost vessels, and vanished expeditions",
-        "unsolved physical anomalies, strange atmospheric lights, and terrestrial mysteries"
+        "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels",
+        "subterranean and subsea engineering marvels: liquid nitrogen ground-freezing TBMs, undersea immersed tubes, and earthquake-proof base isolators",
+        "colossal heavy-lifting machinery: Bagger 293 bucket-wheel excavators, crawler-transporters, and semi-submersible heavy-lift vessels",
+        "supertall skyscraper physics and wind damping: tuned mass dampers, aerodynamic vortex shedding, and high-speed elevator counterweights",
+        "hydraulic and nautical marvels: Panama Canal gravity water locks, Delta Works storm surge barriers, and dry dock hydraulic gates"
     ],
     "strict_negative_constraints": [
-        "NO modern civil engineering, modern construction, modern TBMs, modern dams, or modern skyscrapers.",
-        "NO standard wildlife documentaries, zoology, or routine animal behavior facts.",
-        "NO stock market finance, crypto, economics, hedge funds, or business strategy.",
-        "NO standard ancient siege weapons, routine Roman legion formations, or standard battle tactics."
+        "NO space astronomy, astrophysics, deep space telescopes, or black holes.",
+        "NO financial markets, corporate trading, crypto, hedge funds, or business strategy.",
+        "NO wildlife documentaries, zoology, animals, insects, or plant biology.",
+        "NO ancient warfare, Roman legions, swords, or medieval castles.",
+        "NO ghosts, supernatural folklore, UFOs, cryptids, or alien conspiracies."
     ],
     "negative_keywords": [
-        "modern civil engineering",
-        "tunnel boring machine",
-        "tbm",
-        "modern dam",
-        "modern skyscraper",
-        "highway construction",
-        "bridge construction",
-        "liebherr crane",
-        "bagger 288",
-        "bagger 293",
-        "wildlife documentary",
-        "zoology",
-        "animal behavior",
-        "insect mating",
-        "endangered species",
-        "crypto",
-        "bitcoin",
-        "stock market",
-        "wall street",
-        "hedge fund",
-        "private equity",
-        "tax-loss",
-        "quantum computing",
-        "quantum error correction",
-        "crispr",
-        "gene editing",
-        "siege engine",
-        "roman legion tactic",
-        "phalanx formation",
-        "gladiator battle",
-        "trebuchet mechanics"
+        "astronomy", "astrophysics", "telescope", "james webb", "black hole", "cosmology", "galaxy", "supernova",
+        "crypto", "bitcoin", "ethereum", "stock market", "hedge fund", "private equity", "tax-loss", "wall street", "venture capital",
+        "wildlife documentary", "zoology", "apex predator", "venomous snake", "insect swarm", "mammal species",
+        "siege weapon", "roman army", "roman legion", "gladiator", "medieval battle", "ancient warfare", "siege catapult", "trebuchet",
+        "ufo sighting", "alien abduction", "haunted house", "ghost ship", "bermuda triangle", "cryptid", "bigfoot"
     ]
 }
 
@@ -160,185 +135,185 @@ ENGINEERING_SUBCLUSTERS = CHANNEL_SUBCLUSTERS
 NICHE_SUBCLUSTERS = CHANNEL_SUBCLUSTERS
 
 YT_CATEGORY_EDUCATION = "27"
-YT_CATEGORY_SCIENCE   = "27"
-YT_CATEGORY_DEFAULT   = "27"
+YT_CATEGORY_SCIENCE   = "28"
+YT_CATEGORY_DEFAULT   = "28"
 NASA_BROLL_ENABLED    = True
 
 RICH_FALLBACK_TOPICS = [
     {
-        "topic": "The Antikythera Mechanism: The 2,000-year-old geared astronomical computer discovered in a Roman shipwreck",
-        "short_hook": "How did Greeks build a clockwork computer 2,000 years ago?",
+        "topic": "The Aircraft Carrier Steam Catapult: How a burst of 1,000 PSI steam hurls a 35-ton fighter jet from 0 to 165 mph in two seconds",
+        "short_hook": "How do you launch a 35-ton fighter jet off a ship in two seconds flat?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "archaeological out-of-place artifacts (OOPArts) and ancient enigmas"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     },
     {
-        "topic": "The Bloop: The ultra-low frequency deep ocean sound detected across 5,000 kilometers of the Pacific in 1997",
-        "short_hook": "What made a sound across 5,000 kilometers of ocean?",
+        "topic": "The Taipei 101 Tuned Mass Damper: How a 660-ton pendulum suspended on 8 steel cables keeps a 1,600-foot skyscraper from snapping in typhoons",
+        "short_hook": "Why is there a 660-ton golden ball suspended inside this skyscraper?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "deep sea acoustic anomalies, oceanic voids, and unexplained broadcasts"
+        "subcluster": "supertall skyscraper physics and wind damping: tuned mass dampers, aerodynamic vortex shedding, and high-speed elevator counterweights"
     },
     {
-        "topic": "The Mary Celeste Mystery: The seaworthy merchant vessel discovered sailing with cargo untouched and all crew vanished",
-        "short_hook": "The ghost ship found sailing with not a soul onboard.",
+        "topic": "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers",
+        "short_hook": "Engineers freeze entire underground rivers solid just to dig a tunnel.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "historical vanishings, eerie maritime ghost vessels, and vanished expeditions"
+        "subcluster": "subterranean and subsea engineering marvels: liquid nitrogen ground-freezing TBMs, undersea immersed tubes, and earthquake-proof base isolators"
     },
     {
-        "topic": "The Voynich Manuscript: The 15th-century parchment codex written in an undeciphered script with unknown flora",
-        "short_hook": "The 600-year-old book that no cryptographer can read.",
+        "topic": "The Bagger 293 Excavator: The 14,000-ton monster machine on Earth shifting 240,000 tons of earth daily with a 70-foot rotating wheel of blades",
+        "short_hook": "This single machine weighs more than 30 Boeing 747s.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "archaeological out-of-place artifacts (OOPArts) and ancient enigmas"
+        "subcluster": "colossal heavy-lifting machinery: Bagger 293 bucket-wheel excavators, crawler-transporters, and semi-submersible heavy-lift vessels"
     },
     {
-        "topic": "The Taos Hum: The pervasive low-frequency acoustic drone heard by 2% of residents that microphones fail to isolate",
-        "short_hook": "The mysterious hum that drives an entire town mad.",
+        "topic": "The Dockwise Vanguard: The semi-submersible heavy-lift ship that sinks its own deck below the ocean to scoop up 110,000-ton oil platforms",
+        "short_hook": "This ship intentionally sinks itself under water to carry other ships.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unexplained geological voids, acoustic hums, and subterranean cavities"
+        "subcluster": "colossal heavy-lifting machinery: Bagger 293 bucket-wheel excavators, crawler-transporters, and semi-submersible heavy-lift vessels"
     },
     {
-        "topic": "The Devil's Kettle Waterfall: The Minnesota river where half of the water vanishes into a bottomless geological pothole",
-        "short_hook": "Where does the water from this bottomless waterfall go?",
+        "topic": "Jet Engine Thrust Reversers: How titanium clamshell cascades redirect 100,000 pounds of jet exhaust forward to stop airliners on icy runways",
+        "short_hook": "How does a jet engine instantly slam the brakes on ice?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unexplained geological voids, acoustic hums, and subterranean cavities"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     },
     {
-        "topic": "The Baltic Sea Anomaly: The 200-foot geometric circular disc resting 300 feet below the surface with bizarre sonar echoes",
-        "short_hook": "What is the 200-foot disc resting under the Baltic Sea?",
+        "topic": "The Panama Canal Gravity Locks: How massive water gates lift 100,000-ton container ships 85 feet above sea level with zero electric water pumps",
+        "short_hook": "How do 100,000-ton ships climb 85 feet over a mountain using pure gravity?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "deep sea acoustic anomalies, oceanic voids, and unexplained broadcasts"
+        "subcluster": "hydraulic and nautical marvels: Panama Canal gravity water locks, Delta Works storm surge barriers, and dry dock hydraulic gates"
     },
     {
-        "topic": "The Hessdalen Lights: The unexplained geometric plasma orbs dancing over a Norwegian valley since 1981",
-        "short_hook": "The glowing orbs that appear over this valley for decades.",
+        "topic": "The Maeslantkering Barrier: Two Eiffel-Tower-sized floating steel barrier gates that automatically swing shut to block 16-foot North Sea tidal surges",
+        "short_hook": "These two floating steel gates are the size of two Eiffel Towers.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unsolved physical anomalies, strange atmospheric lights, and terrestrial mysteries"
+        "subcluster": "hydraulic and nautical marvels: Panama Canal gravity water locks, Delta Works storm surge barriers, and dry dock hydraulic gates"
     },
     {
-        "topic": "The Flannan Isle Lighthouse Vanishing: How three veteran keepers vanished from a locked island in 1900 with clocks stopped",
-        "short_hook": "Three lighthouse keepers vanished from a locked island.",
+        "topic": "Deepwater Capping Stacks: The 3-story 300-ton hydraulic steel valve lowered 5,000 feet underwater to seal high-pressure blowout oil wells",
+        "short_hook": "How do you plug an erupting oil well 5,000 feet beneath the sea?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "historical vanishings, eerie maritime ghost vessels, and vanished expeditions"
+        "subcluster": "colossal heavy-lifting machinery: Bagger 293 bucket-wheel excavators, crawler-transporters, and semi-submersible heavy-lift vessels"
     },
     {
-        "topic": "The Roman Dodecahedron: The hollow bronze 12-sided artifacts excavated across northern Europe with zero recorded purpose",
-        "short_hook": "Romans made these bronze objects, but nobody knows why.",
+        "topic": "Gotthard Base Tunnel Drilling: How 400-meter-long TBMs bored 57 kilometers through boiling Alpine granite under 7,500 feet of mountain pressure",
+        "short_hook": "Digging through 57 kilometers of boiling solid granite under the Alps.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "archaeological out-of-place artifacts (OOPArts) and ancient enigmas"
+        "subcluster": "subterranean and subsea engineering marvels: liquid nitrogen ground-freezing TBMs, undersea immersed tubes, and earthquake-proof base isolators"
     },
     {
-        "topic": "The Sailing Stones of Racetrack Playa: Heavy dolomite boulders moving across desert mud leaving hundreds of yards of tracks",
-        "short_hook": "The desert rocks that slide across the mud by themselves.",
+        "topic": "High-Speed Rail Pantographs: Why overhead electric wires must zig-zag back and forth to keep train pantographs from being sliced in half",
+        "short_hook": "Why do high-speed train power lines zig-zag instead of running straight?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unsolved physical anomalies, strange atmospheric lights, and terrestrial mysteries"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     },
     {
-        "topic": "The Dyatlov Pass Incident: The midnight evacuation and unexplained high-energy trauma of nine hikers in the Ural Mountains",
-        "short_hook": "What forced nine hikers to cut open their tent in subzero cold?",
+        "topic": "The Falkirk Wheel: The world's only rotating boat lift using the electric power of 8 boiling kettles to lift 600 tons of water and canal boats",
+        "short_hook": "This giant rotating wheel lifts 600 tons using less power than 8 boiling kettles.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "historical vanishings, eerie maritime ghost vessels, and vanished expeditions"
+        "subcluster": "hydraulic and nautical marvels: Panama Canal gravity water locks, Delta Works storm surge barriers, and dry dock hydraulic gates"
     },
     {
-        "topic": "The Yonaguni Monument: The colossal submerged sandstone terraces off Japan displaying precise 90-degree carved stone angles",
-        "short_hook": "Is this submerged stone pyramid man-made or natural?",
+        "topic": "Nuclear Submarine Ballast Systems: How 10,000-ton steel submarines dive 1,000 feet deep and blast high-pressure air to surface in seconds",
+        "short_hook": "How does a 10,000-ton nuclear submarine surface from the deep abyss in seconds?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "archaeological out-of-place artifacts (OOPArts) and ancient enigmas"
+        "subcluster": "hydraulic and nautical marvels: Panama Canal gravity water locks, Delta Works storm surge barriers, and dry dock hydraulic gates"
     },
     {
-        "topic": "The Wow! Signal: The 72-second narrowband hydrogen line radio signal detected by Ohio State's Big Ear in 1977",
-        "short_hook": "The 72-second radio signal that came from deep space.",
+        "topic": "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+        "short_hook": "How can a 150-ton military vessel float over solid land without touching it?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unsolved physical anomalies, strange atmospheric lights, and terrestrial mysteries"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     },
     {
-        "topic": "The Lost Colony of Roanoke: How 115 English colonists vanished without a struggle leaving only 'CROATOAN' carved on a post",
-        "short_hook": "115 colonists vanished, leaving only a single word carved.",
+        "topic": "Burj Khalifa Vortex Shedding: How aerodynamic spiral setbacks confuse high-altitude desert winds so the world's tallest tower doesn't sway into collapse",
+        "short_hook": "Why is the Burj Khalifa shaped like a spiral staircase?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "historical vanishings, eerie maritime ghost vessels, and vanished expeditions"
+        "subcluster": "supertall skyscraper physics and wind damping: tuned mass dampers, aerodynamic vortex shedding, and high-speed elevator counterweights"
     },
     {
-        "topic": "The Richat Structure: The 40-kilometer concentric geological circular dome in Mauritania visible from space",
-        "short_hook": "The giant geological eye in the Sahara desert.",
+        "topic": "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
+        "short_hook": "Tokyo built an underground cathedral powered by aircraft jet engines to stop floods.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unexplained geological voids, acoustic hums, and subterranean cavities"
+        "subcluster": "subterranean and subsea engineering marvels: liquid nitrogen ground-freezing TBMs, undersea immersed tubes, and earthquake-proof base isolators"
     },
     {
-        "topic": "The Upsweep Sound: The unidentified seasonal deep-ocean acoustic signal recorded continuously by NOAA hydrophones since 1991",
-        "short_hook": "The mysterious acoustic howl echoing through the Pacific.",
+        "topic": "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6",
+        "short_hook": "How do rockets detach booster stages at Mach 6 without blowing up?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "deep sea acoustic anomalies, oceanic voids, and unexplained broadcasts"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     },
     {
-        "topic": "The Baghdad Battery: The 2,000-year-old terracotta jars holding copper cylinders and iron rods resembling galvanic cells",
-        "short_hook": "Did ancient civilizations build electric batteries 2,000 years ago?",
+        "topic": "Subsea Immersed Tube Tunneling: How 50,000-ton concrete tunnel segments are precast on land, floated to sea, and sunk into underwater trenches",
+        "short_hook": "Engineers build subsea tunnels by sinking giant concrete boxes to the seafloor.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "archaeological out-of-place artifacts (OOPArts) and ancient enigmas"
+        "subcluster": "subterranean and subsea engineering marvels: liquid nitrogen ground-freezing TBMs, undersea immersed tubes, and earthquake-proof base isolators"
     },
     {
-        "topic": "The Movile Cave Subterranean Biosphere: The Romanian cavern sealed from the surface for 5 million years with sulfuric atmosphere",
-        "short_hook": "A sealed cave cut off from Earth for 5 million years.",
+        "topic": "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic",
+        "short_hook": "The Soviet mega-antenna that tapped into radios worldwide during the Cold War.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unexplained geological voids, acoustic hums, and subterranean cavities"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     },
     {
-        "topic": "G\u00f6bekli Tepe Megaliths: The 11,500-year-old temple complex erected millennia before pottery, metal tools, or wheel transport",
-        "short_hook": "How was the world's oldest stone temple built before metal?",
+        "topic": "Heavy Haul Train Dynamic Braking: How 20,000-ton iron ore trains convert immense gravitational kinetic energy into pure heat without wearing brakes",
+        "short_hook": "How do 20,000-ton trains stop on steep mountains without destroying their brakes?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "archaeological out-of-place artifacts (OOPArts) and ancient enigmas"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     },
     {
-        "topic": "The Marfa Lights of West Texas: The mysterious dancing nocturnal glowing spheres witnessed in the desert since 1883",
-        "short_hook": "The mysterious glowing desert spheres nobody can explain.",
+        "topic": "The Liebherr LR 13000: The world's most powerful crawler crane that hoists 3,000 tons of steel with 1,500 tons of suspended counterweights",
+        "short_hook": "The world's strongest crane can lift 3,000 tons of steel into the sky.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unsolved physical anomalies, strange atmospheric lights, and terrestrial mysteries"
+        "subcluster": "colossal heavy-lifting machinery: Bagger 293 bucket-wheel excavators, crawler-transporters, and semi-submersible heavy-lift vessels"
     },
     {
-        "topic": "The Julia Acoustic Broadcast: The chilling four-minute high-amplitude ocean broadcast recorded across the equatorial Pacific",
-        "short_hook": "The chilling deep-sea sound heard across an entire ocean.",
+        "topic": "Hydraulic Synchronized Bridge Jacking: How multi-million-pound pre-built bridges are slid into place across highways in 48 hours without closing traffic",
+        "short_hook": "How engineers slide an entire multi-lane highway bridge into place in 48 hours.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "deep sea acoustic anomalies, oceanic voids, and unexplained broadcasts"
+        "subcluster": "hydraulic and nautical marvels: Panama Canal gravity water locks, Delta Works storm surge barriers, and dry dock hydraulic gates"
     },
     {
-        "topic": "The Oak Island Money Pit: The 200-year-old engineered shaft protected by underground flooding booby traps",
-        "short_hook": "The buried treasure pit engineered with self-flooding traps.",
+        "topic": "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds",
+        "short_hook": "What keeps a 200-ton jet from shattering into pieces when it slams onto the runway?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "archaeological out-of-place artifacts (OOPArts) and ancient enigmas"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     },
     {
-        "topic": "The Lake Baikal Ice Rings: The massive 4-kilometer circular melting formations on Siberian ice visible only from orbit",
-        "short_hook": "The giant 4-kilometer circles that appear on Siberian ice.",
+        "topic": "TBM Tungsten Carbide Disc Cutters: How 17-inch rolling steel cutters exert 25 tons of focused hydraulic thrust to pulverize bedrock into chips",
+        "short_hook": "These rolling steel wheels crack solid mountain bedrock with 25 tons of force.",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "unexplained geological voids, acoustic hums, and subterranean cavities"
+        "subcluster": "subterranean and subsea engineering marvels: liquid nitrogen ground-freezing TBMs, undersea immersed tubes, and earthquake-proof base isolators"
     },
     {
-        "topic": "The SS Ourang Medan: The Dutch freighter found floating in 1947 with the entire crew dead with terror-stricken expressions",
-        "short_hook": "The ghost ship whose entire crew died with look of terror.",
+        "topic": "Cryogenic Vacuum Piping: How rocket fuel lines pump liquid hydrogen at minus 253 degrees Celsius through vacuum-jacketed double walls without boil-off",
+        "short_hook": "How do you transport liquid hydrogen at minus 253 degrees without it boiling away?",
         "hook_type": "curiosity_gap",
         "for_format": "both",
-        "subcluster": "historical vanishings, eerie maritime ghost vessels, and vanished expeditions"
+        "subcluster": "extreme kinetic and aerospace mechanics: aircraft carrier catapults, jet engine thrust reversers, turbopumps, and hypersonic wind tunnels"
     }
 ]
 
@@ -572,8 +547,8 @@ FLEET_NICHE_PROFILES = {
         "thumb_border": "#0B0014",
     },
     "engineering": {
-        "channel_id": "ch5",
-        "name": "Megaprojects & Engineering",
+        "channel_id": "ch4",
+        "name": "Marvel Engeneering (Engineering Marvels & How It Works)",
         "gemini_voice": "Orus",
         "kokoro_voice": "am_puck",
         "edge_voice": "en-US-BrianNeural",
@@ -606,18 +581,66 @@ FLEET_NICHE_PROFILES = {
             "sfx_vol": 0.32,
         },
         "container_metadata": {
-            "artist": "Apex Megaprojects / Heavy Industrial Engineering",
-            "genre": "Civil Engineering & Heavy Machinery / Megastructures",
-            "comment": "Documenting extreme infrastructure, tunnel boring breakthroughs, and colossal machines.",
+            "artist": "Marvel Engeneering / Engineering Marvels & How It Works",
+            "genre": "Engineering & Technology / Colossal Machines & Extreme Feats",
+            "comment": "Documenting colossal machines, extreme kinetic mechanisms, and how impossible engineering feats work.",
         },
         "color_curves": "eq=contrast=1.12:saturation=1.16:gamma=0.94,colorbalance=rs=0.02:rh=0.05:gh=0.02:bs=0.04:bh=-0.03",
-        "badge_text": "⚡ MEGA PROJECT",
+        "badge_text": "⚙ ENGINEERING MARVEL",
         "badge_border": "#FF5500",
         "badge_bg": "#101418",
         "thumb_font": "Barlow Condensed",
         "thumb_color1": "#FFFFFF",
         "thumb_color2": "#FF5500",
         "thumb_border": "#1A1E24",
+    },
+    "business": {
+        "channel_id": "ch5",
+        "name": "Mind Here Business (Business, Global Trade & Market Secrets)",
+        "gemini_voice": "Charon",
+        "kokoro_voice": "am_michael",
+        "edge_voice": "en-US-ChristopherNeural",
+        "cadence_speed": 1.02,
+        "vocal_tone": "bold_authority",
+        "persona_desc": "authoritative financial & trade investigator, 1.02x",
+        "subtitle_fonts": ["Montserrat", "Montserrat Black", "Bebas Neue"],
+        "c_base": "&H00FFFFFF&",          # Base: Pure Crisp White (#FFFFFF)
+        "c_active": "&H00A3E500&",        # Active: Wealth Emerald (#00E5A3)
+        "c_power": "&H0000D7FF&",         # Power Accent: Gold (#FFD700)
+        "outline_color": "&H000A0805&",   # Outline: 9px #05080A (obsidian navy)
+        "shadow_color": "&H80000000&",    # Shadow: 3px
+        "outline_w": 9,
+        "shadow_d": 3,
+        "blur": 1,
+        "margin_v": 440,
+        "procedural_chords": [
+            [("C", "min"), ("Ab", "maj"), ("Eb", "maj"), ("Bb", "maj")],
+            [("D", "min"), ("Bb", "maj"), ("F", "maj"), ("C", "maj")],
+            [("A", "min"), ("F", "maj"), ("C", "maj"), ("G", "maj")],
+        ],
+        "music_bpm": 112,
+        "foley_type": "digital_tech",
+        "ducking": {
+            "attack": 20,
+            "release": 250,
+            "ratio": 3.8,
+            "threshold": 0.08,
+            "music_vol": 0.22,
+            "sfx_vol": 0.28,
+        },
+        "container_metadata": {
+            "artist": "Mind Here Business / Global Trade & Corporate Investigations",
+            "genre": "Business & Economics / Global Trade & Market Secrets",
+            "comment": "Investigative documentary series on global supply chain chokepoints, corporate monopolies, and market secrets.",
+        },
+        "color_curves": "eq=contrast=1.12:saturation=1.10:gamma=0.95,colorbalance=rs=0.03:gs=0.04:bs=-0.02",
+        "badge_text": "$ TRADE SECRETS",
+        "badge_border": "#00E5A3",
+        "badge_bg": "#05120C",
+        "thumb_font": "Montserrat",
+        "thumb_color1": "#FFFFFF",
+        "thumb_color2": "#00E5A3",
+        "thumb_border": "#05080A",
     },
 }
 
