@@ -83,9 +83,10 @@
     "Bagger 293's Impossible Ground Pressure Secret: Why the World's Biggest Machine Doesn't Sink",
     "Skyscrapers That Use Their OWN Structure to Dampen Wind Sway",
     "Panama Canal's Million-Dollar Shipping Slots",
-    "Rocket Turbopumps: The 'Engine Inside An Engine' That Glows Red Hot While Pumping Ice"
+    "Rocket Turbopumps: The 'Engine Inside An Engine' That Glows Red Hot While Pumping Ice",
+    "The 'Cryo-Mole' TBM: Freezing Live Subterranean Rivers Solid Mid-Dig"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 10,
-  "call_count": 186
+  "subcluster_idx": 2,
+  "fallback_idx": 11,
+  "call_count": 187
 }
