@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Solar Wind Cosmic Shields Science",
     "How dark energy expands the observable universe cosmos",
     "How General Relativity's gravitational time dilation means clocks on Earth's surface actually tick slower than those in orbit, a critical factor for GPS accuracy.",
     "The internet is ablaze with speculation after a scientist vanished during a quantum physics experiment, sparking theories of parallel dimensions or unknown scientific phenomena.",
@@ -89,9 +88,10 @@
     "The Skyscraper's Secret Heartbeat: How a 1000-Ton Pendulum Swings Violently, Unseen, to Save a Building",
     "Netherlands Plans 'New Delta Works': Why Eighth Wonder Isn't Enough",
     "EMALS Rotor Flywheels: How Aircraft Carriers Store Gigawatts to Launch Jets",
-    "The Self-Healing Lead Core Base Isolators"
+    "The Self-Healing Lead Core Base Isolators",
+    "The NASA Crawler's Cold-Welding Threat: Why Extreme Pressure Demands Custom Chemical Lubricants"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 16,
-  "call_count": 192
+  "subcluster_idx": 3,
+  "fallback_idx": 17,
+  "call_count": 193
 }
