@@ -87,9 +87,10 @@
     "The 'Cryo-Mole' TBM: Freezing Live Subterranean Rivers Solid Mid-Dig",
     "World's Largest Land Machine Rendered Obsolete by Policy",
     "The Skyscraper's Secret Heartbeat: How a 1000-Ton Pendulum Swings Violently, Unseen, to Save a Building",
-    "Netherlands Plans 'New Delta Works': Why Eighth Wonder Isn't Enough"
+    "Netherlands Plans 'New Delta Works': Why Eighth Wonder Isn't Enough",
+    "EMALS Rotor Flywheels: How Aircraft Carriers Store Gigawatts to Launch Jets"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 14,
-  "call_count": 190
+  "subcluster_idx": 1,
+  "fallback_idx": 15,
+  "call_count": 191
 }
