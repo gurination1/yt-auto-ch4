@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The internet is ablaze with speculation after a scientist vanished during a quantum physics experiment, sparking theories of parallel dimensions or unknown scientific phenomena.",
     "Scientists have successfully recreated the complex chemistry of deadly plants like wolfsbane in the laboratory, paving the way for novel non-opioid painkillers, cancer drugs, and eco-friendly pesticides.",
     "Recent geological and sonar analyses provide fresh clues about the enigmatic Baltic Sea Anomaly, reigniting debates on its natural versus unknown origins.",
     "The accelerating rate at which advanced genetic genealogy and DNA testing are solving historical cold cases, leading to the identification of both victims and perpetrators decades after crimes were committed.",
@@ -89,9 +88,10 @@
     "The Self-Healing Lead Core Base Isolators",
     "The NASA Crawler's Cold-Welding Threat: Why Extreme Pressure Demands Custom Chemical Lubricants",
     "The 700-Ton Swinging Steel Pendulum Hidden Inside Taipei 101 That Fights Typhoon Winds",
-    "The Indestructible Wood Sealing the World's Deepest Dry Docks"
+    "The Indestructible Wood Sealing the World's Deepest Dry Docks",
+    "Hypersonic wind tunnel free-pistons that compress air so violently it turns into a glowing state of matter"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 19,
-  "call_count": 195
+  "subcluster_idx": 1,
+  "fallback_idx": 20,
+  "call_count": 196
 }
