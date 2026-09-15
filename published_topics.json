@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Artificial intelligence has revealed a previously unknown 24,000-year-old megastructure hidden beneath one of Earth's oldest pyramids, challenging established timelines of ancient engineering and purpose.",
     "NASA satellite data reveals 21% of the global ocean has mysteriously darkened, sparking urgent investigations into its causes and ecological impact.",
     "How the enigmatic Hessdalen Lights might be self-organizing **plasma-dust crystals** fueled by underground radioactive decay.",
     "Ahead of the August 12, 2026 solar eclipse, ancient myths from China, Norse, and India explaining celestial events are resurfacing, highlighting humanity's age-old attempts to understand the cosmos.",
@@ -89,9 +88,10 @@
     "The Fehmarnbelt Connection's 73,000-Ton Subsea 'Segment Sinking' Pontoon",
     "The Sacrificial Wood Blocks Stopping Warships From Crushing Themselves on Heavy-Lift Decks",
     "The 'Blow-Through' Ghost Floors of Supertall Skyscrapers",
-    "Deliberately Bending Dry Dock Caisson Gates under Ocean Pressure"
+    "Deliberately Bending Dry Dock Caisson Gates under Ocean Pressure",
+    "How jet engine thrust reversers physically slam massive titanium bucket doors to redirect forward exhaust directly into the oncoming wind."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 24,
-  "call_count": 200
+  "subcluster_idx": 1,
+  "fallback_idx": 0,
+  "call_count": 201
 }
