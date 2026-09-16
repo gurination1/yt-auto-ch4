@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Ahead of the August 12, 2026 solar eclipse, ancient myths from China, Norse, and India explaining celestial events are resurfacing, highlighting humanity's age-old attempts to understand the cosmos.",
     "The 'Ocean Dream' Cruise Ship: Viral Rediscovery of a Vessel Lost for Decades Now Found Frozen in Antarctica",
     "How declassified MKUltra documents inadvertently reveal the brain's reliance on **predictive coding** for reality construction, where extreme sensory deprivation causes the brain to generate vivid, internal simulations when external input is absent.",
     "A revived NASA satellite unexpectedly detected the formation of a new, persistent innermost radiation belt of protons around Earth following a powerful 2024 solar storm, challenging previous understandings of space weather recovery.",
@@ -89,9 +88,10 @@
     "Deliberately Bending Dry Dock Caisson Gates under Ocean Pressure",
     "How jet engine thrust reversers physically slam massive titanium bucket doors to redirect forward exhaust directly into the oncoming wind.",
     "How the Brenner Base Tunnel's liquid nitrogen freezing rigs use automated micro-heating arrays to prevent cryogenic ice pressure from lifting surface buildings",
-    "How semi-submersible heavy-lift vessels like the BOKA Vanguard intentionally sink their entire main decks underwater to swallow crippled offshore oil rigs whole."
+    "How semi-submersible heavy-lift vessels like the BOKA Vanguard intentionally sink their entire main decks underwater to swallow crippled offshore oil rigs whole.",
+    "Why high-speed elevator counterweights in supertalls like the Burj Khalifa use heavy magnetic brakes to avoid crushing themselves at terminal speed"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 2,
-  "call_count": 203
+  "subcluster_idx": 4,
+  "fallback_idx": 3,
+  "call_count": 204
 }
