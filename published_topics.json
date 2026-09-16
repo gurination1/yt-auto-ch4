@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the enigmatic Hessdalen Lights might be self-organizing **plasma-dust crystals** fueled by underground radioactive decay.",
     "Ahead of the August 12, 2026 solar eclipse, ancient myths from China, Norse, and India explaining celestial events are resurfacing, highlighting humanity's age-old attempts to understand the cosmos.",
     "The 'Ocean Dream' Cruise Ship: Viral Rediscovery of a Vessel Lost for Decades Now Found Frozen in Antarctica",
     "How declassified MKUltra documents inadvertently reveal the brain's reliance on **predictive coding** for reality construction, where extreme sensory deprivation causes the brain to generate vivid, internal simulations when external input is absent.",
@@ -89,9 +88,10 @@
     "The 'Blow-Through' Ghost Floors of Supertall Skyscrapers",
     "Deliberately Bending Dry Dock Caisson Gates under Ocean Pressure",
     "How jet engine thrust reversers physically slam massive titanium bucket doors to redirect forward exhaust directly into the oncoming wind.",
-    "How the Brenner Base Tunnel's liquid nitrogen freezing rigs use automated micro-heating arrays to prevent cryogenic ice pressure from lifting surface buildings"
+    "How the Brenner Base Tunnel's liquid nitrogen freezing rigs use automated micro-heating arrays to prevent cryogenic ice pressure from lifting surface buildings",
+    "How semi-submersible heavy-lift vessels like the BOKA Vanguard intentionally sink their entire main decks underwater to swallow crippled offshore oil rigs whole."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 1,
-  "call_count": 202
+  "subcluster_idx": 3,
+  "fallback_idx": 2,
+  "call_count": 203
 }
