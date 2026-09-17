@@ -1,6 +1,5 @@
 {
   "topics": [
-    "A revived NASA satellite unexpectedly detected the formation of a new, persistent innermost radiation belt of protons around Earth following a powerful 2024 solar storm, challenging previous understandings of space weather recovery.",
     "An enigmatic complex at Peru's ancient \u00c1spero settlement is now believed to be one of the Americas' earliest astronomical observatories, raising questions about advanced ancient knowledge.",
     "How the ocean's SOFAR channel can create \"acoustic lensing,\" making distant, faint deep-sea sounds appear incredibly loud and localized, mystifying their true origin.",
     "The 'Glowing Cloud' Phenomenon Over Greece: A Viral Misinterpretation of Rocket Exhaust",
@@ -89,9 +88,10 @@
     "How semi-submersible heavy-lift vessels like the BOKA Vanguard intentionally sink their entire main decks underwater to swallow crippled offshore oil rigs whole.",
     "Why high-speed elevator counterweights in supertalls like the Burj Khalifa use heavy magnetic brakes to avoid crushing themselves at terminal speed",
     "How the Panama Canal's Culvert Valves Handle a Relentless 250-Foot Head of Water Without Cavitating Into Vapor",
-    "How the LM2500 gas turbine's fuel turbopump spins at 35,000 RPM while pumping jet fuel at cryogenic temperatures, avoiding catastrophic vapor lock."
+    "How the LM2500 gas turbine's fuel turbopump spins at 35,000 RPM while pumping jet fuel at cryogenic temperatures, avoiding catastrophic vapor lock.",
+    "How the Fehmarnbelt Immersed Tunnel uses massive hydraulic positioning rams to dock 73,000-ton concrete segments on the seabed within millimeters"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 5,
-  "call_count": 206
+  "subcluster_idx": 2,
+  "fallback_idx": 6,
+  "call_count": 207
 }
