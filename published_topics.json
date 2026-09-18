@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Glowing Cloud' Phenomenon Over Greece: A Viral Misinterpretation of Rocket Exhaust",
     "New scientific evidence, including eDNA analysis, sonar mapping, and unexplained seismic patterns in Alaska's Lake Iliamna, is forcing researchers to reconsider the existence of a legendary lake monster, suggesting a large, unidentified creature may inhabit its deep waters.",
     "How gigantic, invisible **internal waves** deep beneath the ocean surface can capsize ships or drag them down without a trace, a phenomenon driven by density stratification.",
     "Declassified Pentagon Files Reveal Unexplained UAP Sightings from 2026 with Thermal Video Evidence",
@@ -89,9 +88,10 @@
     "How the LM2500 gas turbine's fuel turbopump spins at 35,000 RPM while pumping jet fuel at cryogenic temperatures, avoiding catastrophic vapor lock.",
     "How the Fehmarnbelt Immersed Tunnel uses massive hydraulic positioning rams to dock 73,000-ton concrete segments on the seabed within millimeters",
     "How NASA's Crawler-Transporter uses an ingenious internal gyroscopic leveling system to keep multi-thousand-ton space shuttles completely vertical while climbing a literal gravel ramp.",
-    "How supertall skyscrapers carve secret aerodynamic wind-shedding corners to completely disrupt catastrophic vortex shedding before it shears the steel frame."
+    "How supertall skyscrapers carve secret aerodynamic wind-shedding corners to completely disrupt catastrophic vortex shedding before it shears the steel frame.",
+    "How the Delta Works' Maeslantkering storm surge barrier uses hollow floating arms that intentionally flood and sink themselves to block the North Sea."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 8,
-  "call_count": 209
+  "subcluster_idx": 0,
+  "fallback_idx": 9,
+  "call_count": 210
 }
