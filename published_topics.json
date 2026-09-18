@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How gigantic, invisible **internal waves** deep beneath the ocean surface can capsize ships or drag them down without a trace, a phenomenon driven by density stratification.",
     "Declassified Pentagon Files Reveal Unexplained UAP Sightings from 2026 with Thermal Video Evidence",
     "The South Atlantic Anomaly's Unprecedented Splitting Event",
     "How Nazca Lines are preserved by a self-organizing geological mechanism, where 'desert pavement' acts as a dynamic, anti-erosion shield through aeolian processes and micro-sedimentation.",
@@ -89,9 +88,10 @@
     "How NASA's Crawler-Transporter uses an ingenious internal gyroscopic leveling system to keep multi-thousand-ton space shuttles completely vertical while climbing a literal gravel ramp.",
     "How supertall skyscrapers carve secret aerodynamic wind-shedding corners to completely disrupt catastrophic vortex shedding before it shears the steel frame.",
     "How the Delta Works' Maeslantkering storm surge barrier uses hollow floating arms that intentionally flood and sink themselves to block the North Sea.",
-    "How EMALS carrier catapults use linear synchronous motors to hurl 30-ton jets from zero to 160 mph in just two seconds using pulsed energy storage."
+    "How EMALS carrier catapults use linear synchronous motors to hurl 30-ton jets from zero to 160 mph in just two seconds using pulsed energy storage.",
+    "How liquid nitrogen ground-freezing TBMs instantly petrify saturated quicksand into solid rock to carve tunnels beneath historic city streets."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 10,
-  "call_count": 211
+  "subcluster_idx": 2,
+  "fallback_idx": 11,
+  "call_count": 212
 }
