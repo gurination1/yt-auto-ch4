@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The South Atlantic Anomaly's Unprecedented Splitting Event",
     "How Nazca Lines are preserved by a self-organizing geological mechanism, where 'desert pavement' acts as a dynamic, anti-erosion shield through aeolian processes and micro-sedimentation.",
     "Mysterious Repeating Cosmic Radio Signal Traced to 'Vampire' White Dwarf",
     "How the mythical Siren's call might have exploited **infrasound bioacoustic resonance**, where low-frequency waves induce disorientation and anxiety in sailors without being consciously heard.",
@@ -89,9 +88,10 @@
     "How the Delta Works' Maeslantkering storm surge barrier uses hollow floating arms that intentionally flood and sink themselves to block the North Sea.",
     "How EMALS carrier catapults use linear synchronous motors to hurl 30-ton jets from zero to 160 mph in just two seconds using pulsed energy storage.",
     "How liquid nitrogen ground-freezing TBMs instantly petrify saturated quicksand into solid rock to carve tunnels beneath historic city streets.",
-    "How the Bagger 293's rotating bucket wheel shears through dense brown coal using massive centrifugal forces without ripping its own boom apart from structural vibration."
+    "How the Bagger 293's rotating bucket wheel shears through dense brown coal using massive centrifugal forces without ripping its own boom apart from structural vibration.",
+    "How skyscraper tuned mass dampers employ colossal viscous fluid pots that instantly convert kinetic sway energy directly into thermal heat."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 12,
-  "call_count": 213
+  "subcluster_idx": 4,
+  "fallback_idx": 13,
+  "call_count": 214
 }
