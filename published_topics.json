@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Declassified Pentagon Files Reveal Unexplained UAP Sightings from 2026 with Thermal Video Evidence",
     "The South Atlantic Anomaly's Unprecedented Splitting Event",
     "How Nazca Lines are preserved by a self-organizing geological mechanism, where 'desert pavement' acts as a dynamic, anti-erosion shield through aeolian processes and micro-sedimentation.",
     "Mysterious Repeating Cosmic Radio Signal Traced to 'Vampire' White Dwarf",
@@ -89,9 +88,10 @@
     "How supertall skyscrapers carve secret aerodynamic wind-shedding corners to completely disrupt catastrophic vortex shedding before it shears the steel frame.",
     "How the Delta Works' Maeslantkering storm surge barrier uses hollow floating arms that intentionally flood and sink themselves to block the North Sea.",
     "How EMALS carrier catapults use linear synchronous motors to hurl 30-ton jets from zero to 160 mph in just two seconds using pulsed energy storage.",
-    "How liquid nitrogen ground-freezing TBMs instantly petrify saturated quicksand into solid rock to carve tunnels beneath historic city streets."
+    "How liquid nitrogen ground-freezing TBMs instantly petrify saturated quicksand into solid rock to carve tunnels beneath historic city streets.",
+    "How the Bagger 293's rotating bucket wheel shears through dense brown coal using massive centrifugal forces without ripping its own boom apart from structural vibration."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 11,
-  "call_count": 212
+  "subcluster_idx": 3,
+  "fallback_idx": 12,
+  "call_count": 213
 }
