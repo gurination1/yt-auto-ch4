@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Mysterious Repeating Cosmic Radio Signal Traced to 'Vampire' White Dwarf",
     "How the mythical Siren's call might have exploited **infrasound bioacoustic resonance**, where low-frequency waves induce disorientation and anxiety in sailors without being consciously heard.",
     "The 'Ocean Census' initiative announced the discovery of over 1,000 previously unknown marine species in a landmark year, including bizarre 'ghost sharks,' fundamentally reshaping our understanding of deep-ocean ecosystems and undiscovered life.",
     "A significant legal push is underway in 2026 to 'dispose of' over 300 long-standing cold cases, signaling a systemic effort by prosecutors to clear backlogs and leverage modern forensic capabilities for justice.",
@@ -89,9 +88,10 @@
     "How liquid nitrogen ground-freezing TBMs instantly petrify saturated quicksand into solid rock to carve tunnels beneath historic city streets.",
     "How the Bagger 293's rotating bucket wheel shears through dense brown coal using massive centrifugal forces without ripping its own boom apart from structural vibration.",
     "How skyscraper tuned mass dampers employ colossal viscous fluid pots that instantly convert kinetic sway energy directly into thermal heat.",
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "How the Space Shuttle main engine turbopump spins fast enough to vaporize titanium if a single microscopic drop of liquid oxygen touches hot metal."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 14,
-  "call_count": 215
+  "subcluster_idx": 1,
+  "fallback_idx": 15,
+  "call_count": 216
 }
