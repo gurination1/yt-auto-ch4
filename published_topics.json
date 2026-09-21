@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the 'sailing stones' of Racetrack Playa are moved by ice-rafting, where thin ice sheets, formed under rare conditions, carry heavy rocks across a slick, muddy surface, propelled by light winds.",
     "Recent underground scans beneath Egypt's pyramids and Stonehenge reveal complex hidden chambers and engineering defying known ancient methods, reigniting debates on lost technology.",
     "Mysterious 'Flee-Inducing' Thump from Challenger Deep Challenges Earth's Structure",
     "How ball lightning's eerie glow might be explained by **silicon nanoparticles** forming a glowing plasma from ground strike vaporization.",
@@ -89,9 +88,10 @@
     "How the Space Shuttle main engine turbopump spins fast enough to vaporize titanium if a single microscopic drop of liquid oxygen touches hot metal.",
     "How Earth-pressure-balance TBMs inject specialized foam polymers into unstable subterranean gravel layers to maintain continuous face pressure and stop catastrophic surface sinkholes.",
     "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6",
-    "Why High-Speed Elevator Emergency Brake Systems in Megatall Skyscrapers Must Dissipate Mega-Joules of Friction Heat Without Fading"
+    "Why High-Speed Elevator Emergency Brake Systems in Megatall Skyscrapers Must Dissipate Mega-Joules of Friction Heat Without Fading",
+    "How the Panama Canal's massive rolling caisson lock gates utilize hollow air buoyancy chambers to maneuver thousands of tons of steel effortlessly underwater."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 18,
-  "call_count": 219
+  "subcluster_idx": 0,
+  "fallback_idx": 19,
+  "call_count": 220
 }
