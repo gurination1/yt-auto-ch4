@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Mysterious 'Flee-Inducing' Thump from Challenger Deep Challenges Earth's Structure",
     "How ball lightning's eerie glow might be explained by **silicon nanoparticles** forming a glowing plasma from ground strike vaporization.",
     "A viral online movement in China, fueled by 'baffling astrological data,' insists the ancient Tang Dynasty never existed, challenging historical consensus and igniting a national debate on ancient legends and digital-age folklore.",
     "The unexplained 16-day disappearance from radar of the Mikyle Britain cargo ship and its mysterious reappearance with military cargo, sparking international intrigue.",
@@ -89,9 +88,10 @@
     "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6",
     "Why High-Speed Elevator Emergency Brake Systems in Megatall Skyscrapers Must Dissipate Mega-Joules of Friction Heat Without Fading",
     "How the Panama Canal's massive rolling caisson lock gates utilize hollow air buoyancy chambers to maneuver thousands of tons of steel effortlessly underwater.",
-    "How the NASA Langley hypersonic Ludwieg tube generates high-enthalpy flow fields that briefly recreate atmospheric re-entry thermal loads on test articles."
+    "How the NASA Langley hypersonic Ludwieg tube generates high-enthalpy flow fields that briefly recreate atmospheric re-entry thermal loads on test articles.",
+    "How the Marmaray Tunnel's seismic link uses clever flexible joints to survive extreme tectonic shear between two drifting continental plates."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 20,
-  "call_count": 221
+  "subcluster_idx": 2,
+  "fallback_idx": 21,
+  "call_count": 222
 }
