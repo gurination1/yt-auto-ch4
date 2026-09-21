@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Recent underground scans beneath Egypt's pyramids and Stonehenge reveal complex hidden chambers and engineering defying known ancient methods, reigniting debates on lost technology.",
     "Mysterious 'Flee-Inducing' Thump from Challenger Deep Challenges Earth's Structure",
     "How ball lightning's eerie glow might be explained by **silicon nanoparticles** forming a glowing plasma from ground strike vaporization.",
     "A viral online movement in China, fueled by 'baffling astrological data,' insists the ancient Tang Dynasty never existed, challenging historical consensus and igniting a national debate on ancient legends and digital-age folklore.",
@@ -89,9 +88,10 @@
     "How Earth-pressure-balance TBMs inject specialized foam polymers into unstable subterranean gravel layers to maintain continuous face pressure and stop catastrophic surface sinkholes.",
     "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6",
     "Why High-Speed Elevator Emergency Brake Systems in Megatall Skyscrapers Must Dissipate Mega-Joules of Friction Heat Without Fading",
-    "How the Panama Canal's massive rolling caisson lock gates utilize hollow air buoyancy chambers to maneuver thousands of tons of steel effortlessly underwater."
+    "How the Panama Canal's massive rolling caisson lock gates utilize hollow air buoyancy chambers to maneuver thousands of tons of steel effortlessly underwater.",
+    "How the NASA Langley hypersonic Ludwieg tube generates high-enthalpy flow fields that briefly recreate atmospheric re-entry thermal loads on test articles."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 19,
-  "call_count": 220
+  "subcluster_idx": 1,
+  "fallback_idx": 20,
+  "call_count": 221
 }
