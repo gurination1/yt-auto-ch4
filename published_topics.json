@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The unexplained 16-day disappearance from radar of the Mikyle Britain cargo ship and its mysterious reappearance with military cargo, sparking international intrigue.",
     "What if the 'Mad Gasser of Mattoon' cold case was a real-world example of **mass psychogenic illness**, where societal anxiety and suggestion, rather than a physical assailant, created a widespread, tangible panic?",
     "Scientists are tracking a massive, expanding geological void beneath North America, where tectonic plates are actively peeling apart, hinting at unusual deep Earth dynamics.",
     "New dwelling discoveries at G\u00f6bekli Tepe are forcing a re-evaluation of its long-held 'world's first temple' narrative, igniting debate on early human societal structures and the site's true function.",
@@ -89,9 +88,10 @@
     "How the NASA Langley hypersonic Ludwieg tube generates high-enthalpy flow fields that briefly recreate atmospheric re-entry thermal loads on test articles.",
     "How the Marmaray Tunnel's seismic link uses clever flexible joints to survive extreme tectonic shear between two drifting continental plates.",
     "Hydraulic Synchronized Bridge Jacking: How multi-million-pound pre-built bridges are slid into place across highways in 48 hours without closing traffic",
-    "Cryogenic Vacuum Piping: How rocket fuel lines pump liquid hydrogen at minus 253 degrees Celsius through vacuum-jacketed double walls without boil-off"
+    "Cryogenic Vacuum Piping: How rocket fuel lines pump liquid hydrogen at minus 253 degrees Celsius through vacuum-jacketed double walls without boil-off",
+    "Deepwater Capping Stacks: The 3-story 300-ton hydraulic steel valve lowered 5,000 feet underwater to seal high-pressure blowout oil wells"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 0,
-  "call_count": 224
+  "subcluster_idx": 0,
+  "fallback_idx": 9,
+  "call_count": 225
 }
