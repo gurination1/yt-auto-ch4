@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Wow Signal Deep Space Radio Anomaly",
     "The 'Cat in the Hat' AI Hoax: How Generative AI is Rapidly Shaping New Digital Folklore and Cryptid Beliefs",
     "How a sudden, massive release of **methane clathrates** from the seafloor can instantly reduce water density, causing ships to lose buoyancy and plunge beneath the waves.",
     "Newly declassified military recordings reveal unexplainable UAP maneuvers, including a 'black sphere' over the Pacific and a 'six-pointed star' over the Yellow Sea, challenging known aerial capabilities.",
@@ -89,9 +88,10 @@
     "How Ludwieg-tube hypersonic facilities use miles-long compression tubes to generate temperatures hotter than the sun for milliseconds of testing.",
     "How skyscraper base isolators use layered lead-rubber elastomeric bearings to decouple massive superstructures completely from rolling earthquake ground waves.",
     "How the staggering track weight of the Bagger 293 is evenly distributed to prevent this colossal mining leviathan from sinking straight into soft mud.",
-    "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons"
+    "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
+    "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 16,
-  "call_count": 229
+  "subcluster_idx": 0,
+  "fallback_idx": 19,
+  "call_count": 230
 }
