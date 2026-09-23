@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How some deep-sea creatures deploy bioluminescent \"mines\" or \"burglar alarms\" using **sacrificial luminescence** to attract larger predators to their attackers, turning light into a defensive weapon.",
     "Wow Signal Deep Space Radio Anomaly",
     "The 'Cat in the Hat' AI Hoax: How Generative AI is Rapidly Shaping New Digital Folklore and Cryptid Beliefs",
     "How a sudden, massive release of **methane clathrates** from the seafloor can instantly reduce water density, causing ships to lose buoyancy and plunge beneath the waves.",
@@ -89,9 +88,10 @@
     "Deepwater Capping Stacks: The 3-story 300-ton hydraulic steel valve lowered 5,000 feet underwater to seal high-pressure blowout oil wells",
     "How Ludwieg-tube hypersonic facilities use miles-long compression tubes to generate temperatures hotter than the sun for milliseconds of testing.",
     "How skyscraper base isolators use layered lead-rubber elastomeric bearings to decouple massive superstructures completely from rolling earthquake ground waves.",
-    "How the staggering track weight of the Bagger 293 is evenly distributed to prevent this colossal mining leviathan from sinking straight into soft mud."
+    "How the staggering track weight of the Bagger 293 is evenly distributed to prevent this colossal mining leviathan from sinking straight into soft mud.",
+    "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 12,
-  "call_count": 228
+  "subcluster_idx": 4,
+  "fallback_idx": 16,
+  "call_count": 229
 }
