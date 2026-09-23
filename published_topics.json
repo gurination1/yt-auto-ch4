@@ -1,6 +1,5 @@
 {
   "topics": [
-    "New dwelling discoveries at G\u00f6bekli Tepe are forcing a re-evaluation of its long-held 'world's first temple' narrative, igniting debate on early human societal structures and the site's true function.",
     "How some deep-sea creatures deploy bioluminescent \"mines\" or \"burglar alarms\" using **sacrificial luminescence** to attract larger predators to their attackers, turning light into a defensive weapon.",
     "Wow Signal Deep Space Radio Anomaly",
     "The 'Cat in the Hat' AI Hoax: How Generative AI is Rapidly Shaping New Digital Folklore and Cryptid Beliefs",
@@ -89,9 +88,10 @@
     "Cryogenic Vacuum Piping: How rocket fuel lines pump liquid hydrogen at minus 253 degrees Celsius through vacuum-jacketed double walls without boil-off",
     "Deepwater Capping Stacks: The 3-story 300-ton hydraulic steel valve lowered 5,000 feet underwater to seal high-pressure blowout oil wells",
     "How Ludwieg-tube hypersonic facilities use miles-long compression tubes to generate temperatures hotter than the sun for milliseconds of testing.",
-    "How skyscraper base isolators use layered lead-rubber elastomeric bearings to decouple massive superstructures completely from rolling earthquake ground waves."
+    "How skyscraper base isolators use layered lead-rubber elastomeric bearings to decouple massive superstructures completely from rolling earthquake ground waves.",
+    "How the staggering track weight of the Bagger 293 is evenly distributed to prevent this colossal mining leviathan from sinking straight into soft mud."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 11,
-  "call_count": 227
+  "subcluster_idx": 3,
+  "fallback_idx": 12,
+  "call_count": 228
 }
