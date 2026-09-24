@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How a sudden, massive release of **methane clathrates** from the seafloor can instantly reduce water density, causing ships to lose buoyancy and plunge beneath the waves.",
     "Newly declassified military recordings reveal unexplainable UAP maneuvers, including a 'black sphere' over the Pacific and a 'six-pointed star' over the Yellow Sea, challenging known aerial capabilities.",
     "Enigmatic micro-burrows in ancient desert rocks hint at undiscovered litho-microbial life, challenging geological and biological paradigms.",
     "How the 'Earthquake-Proof' Inca masonry at Sacsayhuaman actually works by employing a **cyclopean dry-stack technique** where stones are cut with internal angles and complex interlocking shapes, allowing them to 'dance' and resettle during seismic events.",
@@ -89,9 +88,10 @@
     "How the staggering track weight of the Bagger 293 is evenly distributed to prevent this colossal mining leviathan from sinking straight into soft mud.",
     "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
     "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic",
-    "How an aircraft carrier's steam catapult piston moves at terminal velocity inside a sealed deck cylinder, requiring massive water brakes to violently halt a multi-ton shuttle in milliseconds."
+    "How an aircraft carrier's steam catapult piston moves at terminal velocity inside a sealed deck cylinder, requiring massive water brakes to violently halt a multi-ton shuttle in milliseconds.",
+    "The Liebherr LR 13000: The world's most powerful crawler crane that hoists 3,000 tons of steel with 1,500 tons of suspended counterweights"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 20,
-  "call_count": 231
+  "subcluster_idx": 2,
+  "fallback_idx": 21,
+  "call_count": 232
 }
