@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Cat in the Hat' AI Hoax: How Generative AI is Rapidly Shaping New Digital Folklore and Cryptid Beliefs",
     "How a sudden, massive release of **methane clathrates** from the seafloor can instantly reduce water density, causing ships to lose buoyancy and plunge beneath the waves.",
     "Newly declassified military recordings reveal unexplainable UAP maneuvers, including a 'black sphere' over the Pacific and a 'six-pointed star' over the Yellow Sea, challenging known aerial capabilities.",
     "Enigmatic micro-burrows in ancient desert rocks hint at undiscovered litho-microbial life, challenging geological and biological paradigms.",
@@ -89,9 +88,10 @@
     "How skyscraper base isolators use layered lead-rubber elastomeric bearings to decouple massive superstructures completely from rolling earthquake ground waves.",
     "How the staggering track weight of the Bagger 293 is evenly distributed to prevent this colossal mining leviathan from sinking straight into soft mud.",
     "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
-    "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic"
+    "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic",
+    "How an aircraft carrier's steam catapult piston moves at terminal velocity inside a sealed deck cylinder, requiring massive water brakes to violently halt a multi-ton shuttle in milliseconds."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 19,
-  "call_count": 230
+  "subcluster_idx": 1,
+  "fallback_idx": 20,
+  "call_count": 231
 }
