@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Bermuda Triangle Methane Hydrate Sea Floor",
     "How the legendary Kraken might be a cultural memory of deep-sea **chemosynthetic ecosystems** that support truly colossal invertebrates, only rarely surfacing from their abyssal zones.",
     "Viral social media posts are dissecting the enigma of an empty boat found repeatedly circling off Florida and the Bahamas, with its autopilot unable to explain its erratic behavior after being disengaged.",
     "Deep Sea Bloop Frequency Acoustic Sound",
@@ -89,9 +88,10 @@
     "Why NASA's Crawler-Transporter must rely on specialized roller-bearing assemblies to prevent catastrophic steel-on-steel cold-welding under crushing loads.",
     "How Shanghai Tower's twisted asymmetric outer glass skin tricks wind currents into destroying their own synchronized harmonic pressure.",
     "High-Speed Rail Pantographs: Why overhead electric wires must zig-zag back and forth to keep train pantographs from being sliced in half",
-    "The Aircraft Carrier Steam Catapult: How a burst of 1,000 PSI steam hurls a 35-ton fighter jet from 0 to 165 mph in two seconds"
+    "The Aircraft Carrier Steam Catapult: How a burst of 1,000 PSI steam hurls a 35-ton fighter jet from 0 to 165 mph in two seconds",
+    "The Taipei 101 Tuned Mass Damper: How a 660-ton pendulum suspended on 8 steel cables keeps a 1,600-foot skyscraper from snapping in typhoons"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 1,
-  "call_count": 236
+  "subcluster_idx": 2,
+  "fallback_idx": 2,
+  "call_count": 237
 }
