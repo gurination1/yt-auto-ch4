@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the 'Earthquake-Proof' Inca masonry at Sacsayhuaman actually works by employing a **cyclopean dry-stack technique** where stones are cut with internal angles and complex interlocking shapes, allowing them to 'dance' and resettle during seismic events.",
     "Unidentified 'Steady, Patient' Sound Eliciting Fear from Challenger Deep Expedition, Originating from Uncharted Seafloor 'Deep Cuts'",
     "Bermuda Triangle Methane Hydrate Sea Floor",
     "How the legendary Kraken might be a cultural memory of deep-sea **chemosynthetic ecosystems** that support truly colossal invertebrates, only rarely surfacing from their abyssal zones.",
@@ -89,9 +88,10 @@
     "How an aircraft carrier's steam catapult piston moves at terminal velocity inside a sealed deck cylinder, requiring massive water brakes to violently halt a multi-ton shuttle in milliseconds.",
     "The Liebherr LR 13000: The world's most powerful crawler crane that hoists 3,000 tons of steel with 1,500 tons of suspended counterweights",
     "Why NASA's Crawler-Transporter must rely on specialized roller-bearing assemblies to prevent catastrophic steel-on-steel cold-welding under crushing loads.",
-    "How Shanghai Tower's twisted asymmetric outer glass skin tricks wind currents into destroying their own synchronized harmonic pressure."
+    "How Shanghai Tower's twisted asymmetric outer glass skin tricks wind currents into destroying their own synchronized harmonic pressure.",
+    "High-Speed Rail Pantographs: Why overhead electric wires must zig-zag back and forth to keep train pantographs from being sliced in half"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 23,
-  "call_count": 234
+  "subcluster_idx": 0,
+  "fallback_idx": 11,
+  "call_count": 235
 }
