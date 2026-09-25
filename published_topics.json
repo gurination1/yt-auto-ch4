@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Viral social media posts are dissecting the enigma of an empty boat found repeatedly circling off Florida and the Bahamas, with its autopilot unable to explain its erratic behavior after being disengaged.",
     "Deep Sea Bloop Frequency Acoustic Sound",
     "How 'gravity hills' actually work by exploiting the brain's visual processing through a subtle **horizon line illusion**, making uphill feel downhill.",
     "An 11,000-year-old statue of a person riding a leopard, unearthed at Turkey's Karahantepe, presents a unique and unprecedented artistic style, sparking debate on early Neolithic symbolism and cultural beliefs.",
@@ -89,9 +88,10 @@
     "High-Speed Rail Pantographs: Why overhead electric wires must zig-zag back and forth to keep train pantographs from being sliced in half",
     "The Aircraft Carrier Steam Catapult: How a burst of 1,000 PSI steam hurls a 35-ton fighter jet from 0 to 165 mph in two seconds",
     "The Taipei 101 Tuned Mass Damper: How a 660-ton pendulum suspended on 8 steel cables keeps a 1,600-foot skyscraper from snapping in typhoons",
-    "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers"
+    "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers",
+    "How high-speed elevator hoist ropes stretch by several feet under their own massive deadweight during express transit in supertall towers."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 3,
-  "call_count": 238
+  "subcluster_idx": 4,
+  "fallback_idx": 4,
+  "call_count": 239
 }
