@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How 'gravity hills' actually work by exploiting the brain's visual processing through a subtle **horizon line illusion**, making uphill feel downhill.",
     "An 11,000-year-old statue of a person riding a leopard, unearthed at Turkey's Karahantepe, presents a unique and unprecedented artistic style, sparking debate on early Neolithic symbolism and cultural beliefs.",
     "How ground-based facilities like HAARP can intentionally \"heat\" regions of the Earth's ionosphere using powerful radio waves, leading to localized **electron cyclotron resonance** that creates artificial plasma glows and modifies atmospheric properties.",
     "The ongoing mystery surrounding the MV Ocean Winner: an empty lifeboat discovered, but the entire crew remains missing, fueling intense speculation.",
@@ -89,9 +88,10 @@
     "The Taipei 101 Tuned Mass Damper: How a 660-ton pendulum suspended on 8 steel cables keeps a 1,600-foot skyscraper from snapping in typhoons",
     "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers",
     "How high-speed elevator hoist ropes stretch by several feet under their own massive deadweight during express transit in supertall towers.",
-    "The Bagger 293 Excavator: The 14,000-ton monster machine on Earth shifting 240,000 tons of earth daily with a 70-foot rotating wheel of blades"
+    "The Bagger 293 Excavator: The 14,000-ton monster machine on Earth shifting 240,000 tons of earth daily with a 70-foot rotating wheel of blades",
+    "The Dockwise Vanguard: The semi-submersible heavy-lift ship that sinks its own deck below the ocean to scoop up 110,000-ton oil platforms"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 4,
-  "call_count": 240
+  "subcluster_idx": 1,
+  "fallback_idx": 5,
+  "call_count": 241
 }
