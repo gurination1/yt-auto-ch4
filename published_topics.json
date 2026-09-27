@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What if declassified Project Stargate files show the U.S. government spent millions trying to weaponize **anomalous cognition** through specific \"remote viewing\" protocols, believing it could bypass secure intelligence channels?",
     "The South Atlantic Anomaly's Rapid, Uneven Weakening and Expansion: New satellite data confirms an unprecedented acceleration in the South Atlantic Anomaly's weakening and its uneven expansion, posing escalating threats to orbiting satellites as its distinct lobes grow.",
     "A 4,000-year-old, almost completely intact clay tablet discovered in northern Italy is covered with an intricate arrangement of geometric markings, dots, lines, and symbols that archaeologists are currently unable to decipher, posing a new challenge to understanding Bronze Age communication.",
     "UFO Sighting Over Swindon Ignites Social Media Frenzy: Is This the UK's Latest Unidentified Aerial Phenomenon?",
@@ -89,9 +88,10 @@
     "The Dockwise Vanguard: The semi-submersible heavy-lift ship that sinks its own deck below the ocean to scoop up 110,000-ton oil platforms",
     "Jet Engine Thrust Reversers: How titanium clamshell cascades redirect 100,000 pounds of jet exhaust forward to stop airliners on icy runways",
     "The Panama Canal Gravity Locks: How massive water gates lift 100,000-ton container ships 85 feet above sea level with zero electric water pumps",
-    "The Maeslantkering Barrier: Two Eiffel-Tower-sized floating steel barrier gates that automatically swing shut to block 16-foot North Sea tidal surges"
+    "The Maeslantkering Barrier: Two Eiffel-Tower-sized floating steel barrier gates that automatically swing shut to block 16-foot North Sea tidal surges",
+    "Gotthard Base Tunnel Drilling: How 400-meter-long TBMs bored 57 kilometers through boiling Alpine granite under 7,500 feet of mountain pressure"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 8,
-  "call_count": 244
+  "subcluster_idx": 0,
+  "fallback_idx": 10,
+  "call_count": 245
 }
