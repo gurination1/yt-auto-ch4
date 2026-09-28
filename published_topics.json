@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How inherited epigenetic marks, like DNA methylation patterns, can persist across generations and influence traits without altering the underlying genetic sequence, defying traditional Mendelian inheritance.",
     "Recent findings reveal 9,000-year-old obsidian arrowheads in Central Anatolia bearing deliberate, undeciphered incisions, baffling archaeologists about their symbolic or practical purpose beyond hunting.",
     "How 'Gigantic Jets,' a rare form of lightning, actually launch upwards from thunderstorms into the ionosphere, driven by specific **charge imbalances** within the cloud and a unique **ionospheric coupling** mechanism.",
     "French investigators are intensely analyzing a pistol recently discovered in Lake Annecy, hoping it holds the crucial clue to finally unravel the 2012 cold case of the British-Iraqi Al Hilli family murders, reigniting the hunt for answers in a long-unexplained tragedy.",
@@ -89,9 +88,10 @@
     "The Falkirk Wheel: The world's only rotating boat lift using the electric power of 8 boiling kettles to lift 600 tons of water and canal boats",
     "How sliding pendulum earthquake-proof base isolators let entire multi-story hospitals float freely on curved steel concave dishes during a violent seismic shockwave.",
     "Nuclear Submarine Ballast Systems: How 10,000-ton steel submarines dive 1,000 feet deep and blast high-pressure air to surface in seconds",
-    "Burj Khalifa Vortex Shedding: How aerodynamic spiral setbacks confuse high-altitude desert winds so the world's tallest tower doesn't sway into collapse"
+    "Burj Khalifa Vortex Shedding: How aerodynamic spiral setbacks confuse high-altitude desert winds so the world's tallest tower doesn't sway into collapse",
+    "Subsea Immersed Tube Tunneling: How 50,000-ton concrete tunnel segments are precast on land, floated to sea, and sunk into underwater trenches"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 15,
-  "call_count": 249
+  "subcluster_idx": 0,
+  "fallback_idx": 18,
+  "call_count": 250
 }
