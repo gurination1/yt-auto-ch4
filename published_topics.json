@@ -1,6 +1,5 @@
 {
   "topics": [
-    "A 1,900-year-old Roman gravestone discovered in a Louisiana backyard baffles experts, who cannot fully explain its improbable transatlantic journey.",
     "Newly Discovered Colossal Underground 'Bio-Dome' in Patagonian Cave System: An isolated, perfectly preserved ancient forest sealed for millennia.",
     "The Cosmic Radio Bursts That Emit More Power Than The Sun in a Millisecond",
     "The Richat Structure: A 50-kilometer wide concentric circle in the Sahara visible from orbit",
@@ -89,9 +88,10 @@
     "Heavy Haul Train Dynamic Braking: How 20,000-ton iron ore trains convert immense gravitational kinetic energy into pure heat without wearing brakes",
     "How the Eurasia Tunnel's anti-seismic rubber-lead core bearings absorb millions of pounds of tectonic energy deep beneath the Bosphorus seabed.",
     "How NASA crawler-transporters employ specialized hydraulic compensating struts to absorb severe road irregularities without jolting multimillion-dollar spacecraft",
-    "How supertall skyscrapers use active mass dampers equipped with gigantic hydraulic actuators to violently fight back against unpredictable hurricane gusts."
+    "How supertall skyscrapers use active mass dampers equipped with gigantic hydraulic actuators to violently fight back against unpredictable hurricane gusts.",
+    "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds"
   ],
-  "subcluster_idx": 4,
+  "subcluster_idx": 0,
   "fallback_idx": 23,
-  "call_count": 254
+  "call_count": 255
 }
