@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Newly Discovered Colossal Underground 'Bio-Dome' in Patagonian Cave System: An isolated, perfectly preserved ancient forest sealed for millennia.",
     "The Cosmic Radio Bursts That Emit More Power Than The Sun in a Millisecond",
     "The Richat Structure: A 50-kilometer wide concentric circle in the Sahara visible from orbit",
     "The 'Jacuzzi of Despair': A Toxic Underwater Lake on the Ocean Floor That Kills Most Life",
@@ -89,9 +88,10 @@
     "How the Eurasia Tunnel's anti-seismic rubber-lead core bearings absorb millions of pounds of tectonic energy deep beneath the Bosphorus seabed.",
     "How NASA crawler-transporters employ specialized hydraulic compensating struts to absorb severe road irregularities without jolting multimillion-dollar spacecraft",
     "How supertall skyscrapers use active mass dampers equipped with gigantic hydraulic actuators to violently fight back against unpredictable hurricane gusts.",
-    "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds"
+    "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds",
+    "How Mach 7 hypersonic wind tunnels use copper-alloy throat nozzles that erode away by millimeters during a single 30-second run without melting."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 23,
-  "call_count": 255
+  "subcluster_idx": 1,
+  "fallback_idx": 24,
+  "call_count": 256
 }
