@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Cosmic Radio Bursts That Emit More Power Than The Sun in a Millisecond",
     "The Richat Structure: A 50-kilometer wide concentric circle in the Sahara visible from orbit",
     "The 'Jacuzzi of Despair': A Toxic Underwater Lake on the Ocean Floor That Kills Most Life",
     "The Baghdad Battery: A 2,000-year-old clay pot, copper, and iron rod that can generate electricity, suggesting ancient civilizations understood power generation millennia before modern science.",
@@ -89,9 +88,10 @@
     "How NASA crawler-transporters employ specialized hydraulic compensating struts to absorb severe road irregularities without jolting multimillion-dollar spacecraft",
     "How supertall skyscrapers use active mass dampers equipped with gigantic hydraulic actuators to violently fight back against unpredictable hurricane gusts.",
     "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds",
-    "How Mach 7 hypersonic wind tunnels use copper-alloy throat nozzles that erode away by millimeters during a single 30-second run without melting."
+    "How Mach 7 hypersonic wind tunnels use copper-alloy throat nozzles that erode away by millimeters during a single 30-second run without melting.",
+    "TBM Tungsten Carbide Disc Cutters: How 17-inch rolling steel cutters exert 25 tons of focused hydraulic thrust to pulverize bedrock into chips"
   ],
-  "subcluster_idx": 1,
+  "subcluster_idx": 2,
   "fallback_idx": 24,
-  "call_count": 256
+  "call_count": 257
 }
