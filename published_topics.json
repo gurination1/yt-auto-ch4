@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Jacuzzi of Despair': A Toxic Underwater Lake on the Ocean Floor That Kills Most Life",
     "The Baghdad Battery: A 2,000-year-old clay pot, copper, and iron rod that can generate electricity, suggesting ancient civilizations understood power generation millennia before modern science.",
     "The Devil's Kettle waterfall where half an entire river vanishes into a bottomless hole",
     "The 'Slowest Spinning Star': A Magnetar Emitting Radio Pulses Every 22 Minutes",
@@ -89,9 +88,10 @@
     "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds",
     "How Mach 7 hypersonic wind tunnels use copper-alloy throat nozzles that erode away by millimeters during a single 30-second run without melting.",
     "TBM Tungsten Carbide Disc Cutters: How 17-inch rolling steel cutters exert 25 tons of focused hydraulic thrust to pulverize bedrock into chips",
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "How double-deck elevator synchronization systems utilize real-time rope tension compensators to manage differential loads across 100 floors"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 14,
-  "call_count": 258
+  "subcluster_idx": 4,
+  "fallback_idx": 15,
+  "call_count": 259
 }
