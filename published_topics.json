@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Mary Celeste: A Ghost Ship Found Perfectly Seaworthy, Yet Everyone Vanished Mid-Meal",
     "Mysterious 'Singing Sands' on Ocean Floor Emit Eerie Tones",
     "Groundbreaking Lidar Uncovers a Vast Network of 2,000-Year-Old Cities in the Amazon",
     "Romania's 'Growing Stones' of Costesti: The Living Trovan\u021bi Boulders",
@@ -89,9 +88,10 @@
     "How double-deck elevator synchronization systems utilize real-time rope tension compensators to manage differential loads across 100 floors",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "How heavy-lift transport vessels secure colossal floating cargo using custom-welded steel sea-fastening braces designed to withstand raging open-ocean rogue waves without snapping."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 14,
-  "call_count": 262
+  "subcluster_idx": 3,
+  "fallback_idx": 15,
+  "call_count": 263
 }
