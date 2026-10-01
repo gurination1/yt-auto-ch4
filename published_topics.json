@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Mysterious 'Singing Sands' on Ocean Floor Emit Eerie Tones",
     "Groundbreaking Lidar Uncovers a Vast Network of 2,000-Year-Old Cities in the Amazon",
     "Romania's 'Growing Stones' of Costesti: The Living Trovan\u021bi Boulders",
     "The Krubera-Voronja Cave's 'Unending' Depths and Alien Life",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
-    "How heavy-lift transport vessels secure colossal floating cargo using custom-welded steel sea-fastening braces designed to withstand raging open-ocean rogue waves without snapping."
+    "How heavy-lift transport vessels secure colossal floating cargo using custom-welded steel sea-fastening braces designed to withstand raging open-ocean rogue waves without snapping.",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 15,
-  "call_count": 263
+  "subcluster_idx": 4,
+  "fallback_idx": 14,
+  "call_count": 264
 }
