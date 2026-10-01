@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Slowest Spinning Star': A Magnetar Emitting Radio Pulses Every 22 Minutes",
     "The Mary Celeste: A Ghost Ship Found Perfectly Seaworthy, Yet Everyone Vanished Mid-Meal",
     "Mysterious 'Singing Sands' on Ocean Floor Emit Eerie Tones",
     "Groundbreaking Lidar Uncovers a Vast Network of 2,000-Year-Old Cities in the Amazon",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How double-deck elevator synchronization systems utilize real-time rope tension compensators to manage differential loads across 100 floors",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 1,
+  "subcluster_idx": 2,
   "fallback_idx": 14,
-  "call_count": 261
+  "call_count": 262
 }
