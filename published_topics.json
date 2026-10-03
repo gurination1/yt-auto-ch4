@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Skyscrapers That Use Their OWN Structure to Dampen Wind Sway",
     "Panama Canal's Million-Dollar Shipping Slots",
     "Rocket Turbopumps: The 'Engine Inside An Engine' That Glows Red Hot While Pumping Ice",
     "The 'Cryo-Mole' TBM: Freezing Live Subterranean Rivers Solid Mid-Dig",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the Fehmarnbelt fixed link's specialized dredging clamshells excavate millions of cubic meters of hard seabed glacial till while battling intense Baltic Sea storm currents.",
-    "Why Bagger 293's bucket-wheel teeth must be replaced with specialty tungsten carbides to keep from vaporizing on hidden ironstones"
+    "Why Bagger 293's bucket-wheel teeth must be replaced with specialty tungsten carbides to keep from vaporizing on hidden ironstones",
+    "How ultra-high-speed elevator regenerative drives harvest free electricity by converting descending multi-ton counterweights into giant generators during emergency stops."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 16,
-  "call_count": 273
+  "subcluster_idx": 4,
+  "fallback_idx": 17,
+  "call_count": 274
 }
