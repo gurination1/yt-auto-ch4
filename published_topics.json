@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Ancient DNA Rewrites Harappan History: Debunking the Aryan Migration Theory",
     "Six Hidden Structures at Earth's Core-Mantle Boundary",
     "Bagger 293's Impossible Ground Pressure Secret: Why the World's Biggest Machine Doesn't Sink",
     "Skyscrapers That Use Their OWN Structure to Dampen Wind Sway",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 0,
+  "subcluster_idx": 1,
   "fallback_idx": 14,
-  "call_count": 270
+  "call_count": 271
 }
