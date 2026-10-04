@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Cryo-Mole' TBM: Freezing Live Subterranean Rivers Solid Mid-Dig",
     "World's Largest Land Machine Rendered Obsolete by Policy",
     "The Skyscraper's Secret Heartbeat: How a 1000-Ton Pendulum Swings Violently, Unseen, to Save a Building",
     "Netherlands Plans 'New Delta Works': Why Eighth Wonder Isn't Enough",
@@ -89,9 +88,10 @@
     "Why Bagger 293's bucket-wheel teeth must be replaced with specialty tungsten carbides to keep from vaporizing on hidden ironstones",
     "How ultra-high-speed elevator regenerative drives harvest free electricity by converting descending multi-ton counterweights into giant generators during emergency stops.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 1,
+  "subcluster_idx": 2,
   "fallback_idx": 14,
-  "call_count": 276
+  "call_count": 277
 }
