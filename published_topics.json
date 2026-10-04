@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Rocket Turbopumps: The 'Engine Inside An Engine' That Glows Red Hot While Pumping Ice",
     "The 'Cryo-Mole' TBM: Freezing Live Subterranean Rivers Solid Mid-Dig",
     "World's Largest Land Machine Rendered Obsolete by Policy",
     "The Skyscraper's Secret Heartbeat: How a 1000-Ton Pendulum Swings Violently, Unseen, to Save a Building",
@@ -89,9 +88,10 @@
     "How the Fehmarnbelt fixed link's specialized dredging clamshells excavate millions of cubic meters of hard seabed glacial till while battling intense Baltic Sea storm currents.",
     "Why Bagger 293's bucket-wheel teeth must be replaced with specialty tungsten carbides to keep from vaporizing on hidden ironstones",
     "How ultra-high-speed elevator regenerative drives harvest free electricity by converting descending multi-ton counterweights into giant generators during emergency stops.",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 0,
+  "subcluster_idx": 1,
   "fallback_idx": 14,
-  "call_count": 275
+  "call_count": 276
 }
