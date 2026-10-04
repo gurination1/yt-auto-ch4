@@ -1,6 +1,5 @@
 {
   "topics": [
-    "World's Largest Land Machine Rendered Obsolete by Policy",
     "The Skyscraper's Secret Heartbeat: How a 1000-Ton Pendulum Swings Violently, Unseen, to Save a Building",
     "Netherlands Plans 'New Delta Works': Why Eighth Wonder Isn't Enough",
     "EMALS Rotor Flywheels: How Aircraft Carriers Store Gigawatts to Launch Jets",
@@ -89,9 +88,10 @@
     "How ultra-high-speed elevator regenerative drives harvest free electricity by converting descending multi-ton counterweights into giant generators during emergency stops.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 2,
+  "subcluster_idx": 3,
   "fallback_idx": 14,
-  "call_count": 277
+  "call_count": 278
 }
