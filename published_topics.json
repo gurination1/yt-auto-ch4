@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Self-Healing Lead Core Base Isolators",
     "The NASA Crawler's Cold-Welding Threat: Why Extreme Pressure Demands Custom Chemical Lubricants",
     "The 700-Ton Swinging Steel Pendulum Hidden Inside Taipei 101 That Fights Typhoon Winds",
     "The Indestructible Wood Sealing the World's Deepest Dry Docks",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "How the Tokyo Skytree's central pillar acts as a colossal inverted pendulum to fight earthquakes using oil dampers"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 14,
-  "call_count": 281
+  "subcluster_idx": 2,
+  "fallback_idx": 15,
+  "call_count": 282
 }
