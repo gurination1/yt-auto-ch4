@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 700-Ton Swinging Steel Pendulum Hidden Inside Taipei 101 That Fights Typhoon Winds",
     "The Indestructible Wood Sealing the World's Deepest Dry Docks",
     "Hypersonic wind tunnel free-pistons that compress air so violently it turns into a glowing state of matter",
     "The Fehmarnbelt Connection's 73,000-Ton Subsea 'Segment Sinking' Pontoon",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the Tokyo Skytree's central pillar acts as a colossal inverted pendulum to fight earthquakes using oil dampers",
-    "How NASA crawler-transporters utilize laser-guided leveling jacks to prevent multi-million dollar Artemis rockets from tilting past critical tolerances during transport."
+    "How NASA crawler-transporters utilize laser-guided leveling jacks to prevent multi-million dollar Artemis rockets from tilting past critical tolerances during transport.",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 16,
-  "call_count": 283
+  "subcluster_idx": 4,
+  "fallback_idx": 14,
+  "call_count": 284
 }
