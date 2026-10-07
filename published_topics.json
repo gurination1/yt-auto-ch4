@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Blow-Through' Ghost Floors of Supertall Skyscrapers",
     "Deliberately Bending Dry Dock Caisson Gates under Ocean Pressure",
     "How jet engine thrust reversers physically slam massive titanium bucket doors to redirect forward exhaust directly into the oncoming wind.",
     "How the Brenner Base Tunnel's liquid nitrogen freezing rigs use automated micro-heating arrays to prevent cryogenic ice pressure from lifting surface buildings",
@@ -89,9 +88,10 @@
     "How the Delta Works Oosterscheldekering Sluice Gates Filter Massive Tidal Currents While Maintaining Open Estuary Ecosystems",
     "How the RS-25 rocket engine high-pressure oxidizer turbopump delivers more horsepower than a diesel locomotive while weighing less than a grand piano.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 3,
+  "subcluster_idx": 4,
   "fallback_idx": 14,
-  "call_count": 288
+  "call_count": 289
 }
