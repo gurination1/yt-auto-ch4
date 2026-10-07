@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Fehmarnbelt Connection's 73,000-Ton Subsea 'Segment Sinking' Pontoon",
     "The Sacrificial Wood Blocks Stopping Warships From Crushing Themselves on Heavy-Lift Decks",
     "The 'Blow-Through' Ghost Floors of Supertall Skyscrapers",
     "Deliberately Bending Dry Dock Caisson Gates under Ocean Pressure",
@@ -89,9 +88,10 @@
     "How NASA crawler-transporters utilize laser-guided leveling jacks to prevent multi-million dollar Artemis rockets from tilting past critical tolerances during transport.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the Delta Works Oosterscheldekering Sluice Gates Filter Massive Tidal Currents While Maintaining Open Estuary Ecosystems",
-    "How the RS-25 rocket engine high-pressure oxidizer turbopump delivers more horsepower than a diesel locomotive while weighing less than a grand piano."
+    "How the RS-25 rocket engine high-pressure oxidizer turbopump delivers more horsepower than a diesel locomotive while weighing less than a grand piano.",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 16,
-  "call_count": 286
+  "subcluster_idx": 2,
+  "fallback_idx": 14,
+  "call_count": 287
 }
