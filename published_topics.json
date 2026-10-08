@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the Brenner Base Tunnel's liquid nitrogen freezing rigs use automated micro-heating arrays to prevent cryogenic ice pressure from lifting surface buildings",
     "How semi-submersible heavy-lift vessels like the BOKA Vanguard intentionally sink their entire main decks underwater to swallow crippled offshore oil rigs whole.",
     "Why high-speed elevator counterweights in supertalls like the Burj Khalifa use heavy magnetic brakes to avoid crushing themselves at terminal speed",
     "How the Panama Canal's Culvert Valves Handle a Relentless 250-Foot Head of Water Without Cavitating Into Vapor",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How naval dry dock dewatering systems employ multi-stage centrifugal pumps to evacuate millions of gallons of seawater while preventing vortex cavitation",
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "How the construction of the Sydney Harbour Tunnel used giant underwater trenching sleds to dredge solid bedrock off the ocean floor."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 14,
-  "call_count": 291
+  "subcluster_idx": 2,
+  "fallback_idx": 15,
+  "call_count": 292
 }
