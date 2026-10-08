@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Why high-speed elevator counterweights in supertalls like the Burj Khalifa use heavy magnetic brakes to avoid crushing themselves at terminal speed",
     "How the Panama Canal's Culvert Valves Handle a Relentless 250-Foot Head of Water Without Cavitating Into Vapor",
     "How the LM2500 gas turbine's fuel turbopump spins at 35,000 RPM while pumping jet fuel at cryogenic temperatures, avoiding catastrophic vapor lock.",
     "How the Fehmarnbelt Immersed Tunnel uses massive hydraulic positioning rams to dock 73,000-ton concrete segments on the seabed within millimeters",
@@ -89,9 +88,10 @@
     "How naval dry dock dewatering systems employ multi-stage centrifugal pumps to evacuate millions of gallons of seawater while preventing vortex cavitation",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the construction of the Sydney Harbour Tunnel used giant underwater trenching sleds to dredge solid bedrock off the ocean floor.",
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "How the bizarre perforated aluminum cladding on the Rafael Vinoly-designed 432 Park Avenue completely breaks apart swirling wind gusts to prevent structural shear."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 14,
-  "call_count": 293
+  "subcluster_idx": 4,
+  "fallback_idx": 15,
+  "call_count": 294
 }
