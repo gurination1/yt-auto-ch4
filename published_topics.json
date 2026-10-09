@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How NASA's Crawler-Transporter uses an ingenious internal gyroscopic leveling system to keep multi-thousand-ton space shuttles completely vertical while climbing a literal gravel ramp.",
     "How supertall skyscrapers carve secret aerodynamic wind-shedding corners to completely disrupt catastrophic vortex shedding before it shears the steel frame.",
     "How the Delta Works' Maeslantkering storm surge barrier uses hollow floating arms that intentionally flood and sink themselves to block the North Sea.",
     "How EMALS carrier catapults use linear synchronous motors to hurl 30-ton jets from zero to 160 mph in just two seconds using pulsed energy storage.",
@@ -89,9 +88,10 @@
     "How the bizarre perforated aluminum cladding on the Rafael Vinoly-designed 432 Park Avenue completely breaks apart swirling wind gusts to prevent structural shear.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 2,
+  "subcluster_idx": 3,
   "fallback_idx": 14,
-  "call_count": 297
+  "call_count": 298
 }
