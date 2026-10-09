@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the Fehmarnbelt Immersed Tunnel uses massive hydraulic positioning rams to dock 73,000-ton concrete segments on the seabed within millimeters",
     "How NASA's Crawler-Transporter uses an ingenious internal gyroscopic leveling system to keep multi-thousand-ton space shuttles completely vertical while climbing a literal gravel ramp.",
     "How supertall skyscrapers carve secret aerodynamic wind-shedding corners to completely disrupt catastrophic vortex shedding before it shears the steel frame.",
     "How the Delta Works' Maeslantkering storm surge barrier uses hollow floating arms that intentionally flood and sink themselves to block the North Sea.",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the bizarre perforated aluminum cladding on the Rafael Vinoly-designed 432 Park Avenue completely breaks apart swirling wind gusts to prevent structural shear.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 1,
+  "subcluster_idx": 2,
   "fallback_idx": 14,
-  "call_count": 296
+  "call_count": 297
 }
