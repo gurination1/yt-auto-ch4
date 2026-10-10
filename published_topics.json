@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the Space Shuttle main engine turbopump spins fast enough to vaporize titanium if a single microscopic drop of liquid oxygen touches hot metal.",
     "How Earth-pressure-balance TBMs inject specialized foam polymers into unstable subterranean gravel layers to maintain continuous face pressure and stop catastrophic surface sinkholes.",
     "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 4,
+  "subcluster_idx": 0,
   "fallback_idx": 14,
-  "call_count": 304
+  "call_count": 305
 }
