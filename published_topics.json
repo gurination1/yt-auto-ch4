@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the Bagger 293's rotating bucket wheel shears through dense brown coal using massive centrifugal forces without ripping its own boom apart from structural vibration.",
     "How skyscraper tuned mass dampers employ colossal viscous fluid pots that instantly convert kinetic sway energy directly into thermal heat.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the Space Shuttle main engine turbopump spins fast enough to vaporize titanium if a single microscopic drop of liquid oxygen touches hot metal.",
@@ -89,9 +88,10 @@
     "How One World Trade Center's porous titanium-alloy base panels actively shred deadly localized wind vortexes to protect street pedestrians from sudden hurricane shear.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 2,
+  "subcluster_idx": 3,
   "fallback_idx": 14,
-  "call_count": 302
+  "call_count": 303
 }
