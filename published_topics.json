@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Why High-Speed Elevator Emergency Brake Systems in Megatall Skyscrapers Must Dissipate Mega-Joules of Friction Heat Without Fading",
     "How the Panama Canal's massive rolling caisson lock gates utilize hollow air buoyancy chambers to maneuver thousands of tons of steel effortlessly underwater.",
     "How the NASA Langley hypersonic Ludwieg tube generates high-enthalpy flow fields that briefly recreate atmospheric re-entry thermal loads on test articles.",
     "How the Marmaray Tunnel's seismic link uses clever flexible joints to survive extreme tectonic shear between two drifting continental plates.",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6",
     "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6",
-    "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6"
+    "Rocket Stage Separation Pyrotechnics: How explosive bolts and solid retro-rockets fire in 5 milliseconds to jettison booster tanks at Mach 6",
+    "How High-Speed Elevator Linear Induction Motors Act as Magnetic Brakes to Smooth Out Terrifying High-Altitude Vertical G-Forces"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 17,
-  "call_count": 308
+  "subcluster_idx": 4,
+  "fallback_idx": 18,
+  "call_count": 309
 }
