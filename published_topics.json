@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Hydraulic Synchronized Bridge Jacking: How multi-million-pound pre-built bridges are slid into place across highways in 48 hours without closing traffic",
     "Cryogenic Vacuum Piping: How rocket fuel lines pump liquid hydrogen at minus 253 degrees Celsius through vacuum-jacketed double walls without boil-off",
     "Deepwater Capping Stacks: The 3-story 300-ton hydraulic steel valve lowered 5,000 feet underwater to seal high-pressure blowout oil wells",
     "How Ludwieg-tube hypersonic facilities use miles-long compression tubes to generate temperatures hotter than the sun for milliseconds of testing.",
@@ -89,9 +88,10 @@
     "How High-Speed Elevator Linear Induction Motors Act as Magnetic Brakes to Smooth Out Terrifying High-Altitude Vertical G-Forces",
     "Hydraulic Synchronized Bridge Jacking: How multi-million-pound pre-built bridges are slid into place across highways in 48 hours without closing traffic",
     "How the Pratt & Whitney F135 jet engine bypass duct uses variable-area fan nozzles to prevent high-speed compressor stall during supersonic tactical combat turns.",
-    "How EPB Tunnel Boring Machines maintain a pressurized earth slurry cushion behind the cutterhead to stop unstable seabed silt from instantly collapsing the surface."
+    "How EPB Tunnel Boring Machines maintain a pressurized earth slurry cushion behind the cutterhead to stop unstable seabed silt from instantly collapsing the surface.",
+    "Why the steering mechanisms of NASA crawler-transporters require independent dual-lane tracks that rotate in opposite directions to maneuver a 2,400-ton leviathan around corners."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 24,
-  "call_count": 312
+  "subcluster_idx": 3,
+  "fallback_idx": 0,
+  "call_count": 313
 }
