@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the staggering track weight of the Bagger 293 is evenly distributed to prevent this colossal mining leviathan from sinking straight into soft mud.",
     "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
     "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic",
     "How an aircraft carrier's steam catapult piston moves at terminal velocity inside a sealed deck cylinder, requiring massive water brakes to violently halt a multi-ton shuttle in milliseconds.",
@@ -89,9 +88,10 @@
     "Cryogenic Vacuum Piping: How rocket fuel lines pump liquid hydrogen at minus 253 degrees Celsius through vacuum-jacketed double walls without boil-off",
     "Deepwater Capping Stacks: The 3-story 300-ton hydraulic steel valve lowered 5,000 feet underwater to seal high-pressure blowout oil wells",
     "How thrust reverser pneumatic synchronization flexible shafts prevent asymmetrical bucket deployment so an airliner doesn't violently veer off the runway at 150 knots.",
+    "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
     "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons"
   ],
-  "subcluster_idx": 2,
+  "subcluster_idx": 3,
   "fallback_idx": 16,
-  "call_count": 317
+  "call_count": 318
 }
