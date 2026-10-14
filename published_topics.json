@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic",
     "How an aircraft carrier's steam catapult piston moves at terminal velocity inside a sealed deck cylinder, requiring massive water brakes to violently halt a multi-ton shuttle in milliseconds.",
     "The Liebherr LR 13000: The world's most powerful crawler crane that hoists 3,000 tons of steel with 1,500 tons of suspended counterweights",
     "Why NASA's Crawler-Transporter must rely on specialized roller-bearing assemblies to prevent catastrophic steel-on-steel cold-welding under crushing loads.",
@@ -89,9 +88,10 @@
     "How thrust reverser pneumatic synchronization flexible shafts prevent asymmetrical bucket deployment so an airliner doesn't violently veer off the runway at 150 knots.",
     "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
     "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
-    "How the Kingdom Centre in Riyadh uses a gaping parabolic skybridge aperture to split ferocious desert jetstreams clean in half to prevent shear collapse"
+    "How the Kingdom Centre in Riyadh uses a gaping parabolic skybridge aperture to split ferocious desert jetstreams clean in half to prevent shear collapse",
+    "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 17,
-  "call_count": 319
+  "subcluster_idx": 0,
+  "fallback_idx": 19,
+  "call_count": 320
 }
