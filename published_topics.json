@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Liebherr LR 13000: The world's most powerful crawler crane that hoists 3,000 tons of steel with 1,500 tons of suspended counterweights",
     "Why NASA's Crawler-Transporter must rely on specialized roller-bearing assemblies to prevent catastrophic steel-on-steel cold-welding under crushing loads.",
     "How Shanghai Tower's twisted asymmetric outer glass skin tricks wind currents into destroying their own synchronized harmonic pressure.",
     "High-Speed Rail Pantographs: Why overhead electric wires must zig-zag back and forth to keep train pantographs from being sliced in half",
@@ -89,9 +88,10 @@
     "Tokyo G-Cans Flood Cathedral: The massive subterranean surge cavern powered by 14,000-horsepower jet turbine engines to save Tokyo from monsoons",
     "How the Kingdom Centre in Riyadh uses a gaping parabolic skybridge aperture to split ferocious desert jetstreams clean in half to prevent shear collapse",
     "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic",
-    "The 'Bridle' Suicide Mission: How aircraft carriers use a specialized steel tow-bar that is physically ejected and abandoned at the end of every catapult launch."
+    "The 'Bridle' Suicide Mission: How aircraft carriers use a specialized steel tow-bar that is physically ejected and abandoned at the end of every catapult launch.",
+    "The Liebherr LR 13000: The world's most powerful crawler crane that hoists 3,000 tons of steel with 1,500 tons of suspended counterweights"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 20,
-  "call_count": 321
+  "subcluster_idx": 2,
+  "fallback_idx": 21,
+  "call_count": 322
 }
