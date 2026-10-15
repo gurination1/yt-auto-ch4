@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How Shanghai Tower's twisted asymmetric outer glass skin tricks wind currents into destroying their own synchronized harmonic pressure.",
     "High-Speed Rail Pantographs: Why overhead electric wires must zig-zag back and forth to keep train pantographs from being sliced in half",
     "The Aircraft Carrier Steam Catapult: How a burst of 1,000 PSI steam hurls a 35-ton fighter jet from 0 to 165 mph in two seconds",
     "The Taipei 101 Tuned Mass Damper: How a 660-ton pendulum suspended on 8 steel cables keeps a 1,600-foot skyscraper from snapping in typhoons",
@@ -89,9 +88,10 @@
     "Duga Over-the-Horizon Radar: The colossal 150-meter-tall antenna array in Chernobyl that beamed 10-megawatt tapping pulses across the Atlantic",
     "The 'Bridle' Suicide Mission: How aircraft carriers use a specialized steel tow-bar that is physically ejected and abandoned at the end of every catapult launch.",
     "The Liebherr LR 13000: The world's most powerful crawler crane that hoists 3,000 tons of steel with 1,500 tons of suspended counterweights",
-    "How semi-submersible heavy-lift carriers use customized high-density timber cribbing decks to absorb the crushing point-load impacts of multi-thousand-ton cargo."
+    "How semi-submersible heavy-lift carriers use customized high-density timber cribbing decks to absorb the crushing point-load impacts of multi-thousand-ton cargo.",
+    "How super-express elevator counterweights employ active aerodynamic streamlining to prevent destructive air pressure waves from shattering shaft walls at 45 mph."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 22,
-  "call_count": 323
+  "subcluster_idx": 4,
+  "fallback_idx": 23,
+  "call_count": 324
 }
