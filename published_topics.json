@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Aircraft Carrier Steam Catapult: How a burst of 1,000 PSI steam hurls a 35-ton fighter jet from 0 to 165 mph in two seconds",
     "The Taipei 101 Tuned Mass Damper: How a 660-ton pendulum suspended on 8 steel cables keeps a 1,600-foot skyscraper from snapping in typhoons",
     "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers",
     "How high-speed elevator hoist ropes stretch by several feet under their own massive deadweight during express transit in supertall towers.",
@@ -89,9 +88,10 @@
     "The Liebherr LR 13000: The world's most powerful crawler crane that hoists 3,000 tons of steel with 1,500 tons of suspended counterweights",
     "How semi-submersible heavy-lift carriers use customized high-density timber cribbing decks to absorb the crushing point-load impacts of multi-thousand-ton cargo.",
     "How super-express elevator counterweights employ active aerodynamic streamlining to prevent destructive air pressure waves from shattering shaft walls at 45 mph.",
-    "High-Speed Rail Pantographs: Why overhead electric wires must zig-zag back and forth to keep train pantographs from being sliced in half"
+    "High-Speed Rail Pantographs: Why overhead electric wires must zig-zag back and forth to keep train pantographs from being sliced in half",
+    "How the liquid oxygen LOX turbopump in the SpaceX Merlin engine operates under such extreme cavitation pressures that a single microscopic burr causes catastrophic titanium combustion."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 11,
-  "call_count": 325
+  "subcluster_idx": 1,
+  "fallback_idx": 12,
+  "call_count": 326
 }
