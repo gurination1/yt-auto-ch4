@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Dockwise Vanguard: The semi-submersible heavy-lift ship that sinks its own deck below the ocean to scoop up 110,000-ton oil platforms",
     "Jet Engine Thrust Reversers: How titanium clamshell cascades redirect 100,000 pounds of jet exhaust forward to stop airliners on icy runways",
     "The Panama Canal Gravity Locks: How massive water gates lift 100,000-ton container ships 85 feet above sea level with zero electric water pumps",
     "The Maeslantkering Barrier: Two Eiffel-Tower-sized floating steel barrier gates that automatically swing shut to block 16-foot North Sea tidal surges",
@@ -89,9 +88,10 @@
     "The Aircraft Carrier Steam Catapult: How a burst of 1,000 PSI steam hurls a 35-ton fighter jet from 0 to 165 mph in two seconds",
     "How NASA crawler-transporters distribute a 12-million-pound static load across massive roller bearings that would instantly crush ordinary steel flat.",
     "How Taipei 101's 660-ton suspended golden pendulum swings violently off-center to save the tower from catastrophic typhoon resonance.",
-    "Delta Works Maeslantkering Ball Joints: Why two bowling-ball-style hinges weighing 680 tons must constantly slide in raw mud to save the Netherlands from drowning."
+    "Delta Works Maeslantkering Ball Joints: Why two bowling-ball-style hinges weighing 680 tons must constantly slide in raw mud to save the Netherlands from drowning.",
+    "How the General Electric GE9X turbofan bypass duct relies on vanishing 3D-printed ceramic matrix composites that endure 2,400-degree combustion gases without melting."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 4,
-  "call_count": 330
+  "subcluster_idx": 1,
+  "fallback_idx": 5,
+  "call_count": 331
 }
