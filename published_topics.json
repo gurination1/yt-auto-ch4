@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Panama Canal Gravity Locks: How massive water gates lift 100,000-ton container ships 85 feet above sea level with zero electric water pumps",
     "The Maeslantkering Barrier: Two Eiffel-Tower-sized floating steel barrier gates that automatically swing shut to block 16-foot North Sea tidal surges",
     "Gotthard Base Tunnel Drilling: How 400-meter-long TBMs bored 57 kilometers through boiling Alpine granite under 7,500 feet of mountain pressure",
     "The Falkirk Wheel: The world's only rotating boat lift using the electric power of 8 boiling kettles to lift 600 tons of water and canal boats",
@@ -89,9 +88,10 @@
     "How Taipei 101's 660-ton suspended golden pendulum swings violently off-center to save the tower from catastrophic typhoon resonance.",
     "Delta Works Maeslantkering Ball Joints: Why two bowling-ball-style hinges weighing 680 tons must constantly slide in raw mud to save the Netherlands from drowning.",
     "How the General Electric GE9X turbofan bypass duct relies on vanishing 3D-printed ceramic matrix composites that endure 2,400-degree combustion gases without melting.",
-    "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers"
+    "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers",
+    "How semi-submersible heavy-lift vessels like the Blue Marlin flood their internal ballast tanks to submerge completely beneath multi-ton offshore oil rigs."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 3,
-  "call_count": 332
+  "subcluster_idx": 3,
+  "fallback_idx": 4,
+  "call_count": 333
 }
