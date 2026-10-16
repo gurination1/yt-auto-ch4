@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Bagger 293 Excavator: The 14,000-ton monster machine on Earth shifting 240,000 tons of earth daily with a 70-foot rotating wheel of blades",
     "The Dockwise Vanguard: The semi-submersible heavy-lift ship that sinks its own deck below the ocean to scoop up 110,000-ton oil platforms",
     "Jet Engine Thrust Reversers: How titanium clamshell cascades redirect 100,000 pounds of jet exhaust forward to stop airliners on icy runways",
     "The Panama Canal Gravity Locks: How massive water gates lift 100,000-ton container ships 85 feet above sea level with zero electric water pumps",
@@ -89,9 +88,10 @@
     "How the liquid oxygen LOX turbopump in the SpaceX Merlin engine operates under such extreme cavitation pressures that a single microscopic burr causes catastrophic titanium combustion.",
     "The Aircraft Carrier Steam Catapult: How a burst of 1,000 PSI steam hurls a 35-ton fighter jet from 0 to 165 mph in two seconds",
     "How NASA crawler-transporters distribute a 12-million-pound static load across massive roller bearings that would instantly crush ordinary steel flat.",
-    "How Taipei 101's 660-ton suspended golden pendulum swings violently off-center to save the tower from catastrophic typhoon resonance."
+    "How Taipei 101's 660-ton suspended golden pendulum swings violently off-center to save the tower from catastrophic typhoon resonance.",
+    "Delta Works Maeslantkering Ball Joints: Why two bowling-ball-style hinges weighing 680 tons must constantly slide in raw mud to save the Netherlands from drowning."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 3,
-  "call_count": 329
+  "subcluster_idx": 0,
+  "fallback_idx": 4,
+  "call_count": 330
 }
