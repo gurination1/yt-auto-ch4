@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Jet Engine Thrust Reversers: How titanium clamshell cascades redirect 100,000 pounds of jet exhaust forward to stop airliners on icy runways",
     "The Panama Canal Gravity Locks: How massive water gates lift 100,000-ton container ships 85 feet above sea level with zero electric water pumps",
     "The Maeslantkering Barrier: Two Eiffel-Tower-sized floating steel barrier gates that automatically swing shut to block 16-foot North Sea tidal surges",
     "Gotthard Base Tunnel Drilling: How 400-meter-long TBMs bored 57 kilometers through boiling Alpine granite under 7,500 feet of mountain pressure",
@@ -89,9 +88,10 @@
     "How NASA crawler-transporters distribute a 12-million-pound static load across massive roller bearings that would instantly crush ordinary steel flat.",
     "How Taipei 101's 660-ton suspended golden pendulum swings violently off-center to save the tower from catastrophic typhoon resonance.",
     "Delta Works Maeslantkering Ball Joints: Why two bowling-ball-style hinges weighing 680 tons must constantly slide in raw mud to save the Netherlands from drowning.",
-    "How the General Electric GE9X turbofan bypass duct relies on vanishing 3D-printed ceramic matrix composites that endure 2,400-degree combustion gases without melting."
+    "How the General Electric GE9X turbofan bypass duct relies on vanishing 3D-printed ceramic matrix composites that endure 2,400-degree combustion gases without melting.",
+    "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 5,
-  "call_count": 331
+  "subcluster_idx": 2,
+  "fallback_idx": 3,
+  "call_count": 332
 }
