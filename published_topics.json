@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How sliding pendulum earthquake-proof base isolators let entire multi-story hospitals float freely on curved steel concave dishes during a violent seismic shockwave.",
     "Nuclear Submarine Ballast Systems: How 10,000-ton steel submarines dive 1,000 feet deep and blast high-pressure air to surface in seconds",
     "Burj Khalifa Vortex Shedding: How aerodynamic spiral setbacks confuse high-altitude desert winds so the world's tallest tower doesn't sway into collapse",
     "Subsea Immersed Tube Tunneling: How 50,000-ton concrete tunnel segments are precast on land, floated to sea, and sunk into underwater trenches",
@@ -89,9 +88,10 @@
     "How semi-submersible heavy-lift vessels like the Blue Marlin flood their internal ballast tanks to submerge completely beneath multi-ton offshore oil rigs.",
     "How the multi-story tuned sloshing water damper atop the Marina Bay Sands uses synchronized wave motion to bleed off kinetic energy from swaying high-rise frames.",
     "How Panama Canal culvert valves use reverse-water pressure differentials to stop 52 million gallons of water from ripping gate hinges apart.",
-    "How the C-13 steam catapult's internal water brake cylinder uses a retractable dog-leg spoon to violently water-stop a massive steel piston in just four feet."
+    "How the C-13 steam catapult's internal water brake cylinder uses a retractable dog-leg spoon to violently water-stop a massive steel piston in just four feet.",
+    "How high-capacity seismic lead-rubber bearings flex and isolate multi-story underground metro stations from destructive tectonic shockwaves."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 7,
-  "call_count": 336
+  "subcluster_idx": 2,
+  "fallback_idx": 8,
+  "call_count": 337
 }
