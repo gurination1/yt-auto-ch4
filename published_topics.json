@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Falkirk Wheel: The world's only rotating boat lift using the electric power of 8 boiling kettles to lift 600 tons of water and canal boats",
     "How sliding pendulum earthquake-proof base isolators let entire multi-story hospitals float freely on curved steel concave dishes during a violent seismic shockwave.",
     "Nuclear Submarine Ballast Systems: How 10,000-ton steel submarines dive 1,000 feet deep and blast high-pressure air to surface in seconds",
     "Burj Khalifa Vortex Shedding: How aerodynamic spiral setbacks confuse high-altitude desert winds so the world's tallest tower doesn't sway into collapse",
@@ -89,9 +88,10 @@
     "Cryogenic Ground Freezing: How engineers freeze millions of gallons of underground water solid with liquid nitrogen to drill tunnels under rivers",
     "How semi-submersible heavy-lift vessels like the Blue Marlin flood their internal ballast tanks to submerge completely beneath multi-ton offshore oil rigs.",
     "How the multi-story tuned sloshing water damper atop the Marina Bay Sands uses synchronized wave motion to bleed off kinetic energy from swaying high-rise frames.",
-    "How Panama Canal culvert valves use reverse-water pressure differentials to stop 52 million gallons of water from ripping gate hinges apart."
+    "How Panama Canal culvert valves use reverse-water pressure differentials to stop 52 million gallons of water from ripping gate hinges apart.",
+    "How the C-13 steam catapult's internal water brake cylinder uses a retractable dog-leg spoon to violently water-stop a massive steel piston in just four feet."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 6,
-  "call_count": 335
+  "subcluster_idx": 1,
+  "fallback_idx": 7,
+  "call_count": 336
 }
