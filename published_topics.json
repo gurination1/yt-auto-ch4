@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Subsea Immersed Tube Tunneling: How 50,000-ton concrete tunnel segments are precast on land, floated to sea, and sunk into underwater trenches",
     "Heavy Haul Train Dynamic Braking: How 20,000-ton iron ore trains convert immense gravitational kinetic energy into pure heat without wearing brakes",
     "How the Eurasia Tunnel's anti-seismic rubber-lead core bearings absorb millions of pounds of tectonic energy deep beneath the Bosphorus seabed.",
     "How NASA crawler-transporters employ specialized hydraulic compensating struts to absorb severe road irregularities without jolting multimillion-dollar spacecraft",
@@ -89,9 +88,10 @@
     "How the C-13 steam catapult's internal water brake cylinder uses a retractable dog-leg spoon to violently water-stop a massive steel piston in just four feet.",
     "How high-capacity seismic lead-rubber bearings flex and isolate multi-story underground metro stations from destructive tectonic shockwaves.",
     "How Bagger 293 distributes its massive 14,200-tonne operating weight across crawler tracks to prevent the world's largest land machine from sinking into mud.",
-    "How high-speed skyscraper elevator ropes use specialized electromagnetic brake shoes to instantly clamp guide rails during sudden power failures"
+    "How high-speed skyscraper elevator ropes use specialized electromagnetic brake shoes to instantly clamp guide rails during sudden power failures",
+    "How Delta Works' colossal floating Storm Surge Barrier pontoons use self-filling ballast chambers to sink onto underwater sills during catastrophic North Sea gales."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 10,
-  "call_count": 339
+  "subcluster_idx": 0,
+  "fallback_idx": 11,
+  "call_count": 340
 }
