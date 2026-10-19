@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How NASA crawler-transporters employ specialized hydraulic compensating struts to absorb severe road irregularities without jolting multimillion-dollar spacecraft",
     "How supertall skyscrapers use active mass dampers equipped with gigantic hydraulic actuators to violently fight back against unpredictable hurricane gusts.",
     "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds",
     "How Mach 7 hypersonic wind tunnels use copper-alloy throat nozzles that erode away by millimeters during a single 30-second run without melting.",
@@ -89,9 +88,10 @@
     "How high-speed skyscraper elevator ropes use specialized electromagnetic brake shoes to instantly clamp guide rails during sudden power failures",
     "How Delta Works' colossal floating Storm Surge Barrier pontoons use self-filling ballast chambers to sink onto underwater sills during catastrophic North Sea gales.",
     "The Falkirk Wheel: The world's only rotating boat lift using the electric power of 8 boiling kettles to lift 600 tons of water and canal boats",
-    "How liquid nitrogen ground-freezing creates temporary subterranean ice walls that allow tunneling machines to carve directly underneath busy city skyscrapers."
+    "How liquid nitrogen ground-freezing creates temporary subterranean ice walls that allow tunneling machines to carve directly underneath busy city skyscrapers.",
+    "Burj Khalifa Vortex Shedding: How aerodynamic spiral setbacks confuse high-altitude desert winds so the world's tallest tower doesn't sway into collapse"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 13,
-  "call_count": 342
+  "subcluster_idx": 3,
+  "fallback_idx": 15,
+  "call_count": 343
 }
