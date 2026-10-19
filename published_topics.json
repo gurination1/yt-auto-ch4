@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the Eurasia Tunnel's anti-seismic rubber-lead core bearings absorb millions of pounds of tectonic energy deep beneath the Bosphorus seabed.",
     "How NASA crawler-transporters employ specialized hydraulic compensating struts to absorb severe road irregularities without jolting multimillion-dollar spacecraft",
     "How supertall skyscrapers use active mass dampers equipped with gigantic hydraulic actuators to violently fight back against unpredictable hurricane gusts.",
     "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds",
@@ -89,9 +88,10 @@
     "How Bagger 293 distributes its massive 14,200-tonne operating weight across crawler tracks to prevent the world's largest land machine from sinking into mud.",
     "How high-speed skyscraper elevator ropes use specialized electromagnetic brake shoes to instantly clamp guide rails during sudden power failures",
     "How Delta Works' colossal floating Storm Surge Barrier pontoons use self-filling ballast chambers to sink onto underwater sills during catastrophic North Sea gales.",
-    "The Falkirk Wheel: The world's only rotating boat lift using the electric power of 8 boiling kettles to lift 600 tons of water and canal boats"
+    "The Falkirk Wheel: The world's only rotating boat lift using the electric power of 8 boiling kettles to lift 600 tons of water and canal boats",
+    "How liquid nitrogen ground-freezing creates temporary subterranean ice walls that allow tunneling machines to carve directly underneath busy city skyscrapers."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 12,
-  "call_count": 341
+  "subcluster_idx": 2,
+  "fallback_idx": 13,
+  "call_count": 342
 }
