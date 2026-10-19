@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds",
     "How Mach 7 hypersonic wind tunnels use copper-alloy throat nozzles that erode away by millimeters during a single 30-second run without melting.",
     "TBM Tungsten Carbide Disc Cutters: How 17-inch rolling steel cutters exert 25 tons of focused hydraulic thrust to pulverize bedrock into chips",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
@@ -89,9 +88,10 @@
     "The Falkirk Wheel: The world's only rotating boat lift using the electric power of 8 boiling kettles to lift 600 tons of water and canal boats",
     "How liquid nitrogen ground-freezing creates temporary subterranean ice walls that allow tunneling machines to carve directly underneath busy city skyscrapers.",
     "Burj Khalifa Vortex Shedding: How aerodynamic spiral setbacks confuse high-altitude desert winds so the world's tallest tower doesn't sway into collapse",
-    "How the Shanghai Tower's twisted double-skin glass facade uses aerodynamic tapering to shed 24% of wind drag loads during category-5 typhoons."
+    "How the Shanghai Tower's twisted double-skin glass facade uses aerodynamic tapering to shed 24% of wind drag loads during category-5 typhoons.",
+    "Subsea Immersed Tube Tunneling: How 50,000-ton concrete tunnel segments are precast on land, floated to sea, and sunk into underwater trenches"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 16,
-  "call_count": 344
+  "subcluster_idx": 0,
+  "fallback_idx": 18,
+  "call_count": 345
 }
