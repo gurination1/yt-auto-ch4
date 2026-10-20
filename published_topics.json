@@ -2,7 +2,6 @@
   "topics": [
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How heavy-lift transport vessels secure colossal floating cargo using custom-welded steel sea-fastening braces designed to withstand raging open-ocean rogue waves without snapping.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
@@ -89,9 +88,10 @@
     "Heavy Haul Train Dynamic Braking: How 20,000-ton iron ore trains convert immense gravitational kinetic energy into pure heat without wearing brakes",
     "Aircraft Oleo Struts: How nitrogen and hydraulic fluid shock absorbers swallow 200,000 pounds of kinetic touchdown energy in milliseconds",
     "TBM Tungsten Carbide Disc Cutters: How 17-inch rolling steel cutters exert 25 tons of focused hydraulic thrust to pulverize bedrock into chips",
-    "Jet Engine Thrust Reversers: How titanium clamshell cascades redirect 100,000 pounds of jet exhaust forward to stop airliners on icy runways"
+    "Jet Engine Thrust Reversers: How titanium clamshell cascades redirect 100,000 pounds of jet exhaust forward to stop airliners on icy runways",
+    "How Panama Canal\u2019s massive electro-mechanical miter gates maintain precise alignment under intense structural twisting without using single drops of water-lubricated seals."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 6,
-  "call_count": 349
+  "subcluster_idx": 0,
+  "fallback_idx": 7,
+  "call_count": 350
 }
