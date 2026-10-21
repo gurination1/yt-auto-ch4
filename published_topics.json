@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How heavy-lift transport vessels secure colossal floating cargo using custom-welded steel sea-fastening braces designed to withstand raging open-ocean rogue waves without snapping.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
@@ -89,9 +88,10 @@
     "TBM Tungsten Carbide Disc Cutters: How 17-inch rolling steel cutters exert 25 tons of focused hydraulic thrust to pulverize bedrock into chips",
     "Jet Engine Thrust Reversers: How titanium clamshell cascades redirect 100,000 pounds of jet exhaust forward to stop airliners on icy runways",
     "How Panama Canal\u2019s massive electro-mechanical miter gates maintain precise alignment under intense structural twisting without using single drops of water-lubricated seals.",
-    "Gotthard Base Tunnel Drilling: How 400-meter-long TBMs bored 57 kilometers through boiling Alpine granite under 7,500 feet of mountain pressure"
+    "Gotthard Base Tunnel Drilling: How 400-meter-long TBMs bored 57 kilometers through boiling Alpine granite under 7,500 feet of mountain pressure",
+    "The Taipei 101 Tuned Mass Damper: How a 660-ton pendulum suspended on 8 steel cables keeps a 1,600-foot skyscraper from snapping in typhoons"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 10,
-  "call_count": 351
+  "subcluster_idx": 2,
+  "fallback_idx": 2,
+  "call_count": 352
 }
