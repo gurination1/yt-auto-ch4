@@ -4,7 +4,6 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the Fehmarnbelt fixed link's specialized dredging clamshells excavate millions of cubic meters of hard seabed glacial till while battling intense Baltic Sea storm currents.",
     "Why Bagger 293's bucket-wheel teeth must be replaced with specialty tungsten carbides to keep from vaporizing on hidden ironstones",
     "How ultra-high-speed elevator regenerative drives harvest free electricity by converting descending multi-ton counterweights into giant generators during emergency stops.",
@@ -89,9 +88,10 @@
     "How Bagger 293's 21.6-meter bucket wheel utilizes individual hollow-scoop buckets that trap compressed air cushions to instantly eject sticky wet clay without jamming.",
     "The Bagger 293 Excavator: The 14,000-ton monster machine on Earth shifting 240,000 tons of earth daily with a 70-foot rotating wheel of blades",
     "The Dockwise Vanguard: The semi-submersible heavy-lift ship that sinks its own deck below the ocean to scoop up 110,000-ton oil platforms",
-    "The Panama Canal Gravity Locks: How massive water gates lift 100,000-ton container ships 85 feet above sea level with zero electric water pumps"
+    "The Panama Canal Gravity Locks: How massive water gates lift 100,000-ton container ships 85 feet above sea level with zero electric water pumps",
+    "The Maeslantkering Barrier: Two Eiffel-Tower-sized floating steel barrier gates that automatically swing shut to block 16-foot North Sea tidal surges"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 7,
-  "call_count": 356
+  "subcluster_idx": 2,
+  "fallback_idx": 8,
+  "call_count": 357
 }
