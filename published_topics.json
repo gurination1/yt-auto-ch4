@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the central bridle-retrieval system of steam-powered aircraft carrier catapults instantly discards launch tow-bars under extreme hydrodynamic pressure without snagging the hull.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
@@ -89,9 +88,10 @@
     "Gotthard Base Tunnel Drilling: How 400-meter-long TBMs bored 57 kilometers through boiling Alpine granite under 7,500 feet of mountain pressure",
     "The Taipei 101 Tuned Mass Damper: How a 660-ton pendulum suspended on 8 steel cables keeps a 1,600-foot skyscraper from snapping in typhoons",
     "How Bagger 293's 21.6-meter bucket wheel utilizes individual hollow-scoop buckets that trap compressed air cushions to instantly eject sticky wet clay without jamming.",
-    "The Bagger 293 Excavator: The 14,000-ton monster machine on Earth shifting 240,000 tons of earth daily with a 70-foot rotating wheel of blades"
+    "The Bagger 293 Excavator: The 14,000-ton monster machine on Earth shifting 240,000 tons of earth daily with a 70-foot rotating wheel of blades",
+    "The Dockwise Vanguard: The semi-submersible heavy-lift ship that sinks its own deck below the ocean to scoop up 110,000-ton oil platforms"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 4,
-  "call_count": 354
+  "subcluster_idx": 0,
+  "fallback_idx": 5,
+  "call_count": 355
 }
