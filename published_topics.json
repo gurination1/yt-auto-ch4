@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the Fehmarnbelt fixed link's specialized dredging clamshells excavate millions of cubic meters of hard seabed glacial till while battling intense Baltic Sea storm currents.",
     "Why Bagger 293's bucket-wheel teeth must be replaced with specialty tungsten carbides to keep from vaporizing on hidden ironstones",
     "How ultra-high-speed elevator regenerative drives harvest free electricity by converting descending multi-ton counterweights into giant generators during emergency stops.",
@@ -89,9 +88,10 @@
     "The Maeslantkering Barrier: Two Eiffel-Tower-sized floating steel barrier gates that automatically swing shut to block 16-foot North Sea tidal surges",
     "Nuclear Submarine Ballast Systems: How 10,000-ton steel submarines dive 1,000 feet deep and blast high-pressure air to surface in seconds",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 0,
+  "subcluster_idx": 1,
   "fallback_idx": 14,
-  "call_count": 360
+  "call_count": 361
 }
