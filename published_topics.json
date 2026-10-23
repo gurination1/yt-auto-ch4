@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the Tokyo Skytree's central pillar acts as a colossal inverted pendulum to fight earthquakes using oil dampers",
     "How NASA crawler-transporters utilize laser-guided leveling jacks to prevent multi-million dollar Artemis rockets from tilting past critical tolerances during transport.",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "How the Delta Works Oosterscheldekering Sluice Gates Filter Massive Tidal Currents While Maintaining Open Estuary Ecosystems",
@@ -89,9 +88,10 @@
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
+    "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp",
     "Military Hovercraft Neoprene Skirts: How 150-ton LCAC amphibious vehicles float on low-pressure trapped air over solid land and swamp"
   ],
-  "subcluster_idx": 1,
+  "subcluster_idx": 2,
   "fallback_idx": 14,
-  "call_count": 371
+  "call_count": 372
 }
